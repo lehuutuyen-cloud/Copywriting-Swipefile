@@ -1,0 +1,41 @@
+name: Update Library Index
+
+on:
+  push:
+    paths:
+      - 'books/**' # Chỉ chạy khi có thay đổi trong thư mục books
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Generate Index JSON
+      run: |
+        echo "[" > index.json
+        FIRST=1
+        # Duyệt qua các folder trong books/
+        for d in books/*/; do
+            if [ -f "${d}metadata.json" ]; then
+                if [ $FIRST -eq 0 ]; then echo "," >> index.json; fi
+                
+                # Lấy nội dung metadata
+                cat "${d}metadata.json" >> index.json
+                
+                # Thêm danh sách các chương vào JSON (Optional - nâng cao)
+                # Ở mức cơ bản, chúng ta chỉ cần list các sách có sẵn
+                FIRST=0
+            fi
+        done
+        echo "]" >> index.json
+        
+        # Format lại JSON cho đẹp (nếu cần)
+        # python3 -m json.tool index.json > index_formatted.json && mv index_formatted.json index.json
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add index.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update library index" && git push)
