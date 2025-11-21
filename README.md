@@ -46,26 +46,31 @@ Cấu trúc thư mục được tổ chức theo nguyên tắc "Máy đọc đư
 
 ```text
 Copywriting-Swipefile/
+lehuutuyen-swipefile/
 │
 ├── .github/
 │   └── workflows/
-│       └── update_index.yml    # <--- "BỘ NÃO" TỰ ĐỘNG HÓA (Sẽ giải thích ở mục 4)
+│       └── update_sitemap.yml    # [FILE QUAN TRỌNG] File cấu hình tự động hóa
 │
-├── books/                      # Thư mục chứa sách
-│   ├── breakthrough_advertising/
-│   │   ├── metadata.json       # Dữ liệu cuốn sách
-│   │   ├── chapter_01_mass_desire.txt
-│   │   └── chapter_02_state_of_awareness.txt
-│   │
-│   └── the_boron_letters/      # Ví dụ sách thứ 2
-│       ├── metadata.json
-│       └── chapter_01_intro.txt
+├── scripts/
+│   └── generate_index.py         # [FILE QUAN TRỌNG] Code Python để quét thư mục
 │
 ├── templates/
-│   └── chapter_template.txt    # Mẫu định dạng chuẩn cho AI
+│   └── chapter_template.txt      # Mẫu định dạng chương (chuẩn cho AI)
 │
-├── index.json                  # Sitemap (AI tự động cập nhật, bạn KHÔNG cần sửa)
-└── README.md                   # Hướng dẫn sử dụng
+├── books/                        # Thư mục chứa sách
+│   └── breakthrough_advertising/
+│   │    ├── metadata.json         # Thông tin sách (Tên, Tác giả, Năm...)
+│   │    ├── chapter_01_mass_desire.txt
+│   │    ├── chapter_02_state_of_awareness.txt
+│   │    └── ...
+│   │
+│   └── the_boron_letters/      # Ví dụ sách thứ 2
+│        ├── metadata.json
+│        └── chapter_01_intro.txt
+│
+├── index.json                    # File này sẽ được TỰ ĐỘNG tạo/cập nhật
+└── README.md                     # Hướng dẫn sử dụng
 ```
 
 
