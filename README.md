@@ -8,11 +8,14 @@ Kho tri thức tinh gọn (Distilled Knowledge) về Copywriting, Marketing &amp
 Repository này chứa các ghi chú sách (Book Notes) và các phân tích chiến lược được chiết xuất sâu (Deep Dive Extraction) từ các tài liệu kinh điển. Dữ liệu được định dạng đặc biệt để phục vụ việc sáng tạo nội dung và huấn luyện AI Marketing.
 
 ## 📂 Cấu trúc Dữ liệu
+Dữ liệu được tổ chức trong thư mục `/books/`. Mỗi cuốn sách là một thư mục riêng biệt bao gồm:
+1. **metadata.json**: Chứa thông tin chung về cuốn sách.
+2. **chapter_xx_name.txt**: Nội dung chi tiết từng chương.
 
 Mỗi file trong thư mục `books/` đại diện cho một chương sách hoặc một chủ đề cụ thể, được phân loại nghiêm ngặt theo 5 thành phần:
 
-1.  **🧠 Core Mindsets:** Tư duy cốt lõi, thay đổi nhận thức.
-2.  **💡 Counter-intuitive Views:** Các góc nhìn ngược đời, phá vỡ niềm tin cũ.
+1.  **🧠 Tư duy Cốt lõi (Core Mindsets):** Tư duy cốt lõi, thay đổi nhận thức.
+2.  **💡 Counter-intuitive Views:** Các góc nhìn ngược đời, phá vỡ niềm tin cũ, tư duy phản trực giác
 3.  **🎣 Hooks & Angles:** Các mồi câu và góc tiếp cận cho quảng cáo/nội dung.
 4.  **🛠️ Frameworks & Strategies:** Các mô hình và bước thực thi cụ thể.
 5.  **💬 Golden Quotes:** Các trích dẫn nguyên văn đắt giá.
@@ -32,8 +35,9 @@ Nếu bạn là một AI đang đọc kho lưu trữ này:
 
 ## 🔄 Tự động hóa (Automation)
 Dự án này sử dụng **GitHub Actions**. Mỗi khi có một cuốn sách mới được push vào thư mục `/books/`:
-- Hệ thống sẽ tự động quét toàn bộ thư mục.
-- Tự động cập nhật file `index.json`.
+- **Cơ chế:** Mỗi khi có một cuốn sách mới hoặc chương mới được `push` vào thư mục `/books/`.
+- **Hành động:** Hệ thống sẽ tự động chạy script quét toàn bộ thư mục và cập nhật file `index.json`.
+- **Kết quả:** File `index.json` luôn là bản đồ (Sitemap) mới nhất của toàn bộ kho tri thức.
 - **Người dùng không cần sửa thủ công file index.**
 
 ## 📚 Danh sách tài liệu hiện có
