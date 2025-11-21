@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 5 - Case Study Tai Lopez (Conquer Your Mountain)
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Storytelling Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: Storytelling, Tai Lopez, Metaphor, Social Proof, Inspiration, Viral Ad
+# TITLE: Mẫu Quảng Cáo Số 5 - Case Study Tai Lopez (Conquer Your Mountain)
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Storytelling Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Storytelling, Tai Lopez, Metaphor, Social Proof, Inspiration, Viral Ad
 ---
 
-# Chương 6: Mẫu Quảng Cáo Storytelling Kinh Điển - Tai Lopez
-```text
-- Tiêu đề (Hook): Bạn đang đứng trên một ngọn núi cao 1.000 feet...
-- Loại: Storytelling Cổ Điển (Classic Storytelling) / Inspirational (Truyền cảm hứng)
-- Nguồn: swipfile_ads_20250628.json
-```
+## Campaign 6: Mẫu Quảng Cáo Storytelling Kinh Điển - Tai Lopez
+
+- **Tiêu đề (Hook):** Bạn đang đứng trên một ngọn núi cao 1.000 feet...
+- **Loại:** Storytelling Cổ Điển (Classic Storytelling) / Inspirational (Truyền cảm hứng)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
