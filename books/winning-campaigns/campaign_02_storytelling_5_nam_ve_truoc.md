@@ -12,7 +12,7 @@
 **TAGS:** Storytelling, Facebook Ads, Hook, Curiosity, Fail to Success
 ---
 
-# Chương 2: Mẫu Quảng Cáo Storytelling Kinh Điển
+## Campaign 2: Mẫu Quảng Cáo Storytelling Kinh Điển
 
 - **Tiêu đề (Hook):** 5 năm về trước, tôi bắt đầu kinh doanh trên Internet...
 - **Loại:** Storytelling (Kể chuyện) / Fail-to-Success (Từ thất bại đến thành công)
