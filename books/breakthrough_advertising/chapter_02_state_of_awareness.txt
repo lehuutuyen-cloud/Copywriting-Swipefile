@@ -7,6 +7,43 @@ LAST_UPDATED: 2025-11-21
 TAGS: Eugene Schwartz, Copywriting, State of Awareness, Market Sophistication, Sales Psychology, Headline Strategy
 ---
 
+## Kiến thức chương 2
+
+### 1. Nhiệm vụ duy nhất của Tiêu đề (The Headline's Real Job)
+Tiêu đề không có nhiệm vụ bán sản phẩm. Nó cũng không nhất thiết phải nhắc đến tên sản phẩm. Nhiệm vụ duy nhất của nó là **ngăn khách hàng lại** (stop the prospect) và buộc họ phải đọc câu đầu tiên của bài viết.
+* Nếu bạn cố bán hàng ngay ở tiêu đề khi khách hàng chưa sẵn sàng, bạn sẽ lãng phí ngân sách quảng cáo.
+* Tiêu đề là "cây cầu" nối giữa Khách hàng và Sản phẩm.
+
+### 2. Ba câu hỏi định hình Tiêu đề
+Để viết một tiêu đề hiệu quả, bạn phải trả lời 3 câu hỏi:
+1.  **Mong muốn:** Khao khát đại chúng nào tạo ra thị trường này?
+2.  **Nhận thức:** Khách hàng biết bao nhiêu về cách sản phẩm của bạn thỏa mãn khao khát đó?
+3.  **Sành sỏi/ Bão hoà:** Họ đã nghe bao nhiêu sản phẩm tương tự trước đây? (Chương 3).
+
+### 3. Năm Mức độ Nhận thức (The 5 States of Awareness)
+Đây là yếu tố quyết định *bạn phải nói gì* trong tiêu đề. Mỗi mức độ đòi hỏi một chiến lược tiếp cận hoàn toàn khác nhau:
+
+1.  **Nhận thức cao nhất (The Most Aware):**
+    * *Trạng thái:* Khách hàng biết sản phẩm, muốn mua, chỉ chờ ưu đãi.
+    * *Chiến lược:* **Trực diện**. Nêu tên sản phẩm và Giá cả/Ưu đãi. (Ví dụ: "Giảm giá 50% hôm nay").
+2.  **Biết sản phẩm (Product Aware):**
+    * *Trạng thái:* Khách hàng biết tên sản phẩm nhưng chưa tin nó tốt hơn đối thủ.
+    * *Chiến lược:* **Củng cố**. Nêu sự vượt trội, bằng chứng mới, hoặc cơ chế hoạt động mới. (Ví dụ: "Tại sao hàng ngàn người chuyển sang dùng...").
+3.  **Biết giải pháp (Solution Aware):**
+    * *Trạng thái:* Khách hàng biết mình muốn gì (Kết quả), nhưng chưa biết sản phẩm nào làm được.
+    * *Chiến lược:* **Lời hứa**. Nêu bật khao khát/giải pháp và chứng minh cơ chế. (Ví dụ: "Cách để làm trắng răng trong 3 ngày").
+4.  **Biết vấn đề (Problem Aware):**
+    * *Trạng thái:* Khách hàng chỉ cảm thấy đau/khó chịu, chưa biết có giải pháp tồn tại.
+    * *Chiến lược:* **Vấn đề - Giải pháp**. Kịch tính hóa nỗi đau và hé lộ giải pháp. (Ví dụ: "Bạn có bị đau lưng mỗi sáng thức dậy?").
+5.  **Chưa nhận thức (Unaware):**
+    * *Trạng thái:* Khách hàng không biết mình có vấn đề, hoặc không quan tâm. Đây là nhóm khó nhất nhưng đông nhất.
+    * *Chiến lược:* **Định danh (Identification)**. Tuyệt đối KHÔNG nhắc đến sản phẩm, giá cả hay công dụng trong tiêu đề. Đánh vào cảm xúc, câu chuyện, hoặc ước mơ thầm kín để "nhập vai" với khách hàng. (Ví dụ: "Gửi những người đàn ông muốn nghỉ hưu sớm").
+
+### 4. Quy luật "Cánh cửa đóng kín"
+Mỗi mức độ nhận thức được ngăn cách bởi một bức tường tâm lý. Một tiêu đề thành công ở mức độ này sẽ thất bại thảm hại ở mức độ khác.
+* Bạn không thể dùng tiêu đề bán hàng (Cấp 1) cho khách hàng lạnh (Cấp 5).
+* Bạn cũng không nên dùng tiêu đề kể chuyện vòng vo (Cấp 5) cho khách hàng đang khao khát mua ngay (Cấp 1).
+
 ## 🧠 Tư duy Cốt lõi (Core Mindsets)
 * **Tiêu đề là Lối vào của Cây cầu (The Headline as a Bridge Entry):** Quảng cáo là cây cầu nối giữa thị trường và sản phẩm. Tiêu đề chính là lối vào của cây cầu đó. Một lối vào kém hiệu quả sẽ khiến khách hàng không bao giờ bước lên cầu, bất kể sản phẩm ở đầu kia tốt đến đâu.
 * **Nhiệm vụ duy nhất của Tiêu đề (The Headline's Only Job):** Tiêu đề không có nhiệm vụ bán sản phẩm. Nó chỉ có một nhiệm vụ duy nhất: Ngăn khách hàng lại (Stop the prospect) và buộc họ phải đọc câu thứ hai. Tương tự, câu thứ hai bán câu thứ ba. Nếu bạn cố bán hàng ngay ở tiêu đề với khách hàng chưa sẵn sàng, bạn đang đánh bạc với ngân sách của mình.
