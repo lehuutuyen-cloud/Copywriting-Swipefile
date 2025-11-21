@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 11 - Mài Rìu Trước Khi Chặt Cây
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Educational Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: Pareto Principle, 80/20 Rule, Preparation, Optimization, Metaphor
+# TITLE: Mẫu Quảng Cáo Số 12 - Mài Rìu Trước Khi Chặt Cây
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Educational Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Pareto Principle, 80/20 Rule, Preparation, Optimization, Metaphor
 ---
 
-# Chương 12: Mẫu Quảng Cáo Lập Luận 80/20 - Mài Rìu Trước Khi Chặt Cây
-```text
-- Tiêu đề (Hook): Bạn có phát mệt với 99% những bài quảng cáo bạn bắt gặp hàng ngày?
-- Loại: Lập Luận 80/20 (Pareto Argument) / Metaphor (Ẩn dụ)
-- Nguồn: swipfile_ads_20250628.json
-```
+## Campaign 12: Mẫu Quảng Cáo Lập Luận 80/20 - Mài Rìu Trước Khi Chặt Cây
+
+- **Tiêu đề (Hook):** Bạn có phát mệt với 99% những bài quảng cáo bạn bắt gặp hàng ngày?
+- **Loại:** Lập Luận 80/20 (Pareto Argument) / Metaphor (Ẩn dụ)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
