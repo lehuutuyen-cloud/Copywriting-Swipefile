@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 04:10:07",
+  "last_updated": "2025-11-21 04:38:04",
   "total_books": 2,
   "books": [
     {
@@ -9,14 +9,16 @@
         "title": "Breakthrough Advertising",
         "author": "Eugene M. Schwartz",
         "year": 1966,
-        "category": "Copywriting & Marketing",
+        "publisher": "Boardroom Books (Re-issued 2004)",
+        "category": "Marketing & Copywriting",
         "tags": [
-          "classic",
-          "psychology",
+          "copywriting",
+          "marketing psychology",
           "mass desire",
-          "market sophistication"
+          "market sophistication",
+          "classic"
         ],
-        "description": "Cuốn sách kinh điển về copywriting, tập trung vào tâm lý học thị trường, mức độ nhận thức và sự tinh vi của khách hàng."
+        "description": "Cuốn sách kinh điển của Eugene Schwartz về cách khai thác 'Khao khát Đại chúng' (Mass Desire), xác định 'Mức độ Nhận thức' (State of Awareness) và điều hướng thị trường thông qua các kỹ thuật viết quảng cáo đột phá."
       },
       "chapters": []
     },
