@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 14 - Công Thức Bí Mật 4 Bước
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Lead Magnet Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: Lead Magnet, Secret Formula, Curiosity, Scarcity, Opt-in, Reverse Psychology
+# TITLE: Mẫu Quảng Cáo Số 14 - Công Thức Bí Mật 4 Bước
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Lead Magnet Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Lead Magnet, Secret Formula, Curiosity, Scarcity, Opt-in, Reverse Psychology
 ---
 
-# Chương 15: Mẫu Quảng Cáo Lead Magnet - Công Thức Bí Mật 4 Bước
-```text
-- Tiêu đề (Hook):** Đừng xem những gì bên dưới!!
-- Loại:** Lập Luận Công Thức Bí Mật (Secret Formula Argument) / Lead Magnet (Nam châm thu hút khách hàng)
-- Nguồn:** swipfile_ads_20250628.json
-```
+## Campaign 15: Mẫu Quảng Cáo Lead Magnet - Công Thức Bí Mật 4 Bước
+
+- **Tiêu đề (Hook):** Đừng xem những gì bên dưới!!
+- **Loại:** Lập Luận Công Thức Bí Mật (Secret Formula Argument) / Lead Magnet (Nam châm thu hút khách hàng)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
