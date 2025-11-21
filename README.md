@@ -42,9 +42,12 @@ Dự án này sử dụng **GitHub Actions**. Mỗi khi có một cuốn sách m
 * *(Sẽ cập nhật thêm)*
 
 ## Cấu trúc thư mục (File Structure)
-- Copywriting-Swipefile/
-- │
-- ├── .github/
+Cấu trúc thư mục được tổ chức theo nguyên tắc "Máy đọc được" (Machine-readable):
+
+```text
+Copywriting-Swipefile/
+│
+├── .github/
 - │   └── workflows/
 - │       └── update_index.yml    # <--- "BỘ NÃO" TỰ ĐỘNG HÓA (Sẽ giải thích ở mục 4)
 - │
