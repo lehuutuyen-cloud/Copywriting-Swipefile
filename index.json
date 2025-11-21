@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 08:51:23",
+  "last_updated": "2025-11-21 08:55:31",
   "total_books": 2,
   "books": [
     {
@@ -60,6 +60,10 @@
         {
           "filename": "chapter_10_redefinition.txt",
           "path": "books/breakthrough_advertising/chapter_10_redefinition.txt"
+        },
+        {
+          "filename": "chapter_11_mechanization.txt",
+          "path": "books/breakthrough_advertising/chapter_11_mechanization.txt"
         }
       ]
     },
