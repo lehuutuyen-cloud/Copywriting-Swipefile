@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 05:01:09",
+  "last_updated": "2025-11-21 05:15:22",
   "total_books": 2,
   "books": [
     {
@@ -20,7 +20,12 @@
         ],
         "description": "Cuốn sách kinh điển của Eugene Schwartz về cách khai thác 'Khao khát Đại chúng' (Mass Desire), xác định 'Mức độ Nhận thức' (State of Awareness) và điều hướng thị trường thông qua các kỹ thuật viết quảng cáo đột phá."
       },
-      "chapters": []
+      "chapters": [
+        {
+          "filename": "chapter_02_state_of_awareness.txt",
+          "path": "books/breakthrough_advertising/chapter_02_state_of_awareness.txt"
+        }
+      ]
     },
     {
       "id": "great_lead",
