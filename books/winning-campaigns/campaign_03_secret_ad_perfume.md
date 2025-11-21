@@ -1,13 +1,13 @@
-- TITLE: Mẫu Quảng Cáo Số 2 - Dạng Secret (Bí mật nước hoa)
-- BOOK: Copywriting Swipe File
-- AUTHOR: Lê Hữu Tuyến
-- URL: swipfile_ads_20250628.json
-- TYPE: Facebook Ad
-- LAST_UPDATED: 2025-06-28
-- TAGS: Secret Lead, Curiosity, Handmade Perfume, Social Proof, Storytelling
+# TITLE: Mẫu Quảng Cáo Số 2 - Dạng Secret (Bí mật nước hoa)
+- **BOOK:** Copywriting Swipe File
+- **AUTHOR:** Lê Hữu Tuyến
+- **URL:** swipfile_ads_20250628.json
+- **TYPE:** Facebook Ad
+- **LAST_UPDATED:** 2025-06-28
+- **TAGS:** Secret Lead, Curiosity, Handmade Perfume, Social Proof, Storytelling
 ---
 
-# Chương 3: Mẫu Quảng Cáo Secret Kinh Điển
+## Campaign 3: Mẫu Quảng Cáo Secret Kinh Điển
 
 - **Tiêu đề (Hook):** Tôi sắp sửa chia sẻ với bạn một bí mật...
 - **Loại:** Secret (Bí mật) / Curiosity (Tò mò)
