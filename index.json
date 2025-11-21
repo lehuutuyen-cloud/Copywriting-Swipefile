@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 06:30:55",
+  "last_updated": "2025-11-21 06:37:12",
   "total_books": 2,
   "books": [
     {
@@ -36,6 +36,10 @@
         {
           "filename": "chapter_04_strengthen_headline.txt",
           "path": "books/breakthrough_advertising/chapter_04_strengthen_headline.txt"
+        },
+        {
+          "filename": "chapter_05_creative_planning.txt",
+          "path": "books/breakthrough_advertising/chapter_05_creative_planning.txt"
         }
       ]
     },
