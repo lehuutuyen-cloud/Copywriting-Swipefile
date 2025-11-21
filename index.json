@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 09:41:20",
+  "last_updated": "2025-11-21 09:46:10",
   "total_books": 2,
   "books": [
     {
@@ -103,6 +103,10 @@
         {
           "filename": "chapter_02_customer_awareness_levels.txt",
           "path": "books/great_lead/chapter_02_customer_awareness_levels.txt"
+        },
+        {
+          "filename": "chapter_03_direct_or_indirect.txt",
+          "path": "books/great_lead/chapter_03_direct_or_indirect.txt"
         }
       ]
     }
