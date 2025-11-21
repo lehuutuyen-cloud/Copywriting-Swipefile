@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 10:02:55",
+  "last_updated": "2025-11-21 10:05:48",
   "total_books": 2,
   "books": [
     {
@@ -131,6 +131,10 @@
         {
           "filename": "chapter_09_the_story_lead.txt",
           "path": "books/great_lead/chapter_09_the_story_lead.txt"
+        },
+        {
+          "filename": "chapter_10_how_to_make_this_system_work_for_you.txt",
+          "path": "books/great_lead/chapter_10_how_to_make_this_system_work_for_you.txt"
         }
       ]
     }
