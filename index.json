@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 09:28:33",
+  "last_updated": "2025-11-21 09:30:42",
   "total_books": 2,
   "books": [
     {
@@ -81,7 +81,20 @@
     },
     {
       "id": "great_lead",
-      "info": {},
+      "info": {
+        "id": "great_leads",
+        "title": "Great Leads: The Six Easiest Ways to Start Any Sales Message",
+        "author": "Michael Masterson & John Forde",
+        "year": 2011,
+        "tags": [
+          "copywriting",
+          "direct_response",
+          "sales_leads",
+          "customer_awareness",
+          "persuasion"
+        ],
+        "description": "Cuốn sách giáo khoa về 6 loại hình mở bài (Lead) trong Copywriting, giúp xác định cách tiếp cận khách hàng dựa trên 'Mức độ Nhận thức' (Awareness Level) để tối đa hóa tỷ lệ chuyển đổi."
+      },
       "chapters": []
     }
   ]
