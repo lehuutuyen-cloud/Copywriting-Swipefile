@@ -1,4 +1,4 @@
-# TITLE: Mẫu Quảng Cáo Số 3 - Dạng Advertorial (Bà Bầu)
+# TITLE: Mẫu Quảng Cáo Số 4 - Dạng Advertorial (Bà Bầu)
 - **BOOK:** Copywriting Swipe File
 - **AUTHOR:** Lê Hữu Tuyến
 - **URL:** swipfile_ads_20250628.json
