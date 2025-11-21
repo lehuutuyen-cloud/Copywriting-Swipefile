@@ -1,0 +1,24 @@
+{
+  "last_updated": "2025-11-21 04:07:53",
+  "total_books": 1,
+  "books": [
+    {
+      "id": "breakthrough_advertising",
+      "info": {
+        "id": "breakthrough_advertising",
+        "title": "Breakthrough Advertising",
+        "author": "Eugene M. Schwartz",
+        "year": 1966,
+        "category": "Copywriting & Marketing",
+        "tags": [
+          "classic",
+          "psychology",
+          "mass desire",
+          "market sophistication"
+        ],
+        "description": "Cuốn sách kinh điển về copywriting, tập trung vào tâm lý học thị trường, mức độ nhận thức và sự tinh vi của khách hàng."
+      },
+      "chapters": []
+    }
+  ]
+}
