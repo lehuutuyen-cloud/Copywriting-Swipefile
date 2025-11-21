@@ -8,11 +8,11 @@
 ---
 
 # Chương 3: Mẫu Quảng Cáo Secret Kinh Điển
-```text
-- Tiêu đề (Hook): Tôi sắp sửa chia sẻ với bạn một bí mật...
-- Loại: Secret (Bí mật) / Curiosity (Tò mò)
-- Nguồn: swipfile_ads_20250628.json
-```
+
+- **Tiêu đề (Hook):** Tôi sắp sửa chia sẻ với bạn một bí mật...
+- **Loại:** Secret (Bí mật) / Curiosity (Tò mò)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
