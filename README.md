@@ -48,7 +48,6 @@ Cấu trúc thư mục được tổ chức theo nguyên tắc "Máy đọc đư
 
 ```text
 Copywriting-Swipefile/
-lehuutuyen-swipefile/
 │
 ├── .github/
 │   └── workflows/
