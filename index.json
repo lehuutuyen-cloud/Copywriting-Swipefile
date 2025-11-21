@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 07:27:17",
+  "last_updated": "2025-11-21 07:37:46",
   "total_books": 2,
   "books": [
     {
@@ -48,6 +48,10 @@
         {
           "filename": "chapter_07_intensification.txt",
           "path": "books/breakthrough_advertising/chapter_07_intensification.txt"
+        },
+        {
+          "filename": "chapter_08_identification.txt",
+          "path": "books/breakthrough_advertising/chapter_08_identification.txt"
         }
       ]
     },
