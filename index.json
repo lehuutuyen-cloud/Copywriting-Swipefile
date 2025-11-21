@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 09:52:09",
+  "last_updated": "2025-11-21 09:53:55",
   "total_books": 2,
   "books": [
     {
@@ -115,6 +115,10 @@
         {
           "filename": "chapter_05_the_promise_lead.txt",
           "path": "books/great_lead/chapter_05_the_promise_lead.txt"
+        },
+        {
+          "filename": "chapter_06_the_problem_solution_lead.txt",
+          "path": "books/great_lead/chapter_06_the_problem_solution_lead.txt"
         }
       ]
     }
