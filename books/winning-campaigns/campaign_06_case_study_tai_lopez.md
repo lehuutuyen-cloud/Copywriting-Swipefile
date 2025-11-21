@@ -1,4 +1,4 @@
-# TITLE: Mẫu Quảng Cáo Số 5 - Case Study Tai Lopez (Conquer Your Mountain)
+# TITLE: Mẫu Quảng Cáo Số 6 - Case Study Tai Lopez (Conquer Your Mountain)
 * **BOOK:** Copywriting Swipe File
 * **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
 * **URL:** swipfile_ads_20250628.json
