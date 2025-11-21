@@ -42,27 +42,27 @@ Dự án này sử dụng **GitHub Actions**. Mỗi khi có một cuốn sách m
 * *(Sẽ cập nhật thêm)*
 
 ## Cấu trúc thư mục (File Structure)
-Copywriting-Swipefile/
-│
-├── .github/
-│   └── workflows/
-│       └── update_index.yml    # <--- "BỘ NÃO" TỰ ĐỘNG HÓA (Sẽ giải thích ở mục 4)
-│
-├── books/                      # Thư mục chứa sách
-│   ├── breakthrough_advertising/
-│   │   ├── metadata.json       # Dữ liệu cuốn sách
-│   │   ├── chapter_01_mass_desire.txt
-│   │   └── chapter_02_state_of_awareness.txt
-│   │
-│   └── the_boron_letters/      # Ví dụ sách thứ 2
-│       ├── metadata.json
-│       └── chapter_01_intro.txt
-│
-├── templates/
-│   └── chapter_template.txt    # Mẫu định dạng chuẩn cho AI
-│
-├── index.json                  # Sitemap (AI tự động cập nhật, bạn KHÔNG cần sửa)
-└── README.md                   # Hướng dẫn sử dụng
+- Copywriting-Swipefile/
+- │
+- ├── .github/
+- │   └── workflows/
+- │       └── update_index.yml    # <--- "BỘ NÃO" TỰ ĐỘNG HÓA (Sẽ giải thích ở mục 4)
+- │
+- ├── books/                      # Thư mục chứa sách
+- │   ├── breakthrough_advertising/
+- │   │   ├── metadata.json       # Dữ liệu cuốn sách
+- │   │   ├── chapter_01_mass_desire.txt
+- │   │   └── chapter_02_state_of_awareness.txt
+- │   │
+- │   └── the_boron_letters/      # Ví dụ sách thứ 2
+- │       ├── metadata.json
+- │       └── chapter_01_intro.txt
+- │
+- ├── templates/
+- │   └── chapter_template.txt    # Mẫu định dạng chuẩn cho AI
+- │
+- ├── index.json                  # Sitemap (AI tự động cập nhật, bạn KHÔNG cần sửa)
+- └── README.md                   # Hướng dẫn sử dụng
 
 
 
