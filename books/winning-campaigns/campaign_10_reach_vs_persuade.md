@@ -1,4 +1,4 @@
-# TITLE: Mẫu Quảng Cáo Số 9 - Tiếp Cận vs. Thuyết Phục
+# TITLE: Mẫu Quảng Cáo Số 10 - Tiếp Cận vs. Thuyết Phục
 * **BOOK:** Copywriting Swipe File
 * **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
 * **URL:** swipfile_ads_20250628.json
