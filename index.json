@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 10:57:58",
+  "last_updated": "2025-11-21 10:58:51",
   "total_books": 4,
   "books": [
     {
@@ -144,7 +144,23 @@
     },
     {
       "id": "vls",
-      "info": {},
+      "info": {
+        "id": "vsl_13_step_blueprint",
+        "title": "Cơ sở tri thức: Kịch Bản Video Bán Hàng 13 Bước",
+        "author": "Lê Hữu Tuyến",
+        "year": 2025,
+        "publisher": "Flowmaker™",
+        "category": "Video Marketing & Copywriting",
+        "tags": [
+          "VSL",
+          "Video Sales Letter",
+          "13-Step Formula",
+          "Sales Psychology",
+          "Conversion Optimization",
+          "Flowmaker"
+        ],
+        "description": "Phân tích chuyên sâu và giải mã quy trình 13 bước tạo Video Bán Hàng (VSL) tối ưu chuyển đổi. Tài liệu tổng hợp các nguyên tắc tâm lý học hành vi (AIDA, PAS, Cialdini) và kỹ thuật copywriting để xây dựng kịch bản bán hàng tự động."
+      },
       "chapters": []
     },
     {
