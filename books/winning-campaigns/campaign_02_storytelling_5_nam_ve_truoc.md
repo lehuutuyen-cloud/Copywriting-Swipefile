@@ -9,9 +9,9 @@
 
 # Chương 2: Mẫu Quảng Cáo Storytelling Kinh Điển
 
-- Tiêu đề (Hook): 5 năm về trước, tôi bắt đầu kinh doanh trên Internet...
-- Loại: Storytelling (Kể chuyện) / Fail-to-Success (Từ thất bại đến thành công)
-- Nguồn: swipfile_ads_20250628.json
+- **Tiêu đề (Hook):** 5 năm về trước, tôi bắt đầu kinh doanh trên Internet...
+- **Loại:** Storytelling (Kể chuyện) / Fail-to-Success (Từ thất bại đến thành công)
+- **Nguồn:** swipfile_ads_20250628.json
 
 ---
 
