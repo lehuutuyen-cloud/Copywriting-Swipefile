@@ -1,4 +1,4 @@
-# TITLE: Mẫu Quảng Cáo Số 4 - Tư Duy Marketing (Một đến Nhiều)
+# TITLE: Mẫu Quảng Cáo Số 5 - Tư Duy Marketing (Một đến Nhiều)
 - **BOOK:** Copywriting Swipe File
 - **AUTHOR:** Lê Hữu Tuyến
 - **URL:** swipfile_ads_20250628.json
