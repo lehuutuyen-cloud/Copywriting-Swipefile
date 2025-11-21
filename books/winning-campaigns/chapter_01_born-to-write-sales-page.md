@@ -1,10 +1,10 @@
-TITLE: Born To Write - Sales Page - Hành trình "Nghìn đơn"
-BOOK: Born To Write Project
-AUTHOR: Sơn Nguyễn
-URL: Advertorial_lp_borntowrite.json
-TYPE: SalesLetter
-LAST_UPDATED: 2025-11-21
-TAGS: Storytelling, Sales Letter, Copywriting, Advertorial, Hero's Journey
+- TITLE: Born To Write - Sales Page - Hành trình "Nghìn đơn"
+- BOOK: Born To Write Project
+- AUTHOR: Sơn Nguyễn
+- URL: Advertorial_lp_borntowrite.json
+- TYPE: SalesLetter
+- LAST_UPDATED: 2025-11-21
+- TAGS: Storytelling, Sales Letter, Copywriting, Advertorial, Hero's Journey
 
 ---
 
