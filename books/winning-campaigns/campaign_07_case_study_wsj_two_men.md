@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 6 - Case Study Wall Street Journal (Two Men)
-* BOOK: Copywriting Swipe File
-* AUTHOR: Martin Conroy (Phân tích bởi Lê Hữu Tuyến)
-* URL: swipfile_ads_20250628.json
-* TYPE: Direct Mail
-* LAST_UPDATED: 2025-06-28
-* TAGS: Storytelling, Direct Mail, Wall Street Journal, Curiosity, Contrast, Legend
+# TITLE: Mẫu Quảng Cáo Số 6 - Case Study Wall Street Journal (Two Men)
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Martin Conroy (Phân tích bởi Lê Hữu Tuyến)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Direct Mail
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Storytelling, Direct Mail, Wall Street Journal, Curiosity, Contrast, Legend
 ---
 
-# Chương 7: Mẫu Quảng Cáo Direct Mail Huyền Thoại - WSJ "Two Men"
-```text
-- Tiêu đề (Hook): Hãy tưởng tượng hai người đàn ông...
-- Loại: Direct Mail Cổ Điển (Classic Direct Mail) / Storytelling (Kể chuyện)
-- Nguồn: swipfile_ads_20250628.json
-```
+## Campaign 7: Mẫu Quảng Cáo Direct Mail Huyền Thoại - WSJ "Two Men"
+
+- **Tiêu đề (Hook):** Hãy tưởng tượng hai người đàn ông...
+- **Loại:** Direct Mail Cổ Điển (Classic Direct Mail) / Storytelling (Kể chuyện)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
