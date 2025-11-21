@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-21 04:07:53",
-  "total_books": 1,
+  "last_updated": "2025-11-21 04:10:07",
+  "total_books": 2,
   "books": [
     {
       "id": "breakthrough_advertising",
@@ -18,6 +18,11 @@
         ],
         "description": "Cuốn sách kinh điển về copywriting, tập trung vào tâm lý học thị trường, mức độ nhận thức và sự tinh vi của khách hàng."
       },
+      "chapters": []
+    },
+    {
+      "id": "great_lead",
+      "info": {},
       "chapters": []
     }
   ]
