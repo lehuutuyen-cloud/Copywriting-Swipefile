@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 05:59:14",
+  "last_updated": "2025-11-21 06:06:12",
   "total_books": 2,
   "books": [
     {
@@ -24,6 +24,10 @@
         {
           "filename": "chapter_02_state_of_awareness.txt",
           "path": "books/breakthrough_advertising/chapter_02_state_of_awareness.txt"
+        },
+        {
+          "filename": "chapter_03_market_sophistication.txt",
+          "path": "books/breakthrough_advertising/chapter_03_market_sophistication.txt"
         }
       ]
     },
