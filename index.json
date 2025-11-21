@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 10:05:48",
+  "last_updated": "2025-11-21 10:11:28",
   "total_books": 2,
   "books": [
     {
@@ -99,6 +99,10 @@
         {
           "filename": "chapter_00_introduction.txt",
           "path": "books/great_lead/chapter_00_introduction.txt"
+        },
+        {
+          "filename": "chapter_01_the_rule_of_one.txt",
+          "path": "books/great_lead/chapter_01_the_rule_of_one.txt"
         },
         {
           "filename": "chapter_02_customer_awareness_levels.txt",
