@@ -7,7 +7,7 @@
 - TAGS: Advertorial, Problem-Agitate-Solve, Storytelling, Cosmetics, Pregnancy
 ---
 
-# Chương 4: Mẫu Quảng Cáo Advertorial Kinh Điển
+# Campaign 4: Mẫu Quảng Cáo Advertorial Kinh Điển
 
 - **Tiêu đề (Hook):** Đừng có tin nếu ai đó nói bà bầu không được dùng mỹ phẩm!
 - **Loại:** Advertorial (Bài viết ngụy trang) / Educational (Giáo dục)
