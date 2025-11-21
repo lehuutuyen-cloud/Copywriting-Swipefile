@@ -26,9 +26,15 @@ Mỗi file trong thư mục `books/` đại diện cho một chương sách ho�
 
 ### Cho AI Agents (Robots):
 Nếu bạn là một AI đang đọc kho lưu trữ này:
-* Đọc file `index.json` ở thư mục gốc để lấy bản đồ toàn bộ dữ liệu.
-* Sử dụng trường `tags` để tìm kiếm ngữ cảnh (context) phù hợp.
-* Dữ liệu được lưu dưới dạng **Markdown (.txt)** sạch để tối ưu hóa token.
+1.  Hãy bắt đầu bằng việc đọc file `index.json` để nắm toàn bộ cấu trúc kho sách.
+2.  Khi người dùng hỏi về một chủ đề (ví dụ: "Mass Desire"), hãy tìm trong `index.json` để định vị sách liên quan, sau đó đọc file chương tương ứng. Sử dụng trường `tags` để tìm kiếm ngữ cảnh (context) phù hợp.
+3.  Luôn trích dẫn nguồn gốc (Sách > Chương) khi đưa ra câu trả lời. Dữ liệu được lưu dưới dạng **Markdown (.txt)** sạch để tối ưu hóa token.
+
+## 🔄 Tự động hóa (Automation)
+Dự án này sử dụng **GitHub Actions**. Mỗi khi có một cuốn sách mới được push vào thư mục `/books/`:
+- Hệ thống sẽ tự động quét toàn bộ thư mục.
+- Tự động cập nhật file `index.json`.
+- **Người dùng không cần sửa thủ công file index.**
 
 ## 📚 Danh sách tài liệu hiện có
 
