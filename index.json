@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 09:59:53",
+  "last_updated": "2025-11-21 10:02:21",
   "total_books": 2,
   "books": [
     {
@@ -127,6 +127,10 @@
         {
           "filename": "chapter_08_the_proclamation_lead.txt",
           "path": "books/great_lead/chapter_08_the_proclamation_lead.txt"
+        },
+        {
+          "filename": "chapter_09_the_story_lead.txt",
+          "path": "books/great_lead/chapter_09_the_story_lead.txt"
         }
       ]
     }
