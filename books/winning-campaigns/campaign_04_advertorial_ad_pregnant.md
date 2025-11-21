@@ -1,13 +1,13 @@
-- TITLE: Mẫu Quảng Cáo Số 3 - Dạng Advertorial (Bà Bầu)
-- BOOK: Copywriting Swipe File
-- AUTHOR: Lê Hữu Tuyến
-- URL: swipfile_ads_20250628.json
-- TYPE: Advertorial
-- LAST_UPDATED: 2025-06-28
-- TAGS: Advertorial, Problem-Agitate-Solve, Storytelling, Cosmetics, Pregnancy
+# TITLE: Mẫu Quảng Cáo Số 3 - Dạng Advertorial (Bà Bầu)
+- **BOOK:** Copywriting Swipe File
+- **AUTHOR:** Lê Hữu Tuyến
+- **URL:** swipfile_ads_20250628.json
+- **TYPE:** Advertorial
+- **LAST_UPDATED:** 2025-06-28
+- **TAGS:** Advertorial, Problem-Agitate-Solve, Storytelling, Cosmetics, Pregnancy
 ---
 
-# Campaign 4: Mẫu Quảng Cáo Advertorial Kinh Điển
+## Campaign 4: Mẫu Quảng Cáo Advertorial Kinh Điển
 
 - **Tiêu đề (Hook):** Đừng có tin nếu ai đó nói bà bầu không được dùng mỹ phẩm!
 - **Loại:** Advertorial (Bài viết ngụy trang) / Educational (Giáo dục)
