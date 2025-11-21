@@ -1,13 +1,13 @@
-- TITLE: Mẫu Quảng Cáo Số 4 - Tư Duy Marketing (Một đến Nhiều)
-- BOOK: Copywriting Swipe File
-- AUTHOR: Lê Hữu Tuyến
-- URL: swipfile_ads_20250628.json
-- TYPE: Marketing Mindset
-- LAST_UPDATED: 2025-06-28
-- TAGS: Marketing Mindset, Big Idea, Scaling, Automation, Copywriting
+# TITLE: Mẫu Quảng Cáo Số 4 - Tư Duy Marketing (Một đến Nhiều)
+- **BOOK:** Copywriting Swipe File
+- **AUTHOR:** Lê Hữu Tuyến
+- **URL:** swipfile_ads_20250628.json
+- **TYPE:** Marketing Mindset
+- **LAST_UPDATED:** 2025-06-28
+- **TAGS:** Marketing Mindset, Big Idea, Scaling, Automation, Copywriting
 ---
 
-# Campaign 5: Mẫu Quảng Cáo Tư Duy Marketing
+## Campaign 5: Mẫu Quảng Cáo Tư Duy Marketing
 
 - **Tiêu đề (Hook):** Chúng ta đang dần chứng kiến sự kết thúc của kỷ nguyên... MỘT => MỘT
 - **Loại:** Tư Duy Marketing (Marketing Mindset) / Educational (Giáo dục)
