@@ -1,4 +1,4 @@
-# TITLE: Mẫu Quảng Cáo Số 6 - Case Study Wall Street Journal (Two Men)
+# TITLE: Mẫu Quảng Cáo Số 7 - Case Study Wall Street Journal (Two Men)
 * **BOOK:** Copywriting Swipe File
 * **AUTHOR:** Martin Conroy (Phân tích bởi Lê Hữu Tuyến)
 * **URL:** swipfile_ads_20250628.json
