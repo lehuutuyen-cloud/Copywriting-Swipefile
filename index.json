@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 06:15:53",
+  "last_updated": "2025-11-21 06:16:16",
   "total_books": 2,
   "books": [
     {
@@ -21,6 +21,10 @@
         "description": "Cuốn sách kinh điển về copywriting và tâm lý học hành vi của Eugene Schwartz. Tập trung vào việc khai thác 'Khao khát Đại chúng' (Mass Desire), xác định 'Mức độ Nhận thức' (State of Awareness) và điều hướng thị trường thông qua các kỹ thuật viết quảng cáo đột phá."
       },
       "chapters": [
+        {
+          "filename": "chapter_01_mass_desire.txt",
+          "path": "books/breakthrough_advertising/chapter_01_mass_desire.txt"
+        },
         {
           "filename": "chapter_02_state_of_awareness.txt",
           "path": "books/breakthrough_advertising/chapter_02_state_of_awareness.txt"
