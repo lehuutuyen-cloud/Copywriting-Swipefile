@@ -1,4 +1,4 @@
-# TITLE: Mẫu Quảng Cáo Số 2 - Dạng Secret (Bí mật nước hoa)
+# TITLE: Mẫu Quảng Cáo Số 3 - Dạng Secret (Bí mật nước hoa)
 - **BOOK:** Copywriting Swipe File
 - **AUTHOR:** Lê Hữu Tuyến
 - **URL:** swipfile_ads_20250628.json
