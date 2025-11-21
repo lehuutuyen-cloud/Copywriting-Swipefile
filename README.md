@@ -34,5 +34,9 @@ Mỗi file trong thư mục `books/` đại diện cho một chương sách ho�
 * **Breakthrough Advertising** - Eugene M. Schwartz (Đang cập nhật)
 * *(Sẽ cập nhật thêm)*
 
+## Thông tin liên hệ
+
+* Lê Hữu Tuyến
+* Website: lehuutuyen.com
 ---
-*Last Updated: 2025-11-21 by GEM Knowledge Extractor*
+*Last Updated: 2025-11-21 by Le Huu Tuyen Knowledge Extractor*
