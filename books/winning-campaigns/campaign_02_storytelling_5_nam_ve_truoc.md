@@ -10,6 +10,7 @@
 **LAST_UPDATED:** 2025-06-28
 
 **TAGS:** Storytelling, Facebook Ads, Hook, Curiosity, Fail to Success
+
 ---
 
 ## Campaign 2: Mẫu Quảng Cáo Storytelling Kinh Điển
