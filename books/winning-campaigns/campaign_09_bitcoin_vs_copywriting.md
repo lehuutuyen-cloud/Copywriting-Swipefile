@@ -1,4 +1,4 @@
-# TITLE: Mẫu Quảng Cáo Số 8 - Case Study "Bitcoin vs. Copywriting"
+# TITLE: Mẫu Quảng Cáo Số 9 - Case Study "Bitcoin vs. Copywriting"
 * **BOOK:** Copywriting Swipe File
 * **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
 * **URL:** swipfile_ads_20250628.json
