@@ -41,8 +41,8 @@ Dự án này sử dụng **GitHub Actions**. Mỗi khi có một cuốn sách m
 
 ## 📚 Danh sách tài liệu hiện có
 
-* **Breakthrough Advertising** - Eugene M. Schwartz (Đang cập nhật)
-* *(Sẽ cập nhật thêm)*
+* **Breakthrough Advertising** - Eugene M. Schwartz (Hoàn thành)
+* **Great Lead** - Michael Masterson & John Forde (đang cập nhật)
 
 ## Cấu trúc thư mục (File Structure)
 Cấu trúc thư mục được tổ chức theo nguyên tắc "Máy đọc được" (Machine-readable):
