@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-21 10:11:28",
-  "total_books": 2,
+  "last_updated": "2025-11-21 10:23:44",
+  "total_books": 3,
   "books": [
     {
       "id": "breakthrough_advertising",
@@ -141,6 +141,11 @@
           "path": "books/great_lead/chapter_10_how_to_make_this_system_work_for_you.txt"
         }
       ]
+    },
+    {
+      "id": "winning-campaigns",
+      "info": {},
+      "chapters": []
     }
   ]
 }
