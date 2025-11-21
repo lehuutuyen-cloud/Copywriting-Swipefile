@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 10:58:51",
+  "last_updated": "2025-11-21 11:01:51",
   "total_books": 4,
   "books": [
     {
@@ -161,7 +161,12 @@
         ],
         "description": "Phân tích chuyên sâu và giải mã quy trình 13 bước tạo Video Bán Hàng (VSL) tối ưu chuyển đổi. Tài liệu tổng hợp các nguyên tắc tâm lý học hành vi (AIDA, PAS, Cialdini) và kỹ thuật copywriting để xây dựng kịch bản bán hàng tự động."
       },
-      "chapters": []
+      "chapters": [
+        {
+          "filename": "vsl-13-step-blueprint.md",
+          "path": "books/vls/vsl-13-step-blueprint.md"
+        }
+      ]
     },
     {
       "id": "winning-campaigns",
@@ -182,7 +187,68 @@
         ],
         "description": "Bộ sưu tập các chiến dịch quảng cáo thắng lớn (Winning Campaigns) và các mẫu quảng cáo kinh điển (Swipe File). Mỗi case study đi kèm với phân tích chi tiết về cấu trúc, tâm lý học hành vi và các đòn bẩy chuyển đổi được sử dụng."
       },
-      "chapters": []
+      "chapters": [
+        {
+          "filename": "campaign_01_born-to-write-sales-page.md",
+          "path": "books/winning-campaigns/campaign_01_born-to-write-sales-page.md"
+        },
+        {
+          "filename": "campaign_02_storytelling_5_nam_ve_truoc.md",
+          "path": "books/winning-campaigns/campaign_02_storytelling_5_nam_ve_truoc.md"
+        },
+        {
+          "filename": "campaign_03_secret_ad_perfume.md",
+          "path": "books/winning-campaigns/campaign_03_secret_ad_perfume.md"
+        },
+        {
+          "filename": "campaign_04_advertorial_ad_pregnant.md",
+          "path": "books/winning-campaigns/campaign_04_advertorial_ad_pregnant.md"
+        },
+        {
+          "filename": "campaign_05_marketing_mindset_one_to_many.md",
+          "path": "books/winning-campaigns/campaign_05_marketing_mindset_one_to_many.md"
+        },
+        {
+          "filename": "campaign_06_case_study_tai_lopez.md",
+          "path": "books/winning-campaigns/campaign_06_case_study_tai_lopez.md"
+        },
+        {
+          "filename": "campaign_07_case_study_wsj_two_men.md",
+          "path": "books/winning-campaigns/campaign_07_case_study_wsj_two_men.md"
+        },
+        {
+          "filename": "campaign_08_case_study_third_door.md",
+          "path": "books/winning-campaigns/campaign_08_case_study_third_door.md"
+        },
+        {
+          "filename": "campaign_09_bitcoin_vs_copywriting.md",
+          "path": "books/winning-campaigns/campaign_09_bitcoin_vs_copywriting.md"
+        },
+        {
+          "filename": "campaign_10_reach_vs_persuade.md",
+          "path": "books/winning-campaigns/campaign_10_reach_vs_persuade.md"
+        },
+        {
+          "filename": "campaign_11_timeless_skill.md",
+          "path": "books/winning-campaigns/campaign_11_timeless_skill.md"
+        },
+        {
+          "filename": "campaign_12_sharpen_the_axe.md",
+          "path": "books/winning-campaigns/campaign_12_sharpen_the_axe.md"
+        },
+        {
+          "filename": "campaign_13_welcome_30k_customers.md",
+          "path": "books/winning-campaigns/campaign_13_welcome_30k_customers.md"
+        },
+        {
+          "filename": "campaign_14_untrained_staff.md",
+          "path": "books/winning-campaigns/campaign_14_untrained_staff.md"
+        },
+        {
+          "filename": "campaign_15_secret_formula_4_steps.md",
+          "path": "books/winning-campaigns/campaign_15_secret_formula_4_steps.md"
+        }
+      ]
     }
   ]
 }
