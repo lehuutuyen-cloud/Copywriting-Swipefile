@@ -1,4 +1,4 @@
-# TITLE: Mẫu Quảng Cáo Số 7 - Case Study "Lối Tắt Thứ Ba"
+# TITLE: Mẫu Quảng Cáo Số 8 - Case Study "Lối Tắt Thứ Ba"
 * **BOOK:** Copywriting Swipe File
 * **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
 * **URL:** swipfile_ads_20250628.json
