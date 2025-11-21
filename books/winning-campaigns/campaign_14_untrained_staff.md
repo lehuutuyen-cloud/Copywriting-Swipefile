@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 13 - Nhân Viên Không Được Đào Tạo
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Educational Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: Metaphor, Traffic vs Conversion, Business Logic, Untrained Staff, Waste
+# TITLE: Mẫu Quảng Cáo Số 13 - Nhân Viên Không Được Đào Tạo
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Educational Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Metaphor, Traffic vs Conversion, Business Logic, Untrained Staff, Waste
 ---
 
-# Chương 14: Mẫu Quảng Cáo Lập Luận Ẩn Dụ - Nhân Viên Không Được Đào Tạo
-```text
-**Tiêu đề (Hook):** Hầu hết người kinh doanh bỏ ra số tiền lớn...
-**Loại:** Lập Luận Ẩn Dụ (Metaphorical Argument) / Phê bình Chiến lược (Strategic Critique)
-**Nguồn:** swipfile_ads_20250628.json
-```
+## Campaign 14: Mẫu Quảng Cáo Lập Luận Ẩn Dụ - Nhân Viên Không Được Đào Tạo
+
+* **Tiêu đề (Hook):** Hầu hết người kinh doanh bỏ ra số tiền lớn...
+* **Loại:** Lập Luận Ẩn Dụ (Metaphorical Argument) / Phê bình Chiến lược (Strategic Critique)
+* **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
