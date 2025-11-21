@@ -1,10 +1,15 @@
-- TITLE: Mẫu Quảng Cáo Số 1 - Dạng Storytelling (5 Năm Về Trước)
-- BOOK: Copywriting Swipe File
-- AUTHOR: Lê Hữu Tuyến
-- URL: swipfile_ads_20250628.json
-- TYPE: Facebook Ad
-- LAST_UPDATED: 2025-06-28
-- TAGS: Storytelling, Facebook Ads, Hook, Curiosity, Fail to Success
+# TITLE: Mẫu Quảng Cáo Số 1 - Dạng Storytelling (5 Năm Về Trước)
+**BOOK:** Copywriting Swipe File
+
+**AUTHOR:** Lê Hữu Tuyến
+
+**URL:** swipfile_ads_20250628.json
+
+**TYPE:** Facebook Ad
+
+**LAST_UPDATED:** 2025-06-28
+
+**TAGS:** Storytelling, Facebook Ads, Hook, Curiosity, Fail to Success
 ---
 
 # Chương 2: Mẫu Quảng Cáo Storytelling Kinh Điển
