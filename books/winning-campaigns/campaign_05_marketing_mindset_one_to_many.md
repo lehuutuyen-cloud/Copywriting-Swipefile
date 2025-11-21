@@ -7,12 +7,12 @@
 - TAGS: Marketing Mindset, Big Idea, Scaling, Automation, Copywriting
 ---
 
-# Chương 5: Mẫu Quảng Cáo Tư Duy Marketing
-```text
-- Tiêu đề (Hook): Chúng ta đang dần chứng kiến sự kết thúc của kỷ nguyên... MỘT => MỘT
-- Loại: Tư Duy Marketing (Marketing Mindset) / Educational (Giáo dục)
-- Nguồn: swipfile_ads_20250628.json
-```
+# Campaign 5: Mẫu Quảng Cáo Tư Duy Marketing
+
+- **Tiêu đề (Hook):** Chúng ta đang dần chứng kiến sự kết thúc của kỷ nguyên... MỘT => MỘT
+- **Loại:** Tư Duy Marketing (Marketing Mindset) / Educational (Giáo dục)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
