@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 10 - Kỹ năng Vượt Thời Gian
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Educational Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: First Principles, Timeless Skill, Copywriting, Psychology, High Income Skill
+# TITLE: Mẫu Quảng Cáo Số 11 - Kỹ năng Vượt Thời Gian
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Educational Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** First Principles, Timeless Skill, Copywriting, Psychology, High Income Skill
 ---
 
-# Chương 11: Mẫu Quảng Cáo Lập Luận Nguyên Lý Gốc - Kỹ Năng Vượt Thời Gian
-```text
-- Tiêu đề (Hook): Khả năng 'chuyển đổi' từ một người lạ trở thành khách hàng trả tiền...
-- Loại: Lập Luận Nguyên Lý Gốc (First Principles Argument) / Educational (Giáo dục)
-- Nguồn: swipfile_ads_20250628.json
-```
+## Campaign 11: Mẫu Quảng Cáo Lập Luận Nguyên Lý Gốc - Kỹ Năng Vượt Thời Gian
+
+- **Tiêu đề (Hook):** Khả năng 'chuyển đổi' từ một người lạ trở thành khách hàng trả tiền...
+- **Loại:** Lập Luận Nguyên Lý Gốc (First Principles Argument) / Educational (Giáo dục)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
