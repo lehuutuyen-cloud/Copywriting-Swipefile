@@ -36,7 +36,7 @@ Mỗi file trong thư mục `books/` đại diện cho một chương sách ho�
 
 ## Thông tin liên hệ
 
-* Lê Hữu Tuyến
+- Tác giả: Lê Hữu Tuyến
 - Website: http://lehuutuyen.com
 ---
 *Last Updated: 2025-11-21 by Le Huu Tuyen Knowledge Extractor*
