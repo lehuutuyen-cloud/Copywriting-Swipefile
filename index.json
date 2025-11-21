@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 09:02:41",
+  "last_updated": "2025-11-21 09:06:59",
   "total_books": 2,
   "books": [
     {
@@ -68,6 +68,10 @@
         {
           "filename": "chapter_12_concentration.txt",
           "path": "books/breakthrough_advertising/chapter_12_concentration.txt"
+        },
+        {
+          "filename": "chapter_13_camouflage.txt",
+          "path": "books/breakthrough_advertising/chapter_13_camouflage.txt"
         }
       ]
     },
