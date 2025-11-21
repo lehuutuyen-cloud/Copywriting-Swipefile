@@ -17,6 +17,7 @@ Mỗi file trong thư mục `books/` đại diện cho một chương sách ho�
 3.  **🎣 Hooks & Angles:** Các mồi câu và góc tiếp cận cho quảng cáo/nội dung.
 4.  **🛠️ Frameworks & Strategies:** Các mô hình và bước thực thi cụ thể.
 5.  **💬 Golden Quotes:** Các trích dẫn nguyên văn đắt giá.
+6.  **📜 Ví dụ trích dẫn** (Real-world Swipe File): là các bức thư bán hàng và tiêu đề kinh điển được trích dẫn nguyên văn (Verbatim) từ sách, dùng làm mẫu tham khảo.*
 
 ## 🚀 Cách sử dụng
 
