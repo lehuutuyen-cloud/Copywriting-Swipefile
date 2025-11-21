@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21 09:30:42",
+  "last_updated": "2025-11-21 09:35:03",
   "total_books": 2,
   "books": [
     {
@@ -95,7 +95,12 @@
         ],
         "description": "Cuốn sách giáo khoa về 6 loại hình mở bài (Lead) trong Copywriting, giúp xác định cách tiếp cận khách hàng dựa trên 'Mức độ Nhận thức' (Awareness Level) để tối đa hóa tỷ lệ chuyển đổi."
       },
-      "chapters": []
+      "chapters": [
+        {
+          "filename": "chapter_00_introduction.txt",
+          "path": "books/great_lead/chapter_00_introduction.txt"
+        }
+      ]
     }
   ]
 }
