@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 8 - Case Study "Bitcoin vs. Copywriting"
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Comparative Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: Comparison, Bitcoin, FOMO, Investment, Skill vs Asset
+# TITLE: Mẫu Quảng Cáo Số 8 - Case Study "Bitcoin vs. Copywriting"
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Comparative Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Comparison, Bitcoin, FOMO, Investment, Skill vs Asset
 ---
 
-# Chương 9: Mẫu Quảng Cáo Lập Luận So Sánh - Bitcoin vs. Copywriting
-```text
-- Tiêu đề (Hook): Nếu có thể du hành thời gian để quay trở về 10 năm trước...
-- Loại: Lập Luận So Sánh (Comparative Argument) / FOMO (Sợ bỏ lỡ)
-- Nguồn: swipfile_ads_20250628.json
-```
+## Campaign 9: Mẫu Quảng Cáo Lập Luận So Sánh - Bitcoin vs. Copywriting
+
+- **Tiêu đề (Hook):** Nếu có thể du hành thời gian để quay trở về 10 năm trước...
+- **Loại:** Lập Luận So Sánh (Comparative Argument) / FOMO (Sợ bỏ lỡ)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
