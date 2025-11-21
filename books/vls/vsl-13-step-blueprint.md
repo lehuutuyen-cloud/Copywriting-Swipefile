@@ -129,6 +129,6 @@ Dưới đây là lộ trình từng bước để viết kịch bản. AI hoặ
 
 * **Âm thanh là Vua:** Chất lượng âm thanh quan trọng hơn hình ảnh.
 * **Định dạng:**
-    * *Talking Head:* Tăng kết nối cá nhân.
+    * *Talking Head:* Tăng kết nối cá nhân
     * *Slides/Kinetic Text:* Tốt cho việc giải thích thông tin, chi phí thấp.
 * **Tâm thế:** "Công thức là bản đồ, sự thấu hiểu khách hàng là la bàn". Đừng máy móc, hãy linh hoạt dựa trên insight khách hàng.
