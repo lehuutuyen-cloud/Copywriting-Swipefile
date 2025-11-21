@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 9 - Tiếp Cận vs. Thuyết Phục
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Problem Analysis Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: Problem Analysis, Reframing, Persuasion, Business Logic, Conversion
+# TITLE: Mẫu Quảng Cáo Số 9 - Tiếp Cận vs. Thuyết Phục
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Problem Analysis Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Problem Analysis, Reframing, Persuasion, Business Logic, Conversion
 ---
 
-# Chương 10: Mẫu Quảng Cáo Phân Tích Vấn Đề - Tiếp Cận vs. Thuyết Phục
-```text
-- Tiêu đề (Hook): Bản chất của mọi hoạt động kinh doanh bán hàng trên đời này...
-- Loại: Phân Tích Vấn Đề (Problem Analysis) / Reframing (Tái định khung)
-- Nguồn: swipfile_ads_20250628.json
-```
+## Campaign 10: Mẫu Quảng Cáo Phân Tích Vấn Đề - Tiếp Cận vs. Thuyết Phục
+
+- **Tiêu đề (Hook):** Bản chất của mọi hoạt động kinh doanh bán hàng trên đời này...
+- **Loại:** Phân Tích Vấn Đề (Problem Analysis) / Reframing (Tái định khung)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
