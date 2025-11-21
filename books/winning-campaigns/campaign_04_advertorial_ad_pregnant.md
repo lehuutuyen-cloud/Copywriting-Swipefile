@@ -8,11 +8,11 @@
 ---
 
 # Chương 4: Mẫu Quảng Cáo Advertorial Kinh Điển
-```text
-- Tiêu đề (Hook): Đừng có tin nếu ai đó nói bà bầu không được dùng mỹ phẩm!
-- Loại: Advertorial (Bài viết ngụy trang) / Educational (Giáo dục)
-- Nguồn: swipfile_ads_20250628.json
-```
+
+- **Tiêu đề (Hook):** Đừng có tin nếu ai đó nói bà bầu không được dùng mỹ phẩm!
+- **Loại:** Advertorial (Bài viết ngụy trang) / Educational (Giáo dục)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
