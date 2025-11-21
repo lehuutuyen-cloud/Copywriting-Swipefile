@@ -25,6 +25,7 @@ Mỗi file trong thư mục `books/` đại diện cho một chương sách ho�
 * Sử dụng **Frameworks** để xây dựng cấu trúc sản phẩm hoặc chiến dịch.
 
 ### Cho AI Agents (Robots):
+Nếu bạn là một AI đang đọc kho lưu trữ này:
 * Đọc file `index.json` ở thư mục gốc để lấy bản đồ toàn bộ dữ liệu.
 * Sử dụng trường `tags` để tìm kiếm ngữ cảnh (context) phù hợp.
 * Dữ liệu được lưu dưới dạng **Markdown (.txt)** sạch để tối ưu hóa token.
