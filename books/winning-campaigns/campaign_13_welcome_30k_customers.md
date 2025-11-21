@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 12 - Chào Đón 30k Khách Hàng
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Educational Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: Leading Questions, Preparation, Mindset Shift, Traffic vs Conversion, Customer Welcome
+# TITLE: Mẫu Quảng Cáo Số 13 - Chào Đón 30k Khách Hàng
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Educational Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Leading Questions, Preparation, Mindset Shift, Traffic vs Conversion, Customer Welcome
 ---
 
-# Chương 13: Mẫu Quảng Cáo Lập Luận Dẫn Dắt - Chào Đón 30k Khách Hàng
-```text
-**Tiêu đề (Hook):** Để tôi hỏi bạn, giả sử bạn thả 500k đồng vào Facebook Ads...
-**Loại:** Lập Luận Dẫn Dắt (Leading Argument) / Tư Duy Chiến Lược (Strategic Mindset)
-**Nguồn:** swipfile_ads_20250628.json
-```
+## Campaign 13: Mẫu Quảng Cáo Lập Luận Dẫn Dắt - Chào Đón 30k Khách Hàng
+
+* **Tiêu đề (Hook):** Để tôi hỏi bạn, giả sử bạn thả 500k đồng vào Facebook Ads...
+* **Loại:** Lập Luận Dẫn Dắt (Leading Argument) / Tư Duy Chiến Lược (Strategic Mindset)
+* **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
