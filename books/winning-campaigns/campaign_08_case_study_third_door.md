@@ -1,18 +1,18 @@
-* TITLE: Mẫu Quảng Cáo Số 7 - Case Study "Lối Tắt Thứ Ba"
-* BOOK: Copywriting Swipe File
-* AUTHOR: Lê Hữu Tuyến (Sưu tầm & Phân tích)
-* URL: swipfile_ads_20250628.json
-* TYPE: Storytelling Ad
-* LAST_UPDATED: 2025-06-28
-* TAGS: Storytelling, Third Door, Shortcut, Success Mindset, Conversion Copywriting
+# TITLE: Mẫu Quảng Cáo Số 7 - Case Study "Lối Tắt Thứ Ba"
+* **BOOK:** Copywriting Swipe File
+* **AUTHOR:** Lê Hữu Tuyến (Sưu tầm & Phân tích)
+* **URL:** swipfile_ads_20250628.json
+* **TYPE:** Storytelling Ad
+* **LAST_UPDATED:** 2025-06-28
+* **TAGS:** Storytelling, Third Door, Shortcut, Success Mindset, Conversion Copywriting
 ---
 
-# Chương 8: Mẫu Quảng Cáo Storytelling Hiện Đại - Lối Tắt Thứ Ba
-```text
-- Tiêu đề (Hook): Một câu chuyện khiến chúng ta run rẩy, và kết quả cuối cùng thực sự là gì?
-- Loại: Storytelling Hiện Đại (Modern Storytelling) / Metaphor (Ẩn dụ)
-- Nguồn: swipfile_ads_20250628.json
-```
+## Campaign 8: Mẫu Quảng Cáo Storytelling Hiện Đại - Lối Tắt Thứ Ba
+
+- **Tiêu đề (Hook):** Một câu chuyện khiến chúng ta run rẩy, và kết quả cuối cùng thực sự là gì?
+- **Loại:** Storytelling Hiện Đại (Modern Storytelling) / Metaphor (Ẩn dụ)
+- **Nguồn:** swipfile_ads_20250628.json
+
 ---
 
 ## 🧠 Phân tích Chiến lược (Why it works)
