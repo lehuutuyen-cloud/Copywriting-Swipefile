@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22 15:52:38",
+  "last_updated": "2025-11-22 15:53:07",
   "total_books": 5,
   "books": [
     {
@@ -167,8 +167,8 @@
           "path": "books/sop/01_copywriting_4_buoc.md"
         },
         {
-          "filename": "phu_luc_ky_thuat_copywriting.md",
-          "path": "books/sop/phu_luc_ky_thuat_copywriting.md"
+          "filename": "02_phu_luc_ky_thuat_copywriting.md",
+          "path": "books/sop/02_phu_luc_ky_thuat_copywriting.md"
         }
       ]
     },
