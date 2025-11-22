@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-21 12:18:44",
-  "total_books": 4,
+  "last_updated": "2025-11-22 15:48:08",
+  "total_books": 5,
   "books": [
     {
       "id": "breakthrough_advertising",
@@ -139,6 +139,19 @@
         {
           "filename": "chapter_10_how_to_make_this_system_work_for_you.txt",
           "path": "books/great_lead/chapter_10_how_to_make_this_system_work_for_you.txt"
+        }
+      ]
+    },
+    {
+      "id": "sop",
+      "info": {
+        "title": "Sop",
+        "id": "sop"
+      },
+      "chapters": [
+        {
+          "filename": "copywriting-4-buoc.md",
+          "path": "books/sop/copywriting-4-buoc.md"
         }
       ]
     },
