@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22 15:49:18",
+  "last_updated": "2025-11-22 15:50:18",
   "total_books": 5,
   "books": [
     {
@@ -145,8 +145,21 @@
     {
       "id": "sop",
       "info": {
-        "title": "Sop",
-        "id": "sop"
+        "id": "sop",
+        "title": "Quy Trình Chuẩn (SOP) & Frameworks Thực Chiến",
+        "author": "Lê Hữu Tuyến (Hệ thống hóa)",
+        "year": 2025,
+        "publisher": "Flowmaker™",
+        "category": "Standard Operating Procedures",
+        "tags": [
+          "SOP",
+          "framework",
+          "execution",
+          "checklist",
+          "process",
+          "copywriting_structure"
+        ],
+        "description": "Tập hợp các Quy trình Chuẩn (SOP) và Hướng dẫn thực thi chi tiết từng bước (Step-by-step). Đây là cầu nối chuyển hóa tư duy chiến lược thành hành động cụ thể, giúp chuẩn hóa quy trình viết quảng cáo chuyển đổi cao."
       },
       "chapters": [
         {
