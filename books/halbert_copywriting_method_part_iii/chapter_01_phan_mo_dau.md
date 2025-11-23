@@ -36,6 +36,7 @@
 * > "Không có mức độ rõ ràng nào có thể làm cho một Lời Chào Hàng (Offer) tồi tệ trở nên tốt hơn."
 * > "Một nội dung quảng cáo xuất sắc sẽ khiến người đọc quên rằng họ đang đọc."
 
+---
 ## Nội Dung Gốc
 
 ### Phần Mở Đầu
