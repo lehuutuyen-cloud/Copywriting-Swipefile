@@ -66,6 +66,8 @@ Một **Godfather Offer** (Lời chào hàng Bố già) kinh điển cho mô hì
 ## PHẦN 3: THE SWIPE (NỘI DUNG NGUYÊN BẢN)
 
 **(Hình ảnh tờ 1 đô la Mỹ)**
+![Uploading $1.jpg…]()
+
 
 Từ: Ryan Deiss, Nhà sáng lập và CEO của DigitalMarketer.com
 Ngày: Thứ Hai, ngày 6 tháng 10 năm 2014
