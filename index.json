@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 09:21:54",
+  "last_updated": "2025-11-23 09:37:56",
   "total_books": 6,
   "books": [
     {
@@ -171,6 +171,10 @@
         {
           "filename": "chapter_02_nhung_dieu_can_biet_truoc.md",
           "path": "books/halbert_copywriting_method_part_iii/chapter_02_nhung_dieu_can_biet_truoc.md"
+        },
+        {
+          "filename": "chapter_03_cach_giup_khach_hang_quyet_dinh_doc.md",
+          "path": "books/halbert_copywriting_method_part_iii/chapter_03_cach_giup_khach_hang_quyet_dinh_doc.md"
         }
       ]
     },
