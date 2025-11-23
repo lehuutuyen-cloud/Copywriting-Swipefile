@@ -366,4 +366,13 @@ Bạn sẽ không phải đăng ký bất kỳ chương trình "dùng thử" nà
 Thực tế, nếu bạn không thích cuốn sách, hãy cho tôi biết và tôi sẽ hoàn lại $5.60 cho bạn.
 
 > #### LƯU Ý QUAN TRỌNG: 
-Các con số doanh thu mà tôi đã nêu trên là kết quả cá nhân của tôi. Vui lòng hiểu rằng những kết quả này không phải là điển hình. Tôi không ngụ ý rằng bạn sẽ đạt được kết quả tương tự (hoặc làm điều gì đó tương tự). Tôi có lợi thế từ 25 năm kinh nghiệm trong lĩnh vực marketing phản hồi trực tiếp và quảng cáo, cùng với một lượng khách hàng theo dõi trung thành.
+>
+> Các con số doanh thu mà tôi đã nêu trên là kết quả cá nhân của tôi. Vui lòng hiểu rằng những kết quả này không phải là điển hình. Tôi không ngụ ý rằng bạn sẽ đạt được kết quả tương tự (hoặc làm điều gì đó tương tự). Tôi có lợi thế từ 25 năm kinh nghiệm trong lĩnh vực marketing phản hồi trực tiếp và quảng cáo, cùng với một lượng khách hàng theo dõi trung thành.
+> 
+> Thực tế là, hầu hết mọi người mua tài liệu "hướng dẫn" thường không đạt được kết quả đáng kể. Tôi chia sẻ những ví dụ này chỉ nhằm mục đích minh họa.
+> 
+> Kết quả của bạn sẽ khác nhau và phụ thuộc vào nhiều yếu tố, bao gồm nhưng không giới hạn ở nền tảng, kinh nghiệm, và đạo đức làm việc của bạn. Tất cả các hoạt động kinh doanh đều có rủi ro và yêu cầu nỗ lực cũng như hành động nhất quán. Nếu bạn không sẵn lòng chấp nhận điều đó, **VUI LÒNG KHÔNG MUA CUỐN SÁCH NÀY**.
+
+_Copyright 2024 -  Kern Media, Inc. 3960 Howard Hughes Pkwy #500 Las Vegas, NV 89169 (858) 223-1914 
+- All Rights Reserved_
+
