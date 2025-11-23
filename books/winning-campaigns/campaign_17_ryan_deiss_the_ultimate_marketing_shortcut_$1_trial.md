@@ -72,7 +72,8 @@ Một **Godfather Offer** (Lời chào hàng Bố già) kinh điển cho mô hì
 ![$1](https://github.com/user-attachments/assets/b7b58e7d-9068-4b9c-9ccd-6bf791345362)
 _(Hình ảnh tờ 1 đô la Mỹ)_
 
-**Từ:** Ryan Deiss, Nhà sáng lập và CEO của DigitalMarketer.com
+**Từ:** Ryan Deiss, _Nhà sáng lập và CEO của DigitalMarketer.com_
+
 **Ngày:** Thứ Hai, ngày 6 tháng 10 năm 2014
 
 Nếu bạn chấp nhận lời đề nghị này, bạn sẽ phải trả chính xác **$1**.
