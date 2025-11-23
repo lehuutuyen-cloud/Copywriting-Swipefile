@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22 15:53:07",
+  "last_updated": "2025-11-23 02:29:13",
   "total_books": 5,
   "books": [
     {
@@ -277,6 +277,10 @@
         {
           "filename": "campaign_15_secret_formula_4_steps.md",
           "path": "books/winning-campaigns/campaign_15_secret_formula_4_steps.md"
+        },
+        {
+          "filename": "campaign_16_frank_kern_book_funnel.md",
+          "path": "books/winning-campaigns/campaign_16_frank_kern_book_funnel.md"
         }
       ]
     }
