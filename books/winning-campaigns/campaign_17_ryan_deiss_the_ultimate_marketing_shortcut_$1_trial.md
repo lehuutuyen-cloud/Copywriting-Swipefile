@@ -3,7 +3,7 @@
 >- **Status:** Analyzed & Swipe
 >- **Date Added:** 2025-11-23
 >- **Added By:** Lê Hữu Tuyến
->- **Source:** DigitalMarketer.com
+>- **Source:** [gdocs - DigitalMarketer.com](https://docs.google.com/document/d/18GOqWHPx3QHFkQjqI2SaHR1z6h3MtW617zAaOsNSu7s/edit?tab=t.0)
 
 ---
 
