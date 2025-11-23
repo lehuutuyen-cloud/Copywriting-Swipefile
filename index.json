@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 08:44:17",
+  "last_updated": "2025-11-23 08:57:44",
   "total_books": 6,
   "books": [
     {
@@ -159,7 +159,12 @@
         ],
         "description": "Một hướng dẫn thực chiến về quy trình chỉnh sửa (editing) trong copywriting nhằm tối ưu hóa sự mượt mà của văn bản, giữ chân người đọc và tiêm vào các yếu tố tâm lý ẩn để gia tăng tỷ lệ chuyển đổi."
       },
-      "chapters": []
+      "chapters": [
+        {
+          "filename": "chapter_00_phan_mo_dau.md",
+          "path": "books/halbert_copywriting_method_part_iii/chapter_00_phan_mo_dau.md"
+        }
+      ]
     },
     {
       "id": "sop",
