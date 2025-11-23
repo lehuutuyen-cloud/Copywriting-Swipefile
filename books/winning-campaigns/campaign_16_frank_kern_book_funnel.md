@@ -104,7 +104,7 @@ Thêm vào đó, nó **rất dễ đọc**.
 
 Với chỉ 75 trang, bạn có thể đọc hết nó trong một buổi chiều.
 
-Và bạn sẽ ngay lập tức "nắm bắt" được toàn bộ phương pháp mà tôi đã sử dụng để tạo ra những chiến dịch quảng cáo trên Internet thành công nhất trong lịch sử.
+Và bạn sẽ ngay lập tức "nắm bắt" được toàn bộ phương pháp mà tôi đã sử dụng để **tạo ra những chiến dịch quảng cáo trên Internet thành công nhất trong lịch sử**.
 
 Dưới đây là một phần nhỏ trong những nội dung cuốn sách này chứa đựng và những giá trị mà nó có thể mang lại cho doanh nghiệp của bạn:
 
