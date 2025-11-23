@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 10:25:05",
+  "last_updated": "2025-11-23 10:27:50",
   "total_books": 6,
   "books": [
     {
@@ -191,6 +191,10 @@
         {
           "filename": "chapter_07_tiem_vao_tam_ly_an.md",
           "path": "books/halbert_copywriting_method_part_iii/chapter_07_tiem_vao_tam_ly_an.md"
+        },
+        {
+          "filename": "chapter_08_check_list_chinh_sua_noi_dung_hieu_qua.md",
+          "path": "books/halbert_copywriting_method_part_iii/chapter_08_check_list_chinh_sua_noi_dung_hieu_qua.md"
         }
       ]
     },
