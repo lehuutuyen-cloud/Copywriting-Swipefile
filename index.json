@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 03:14:46",
+  "last_updated": "2025-11-23 03:20:25",
   "total_books": 5,
   "books": [
     {
@@ -281,6 +281,10 @@
         {
           "filename": "campaign_16_frank_kern_book_funnel.md",
           "path": "books/winning-campaigns/campaign_16_frank_kern_book_funnel.md"
+        },
+        {
+          "filename": "campaign_17_ryan_deiss_the_ultimate_marketing_shortcut_$1_trial.md",
+          "path": "books/winning-campaigns/campaign_17_ryan_deiss_the_ultimate_marketing_shortcut_$1_trial.md"
         }
       ]
     }
