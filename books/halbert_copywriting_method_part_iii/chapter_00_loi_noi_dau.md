@@ -1,4 +1,4 @@
-# TITLE: Lời Mở Đầu - Sam Markowitz
+# TITLE: Lời Nói Đầu - Sam Markowitz
 - **BOOK:** The Halbert Copywriting Method Part III
 - **AUTHOR:** Bond Halbert (Foreword by Sam Markowitz)
 - **URL:** [Source File](https://docs.google.com/document/d/18mvfzCga1XK_gT9_Uw9zHoTPYfiIAb7Vz1PNxVxRDno/edit?tab=t.0)
