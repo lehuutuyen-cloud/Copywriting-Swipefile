@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 09:58:39",
+  "last_updated": "2025-11-23 10:02:35",
   "total_books": 6,
   "books": [
     {
@@ -183,6 +183,10 @@
         {
           "filename": "chapter_05_cach_giu_khach_hang_tiem_nang_doc_tiep.md",
           "path": "books/halbert_copywriting_method_part_iii/chapter_05_cach_giu_khach_hang_tiem_nang_doc_tiep.md"
+        },
+        {
+          "filename": "chapter_06_lam_cho_bai_viet_ban_hang_manh_me_hon.md",
+          "path": "books/halbert_copywriting_method_part_iii/chapter_06_lam_cho_bai_viet_ban_hang_manh_me_hon.md"
         }
       ]
     },
