@@ -1,8 +1,8 @@
 # Campaign 16: Frank Kern - Convert Book Funnel
 
-> **Status:** Analyzed & Swipe (Part 1 & 2 Complete)
-> **Date Added:** 2025-11-23
-> **Added By:** Le Huu Tuyen
+>- **Status:** Analyzed & Swipe
+>- **Date Added:** 2025-11-23
+>- **Added By:** Lê Hữu Tuyến
 
 ---
 
