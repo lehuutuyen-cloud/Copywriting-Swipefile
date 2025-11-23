@@ -3,6 +3,7 @@
 >- **Status:** Analyzed & Swipe
 >- **Date Added:** 2025-11-23
 >- **Added By:** Lê Hữu Tuyến
+>- **Link gdocs:** [[Copywriting] Chuyển Đổi 2.0_Frank Kern_pdf](https://docs.google.com/document/d/1jLtS-Q79Q_PXHynFEGqEj1LGTGoWseEA3dueEfyu_Ro/edit?tab=t.dcnfb2ivas2t#heading=h.fsgbd0lqkb4r)
 
 ---
 
