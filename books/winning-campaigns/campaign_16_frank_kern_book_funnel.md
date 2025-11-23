@@ -64,4 +64,41 @@ Một **No-Brainer Offer (Lời chào hàng không cần não)** điển hình.
     * *Chiến lược:* Lợi nhuận thực sự nằm ở đây. Cuốn sách là "mồi câu" (Tripwire), Order Bump là lợi nhuận ngay lập tức.
 
 ---
-*(Hết Phần 1 & 2)*
+## PHẦN 3: THE SWIPE (NỘI DUNG NGUYÊN BẢN)
+
+Mới Ra Mắt Từ Frank Kern
+
+# "Cuốn Sách Mới Tiết Lộ Cách Tạo Chiến Dịch Trên Internet Để Bán Hàng..."
+
+**Từ Bàn Làm Việc Của Frank Kern**
+*La Jolla, California*
+
+**Bạn Thân Mến,**
+
+Nếu bạn muốn tạo ra các chiến dịch trên Internet bán hàng điên cuồng... bất kể ngành nghề của bạn là gì, thì đây là lá thư quan trọng nhất mà bạn sẽ đọc hôm nay.
+
+Tôi sẽ cho bạn biết lý do ngay sau đây.
+
+### **Nhưng Trước Tiên... Có Một Lưu Ý:**
+
+Xin bạn hãy hiểu rằng kết quả mà tôi chia sẻ với bạn không phải là điều phổ biến. Tôi không ngụ ý rằng bạn sẽ đạt được kết quả tương tự (hoặc làm bất cứ điều gì khác).
+
+Tôi có lợi thế từ việc thực hành marketing phản hồi trực tiếp và quảng cáo trong suốt 25 năm, và đã xây dựng được một lượng khách hàng theo dõi đáng kể nhờ vào điều đó.
+
+ Thông thường, người mua bất kỳ tài liệu “How To” nào cũng ít đạt được kết quả hoặc thậm chí không có kết quả gì. Tôi chỉ sử dụng những ví dụ này để minh họa mà thôi.
+
+ Kết quả của bạn sẽ khác nhau và phụ thuộc vào nhiều yếu tố... bao gồm nhưng không giới hạn ở nền tảng, kinh nghiệm và đạo đức làm việc của bạn.
+
+ Mọi công việc kinh doanh đều có rủi ro, đồng thời đòi hỏi nỗ lực và hành động lớn lao, liên tục. **Nếu bạn không sẵn lòng chấp nhận điều đó, vui lòng KHÔNG MUA CUỐN SÁCH NÀY.**
+
+Với điều đã được nói ra... hãy để tôi đi thẳng vào vấn đề và cho bạn thấy…
+
+### Chính Xác Thứ Bạn Sẽ Nhận Được
+
+Điều này hoàn toàn khác biệt so với bất kỳ cuốn sách nào bạn từng đọc, bởi vì đây giống như một "cẩm nang thực chiến" để đạt được thành công trong quảng cáo hơn là một cuốn "sách" thông thường.
+
+Lý do là vì không có sự dài dòng hay lan man. Cuốn sách đi thẳng vào vấn đề, **chỉ cho bạn chính xác cần làm gì, làm như thế nào và vì sao phải làm như vậy**.
+
+Thêm vào đó, nó **rất dễ đọc**.
+
+
