@@ -67,21 +67,19 @@ Một **Godfather Offer** (Lời chào hàng Bố già) kinh điển cho mô hì
 
 > HEAD
 
-## Ưu Đãi Giới Hạn Từ Digital Marketer
-Nhận Lối Tắt Marketing Tối Thượng…
-## …CHỈ VỚI $1
+## Ưu Đãi Giới Hạn Từ Digital Marketer Nhận Lối Tắt Marketing Tối Thượng… CHỈ VỚI $1
 
 ![$1](https://github.com/user-attachments/assets/b7b58e7d-9068-4b9c-9ccd-6bf791345362)
 _(Hình ảnh tờ 1 đô la Mỹ)_
 
-Từ: Ryan Deiss, Nhà sáng lập và CEO của DigitalMarketer.com
-Ngày: Thứ Hai, ngày 6 tháng 10 năm 2014
+**Từ:** Ryan Deiss, Nhà sáng lập và CEO của DigitalMarketer.com
+**Ngày:** Thứ Hai, ngày 6 tháng 10 năm 2014
 
 Nếu bạn chấp nhận lời đề nghị này, bạn sẽ phải trả chính xác **$1**.
 
 Đúng vậy đấy…
 
-Một. Đô. La. Tiền. Mặt.
+**Một. Đô. La. Tiền. Mặt.**
 
 Đó là “tin xấu”.
 
@@ -93,20 +91,21 @@ Một. Đô. La. Tiền. Mặt.
 
 Và tôi sẽ để bạn sở hữu chúng…
 
-…TẤT CẢ…
+**…TẤT CẢ…**
 
-…chỉ với $1.
+**…chỉ với $1.**
 
 Tôi sẽ cho bạn biết lý do sau một lát nữa, nhưng trước tiên, tôi có một câu hỏi cho bạn…
 
 ### Bạn Đang “Làm Theo Cảm Tính?”
 
 “Tùy Cơ Ứng Biến?”
+
 Thực hành marketing kiểu “cầu may”?
 
 Hay bạn có một kế hoạch rõ ràng để phát triển doanh nghiệp của mình?
 
-Nếu bạn đang “làm theo cảm tính”, đừng cảm thấy tồi tệ… bạn không đơn độc đâu.
+Nếu bạn đang _“làm theo cảm tính”_, đừng cảm thấy tồi tệ… bạn không đơn độc đâu.
 
 Trong phần lớn sự nghiệp của mình, tôi cũng đã làm như vậy.
 
@@ -122,13 +121,15 @@ Tôi đã tập hợp toàn bộ đội ngũ của mình (và chúng tôi có R�
 
 Ví dụ:
 
-* ✅ Giám đốc marketing của tôi đã tạo ra một “Checklist Tối Ưu Hóa Trang Đích” gồm 16 điểm…
-* ✅ Giám đốc traffic của tôi đã soạn thảo một hướng dẫn từng bước (kèm theo hướng dẫn bằng văn bản và video) về cách khởi chạy một Chiến Dịch Quảng Cáo Facebook. (Tôi đã bị sốc khi thấy rằng sau khi hoàn thành tất cả, nó chỉ mất 18 bước.) Và…
-* ✅ Giám đốc biên tập của tôi đã biên soạn một hướng dẫn 21 bước về cách chúng tôi ra mắt một trang blog mới và triển khai một chiến lược content marketing hoàn chỉnh…
+✅ Giám đốc marketing của tôi đã tạo ra một “Checklist Tối Ưu Hóa Trang Đích” gồm 16 điểm…
+
+✅ Giám đốc traffic của tôi đã soạn thảo một hướng dẫn từng bước (kèm theo hướng dẫn bằng văn bản và video) về cách khởi chạy một Chiến Dịch Quảng Cáo Facebook. (Tôi đã bị sốc khi thấy rằng sau khi hoàn thành tất cả, nó chỉ mất 18 bước.) Và…
+
+✅ Giám đốc biên tập của tôi đã biên soạn một hướng dẫn 21 bước về cách chúng tôi ra mắt một trang blog mới và triển khai một chiến lược content marketing hoàn chỉnh…
 
 …và đó chỉ là một vài ví dụ!
 
-Hầu như mọi khía cạnh của việc marketing, quảng bá và phát triển doanh nghiệp của chúng tôi đều được ghi lại chi tiết từng bước để toàn bộ công ty có thể xem.
+Hầu như mọi khía cạnh của việc marketing, quảng bá và phát triển doanh nghiệp của chúng tôi đều được ghi lại chi tiết từng bước **để toàn bộ công ty có thể xem**.
 
 (Và đã có hơn 20 “checklist” như thế này sau khi tất cả được hoàn thành.)
 
@@ -136,7 +137,7 @@ Sau đó, chúng tôi đã thử nghiệm chúng…
 
 Chúng tôi đã giao những checklist này (hay còn được gọi trang trọng hơn là “Kế Hoạch Thực Thi”) cho các thành viên trong nhóm ít kinh nghiệm hơn và thậm chí cả những nhân viên hoàn toàn mới.
 
-Mục tiêu của chúng tôi rất đơn giản: Chúng tôi muốn xem liệu một người không phải là chuyên gia có thể làm theo các bước trong các kế hoạch này và đạt được kết quả tương tự hay không.
+Mục tiêu của chúng tôi rất đơn giản: **Chúng tôi muốn xem liệu một người không phải là chuyên gia có thể làm theo các bước trong các kế hoạch này và đạt được kết quả tương tự hay không**.
 
 ### Các Thử Nghiệm Đầu Tiên Thất Bại Thảm Hại…
 
@@ -152,11 +153,15 @@ Sau đó, chúng tôi giao lại chúng cho nhóm thử nghiệm để thử l�
 
 Giờ đây chúng tôi đã có thứ mà hầu hết các doanh nghiệp chỉ mơ ước có được…
 
-* ✅ Chúng tôi có hệ thống…
-* ✅ Chúng tôi có checklist…
-* ✅ Chúng tôi có báo cáo…
-* ✅ Chúng tôi có “cheat sheet” (tài liệu tham khảo nhanh)…
-* ✅ Chúng tôi có quy trình vận hành tiêu chuẩn…
+✅ Chúng tôi có hệ thống…
+
+✅ Chúng tôi có checklist…
+
+✅ Chúng tôi có báo cáo…
+
+✅ Chúng tôi có “cheat sheet” (tài liệu tham khảo nhanh)…
+
+✅ Chúng tôi có quy trình vận hành tiêu chuẩn…
 
 Tóm lại, chúng tôi đã “McDonald-hóa” tất cả các khía cạnh của marketing và tăng trưởng kinh doanh!
 
@@ -184,12 +189,17 @@ Theo lần kiểm đếm cuối cùng, chúng tôi có khoảng 150 nhân viên.
 
 Chúng tôi cũng có nửa tá văn phòng đặt tại các khu vực khác nhau của Hoa Kỳ, trong các thị trường như:
 
-* ✅ Sắc đẹp
-* ✅ Thời trang nam
-* ✅ Sinh tồn và phòng bị
-* ✅ Tài chính
-* ✅ Vật tư công nghiệp
-* ✅ Tự làm/cải tạo nhà cửa
+✅ Sắc đẹp
+
+✅ Thời trang nam
+
+✅ Sinh tồn và phòng bị
+
+✅ Tài chính
+
+✅ Vật tư công nghiệp
+
+✅ Tự làm/cải tạo nhà cửa
 
 …cộng thêm một vài lĩnh vực nữa mà tôi không thể đề cập công khai.
 
@@ -203,7 +213,7 @@ Tôi hoàn toàn đồng ý.
 
 Và may mắn thay, các hệ thống chúng tôi xây dựng không chỉ cho phép chúng tôi phát triển và mở rộng quy mô, mà chúng còn giúp tăng đáng kể hiệu quả và tỷ suất lợi nhuận của chúng tôi.
 
-Nói cách khác, chúng tôi thực sự GIỮ LẠI được nhiều tiền hơn nhờ vào các hệ thống mà chúng tôi đã xây dựng.
+Nói cách khác, **chúng tôi thực sự GIỮ LẠI được nhiều tiền hơn nhờ vào các hệ thống mà chúng tôi đã xây dựng**.
 
 Cho đến rất gần đây, những checklist, báo cáo, “cheat sheet” và quy trình vận hành tiêu chuẩn này là của riêng tôi và chỉ mình tôi biết.
 
@@ -211,13 +221,13 @@ Chúng được khóa trong “kho báu” của chúng tôi, và trừ khi bạ
 
 Chúng là “nước sốt bí mật” của chúng tôi…
 
-…Thành Phần Bí Ẩn Của Chúng Tôi
+**…Thành Phần Bí Ẩn Của Chúng Tôi**
 
-### Nhưng gần đây, chúng tôi đã thực hiện một bước đi rất táo bạo (và một số người có thể nói là ĐIÊN RỒ) tại DigitalMarketer.com.
+Nhưng gần đây, chúng tôi đã thực hiện một bước đi rất táo bạo (và một số người có thể nói là ĐIÊN RỒ) tại DigitalMarketer.com.
 
-Chúng tôi quyết định lấy toàn bộ TẤT CẢ các hệ thống và checklist của mình…
+Chúng tôi quyết định lấy **toàn bộ TẤT CẢ các hệ thống và checklist của mình…**
 
-…MỌI THỨ…
+**…MỌI THỨ…**
 
 …và “mở mã nguồn” chúng cho các chủ doanh nghiệp, doanh nhân solo và chuyên gia marketing khác.
 
@@ -229,39 +239,51 @@ Và khi chúng tôi tìm ra điều gì đó hiệu quả, chúng tôi sẽ hệ
 
 Đây là một cái nhìn nhanh về các kế hoạch thực thi đã sẵn sàng chờ bạn bên trong DM Lab…
 
-* ✅ Checklist Trang Đích 16 Bước Giúp Tăng GẤP ĐÔI Tỷ Lệ Đăng Ký một cách nhất quán
-* ✅ Chiến Dịch Giành Lại Người Đăng Ký 9 Bước Giúp Tái Kích Hoạt và Tương Tác Lại với các Danh Sách Email “Chết” và Bị Bỏ Quên (có nghĩa là nhiều lượt mở hơn, nhiều lượt nhấp hơn và NHIỀU TRAFFIC HƠN cho bạn!)
-* ✅ Kế Hoạch Tối Ưu Hóa Chào Hàng 22 Bước Giúp Tăng Vọt Tỷ Lệ Chuyển Đổi 40 – 70%
-* ✅ Chuỗi Cứu Vãn Khách Hàng 5 Phần Đã Giảm Tỷ Lệ Hoàn Tiền Tới 53% (và Biến Những Khách Hàng Tức Giận Thành Những Người Hâm Mộ Cuồng Nhiệt)
-* ✅ Công Thức Bán Hàng Bằng Video 15 Bước Vượt Trội Hơn Các Thông Điệp Bán Hàng Chỉ Có Văn Bản Truyền Thống Từ 200 – 300%
+✅ Checklist Trang Đích 16 Bước Giúp Tăng GẤP ĐÔI Tỷ Lệ Đăng Ký một cách nhất quán
+
+✅ Chiến Dịch Giành Lại Người Đăng Ký 9 Bước Giúp Tái Kích Hoạt và Tương Tác Lại với các Danh Sách Email “Chết” và Bị Bỏ Quên (có nghĩa là nhiều lượt mở hơn, nhiều lượt nhấp hơn và NHIỀU TRAFFIC HƠN cho bạn!)
+
+✅ Kế Hoạch Tối Ưu Hóa Chào Hàng 22 Bước Giúp Tăng Vọt Tỷ Lệ Chuyển Đổi 40 – 70%
+
+✅ Chuỗi Cứu Vãn Khách Hàng 5 Phần Đã Giảm Tỷ Lệ Hoàn Tiền Tới 53% (và Biến Những Khách Hàng Tức Giận Thành Những Người Hâm Mộ Cuồng Nhiệt)
+
+✅ Công Thức Bán Hàng Bằng Video 15 Bước Vượt Trội Hơn Các Thông Điệp Bán Hàng Chỉ Có Văn Bản Truyền Thống Từ 200 – 300%
 
 …và đó chỉ là một vài ví dụ!
 
 Những Kế Hoạch Thực Thi này rất tuyệt vời để tối ưu hóa những gì bạn đã có, nhưng nếu bạn cần triển khai một dự án mới thì sao?
 
-Nếu bạn cuối cùng muốn khởi chạy một blog, trang Facebook, hoặc chỉ là một trang đích mới?
+Nếu bạn cuối cùng muốn **khởi chạy một blog, trang Facebook**, hoặc chỉ là một **trang đích mới**?
 
 Nếu bất kỳ điều nào trong số đó nằm trong “Danh Sách Việc Cần Làm” của bạn, thì bạn sẽ yêu thích những Kế Hoạch Thực Thi này.
 
 Có…
 
-* ✅ Checklist 16 Bước để Khởi Chạy Cửa Hàng Thương Mại Điện Tử Của Bạn Chỉ Trong Một Cuối Tuần
-* ✅ Kế Hoạch 21 Bước để Khởi Chạy một Blog VÀ Thu Hút 1000 Người Đăng Ký Đầu Tiên
-* ✅ Kế Hoạch Tối Ưu Hóa Chào Hàng 22 Bước Giúp Tăng Vọt Tỷ Lệ Chuyển Đổi 40 – 70%
-* ✅ Kế Hoạch 15 Bước để Ra Mắt một Ebook trên Amazon Kindle và Đưa Nó Lên Vị Trí #1 Trong Hạng Mục của nó, trong 14 Ngày hoặc Ít hơn!
-* ✅ Kế Hoạch 38 Bước để Xây Dựng Trang Đích Đầu Tiên Của Bạn Đúng Cách Ngay Từ Lần Đầu
-* ✅ Checklist 28 Bước để Thiết Lập Trang Facebook Hoàn Hảo (và Nhận 100 Lượt Thích Đầu Tiên)
+✅ Checklist 16 Bước để Khởi Chạy Cửa Hàng Thương Mại Điện Tử Của Bạn Chỉ Trong Một Cuối Tuần
+
+✅ Kế Hoạch 21 Bước để Khởi Chạy một Blog VÀ Thu Hút 1000 Người Đăng Ký Đầu Tiên
+
+✅ Kế Hoạch Tối Ưu Hóa Chào Hàng 22 Bước Giúp Tăng Vọt Tỷ Lệ Chuyển Đổi 40 – 70%
+
+✅ Kế Hoạch 15 Bước để Ra Mắt một Ebook trên Amazon Kindle và Đưa Nó Lên Vị Trí #1 Trong Hạng Mục của nó, trong 14 Ngày hoặc Ít hơn!
+
+✅ Kế Hoạch 38 Bước để Xây Dựng Trang Đích Đầu Tiên Của Bạn Đúng Cách Ngay Từ Lần Đầu
+
+✅ Checklist 28 Bước để Thiết Lập Trang Facebook Hoàn Hảo (và Nhận 100 Lượt Thích Đầu Tiên)
 
 Những kế hoạch này chắc chắn là **LỐI TẮT TỐI THƯỢNG** để cuối cùng gạch bỏ tất cả những mục đó trong “Danh sách việc cần làm” của bạn.
 
-Và nhân tiện, nếu thứ bạn đang tìm kiếm là traffic… ồ… chúng tôi cũng có một Kế Hoạch Thực Thi cho việc đó.
+Và nhân tiện, **nếu thứ bạn đang tìm kiếm là traffic…** ồ… chúng tôi cũng có một Kế Hoạch Thực Thi cho việc đó.
 
 Ví dụ, có…
 
-* ✅ Checklist 18 Bước để Khởi Chạy Chiến Dịch Quảng Cáo Facebook Có Lợi Nhuận Đầu Tiên Của Bạn
-* ✅ Checklist 23 Bước để Thực Hiện một Chiến Dịch Facebook “Đối Tượng Tùy Chỉnh” Hoàn Hảo Để Thúc Đẩy Nhiều Doanh Số Hơn Từ Các Khách Hàng Tiềm Năng Bạn Đã Có
-* ✅ Kế Hoạch 22 Bước để Sử Dụng Quảng Cáo Twitter Nhằm Tạo Ra Khách Hàng Tiềm Năng và Doanh Số Mới (gần như không ai làm đúng điều này)
-* ✅ Kế Hoạch Quảng Cáo LinkedIn 16 Bước để Thu Hút Khách Hàng Tiềm Năng B2B Được Nhắm Mục Tiêu Cao
+✅ Checklist 18 Bước để Khởi Chạy Chiến Dịch Quảng Cáo Facebook Có Lợi Nhuận Đầu Tiên Của Bạn
+
+✅ Checklist 23 Bước để Thực Hiện một Chiến Dịch Facebook “Đối Tượng Tùy Chỉnh” Hoàn Hảo Để Thúc Đẩy Nhiều Doanh Số Hơn Từ Các Khách Hàng Tiềm Năng Bạn Đã Có
+
+✅ Kế Hoạch 22 Bước để Sử Dụng Quảng Cáo Twitter Nhằm Tạo Ra Khách Hàng Tiềm Năng và Doanh Số Mới (gần như không ai làm đúng điều này)
+
+✅ Kế Hoạch Quảng Cáo LinkedIn 16 Bước để Thu Hút Khách Hàng Tiềm Năng B2B Được Nhắm Mục Tiêu Cao
 
 Và một lần nữa, đây chỉ là một VÍ DỤ!
 
@@ -273,57 +295,105 @@ Nhưng đó chưa phải là tất cả…
 
 ### Các Buổi Đào Tạo TRỰC TIẾP Hàng Tháng Về “Điều Gì Đang Hiệu Quả”
 
-Là một thành viên của DM Lab, bạn cũng được “ghé thăm” các cuộc họp nội bộ “Điều Gì Đang Hiệu Quả” của chúng tôi, nơi các thành viên của đội ngũ DM chia sẻ những gì mới, những gì nóng hổi và những gì ĐANG HIỆU QUẢ trên tất cả các bộ phận và công ty khác nhau của chúng tôi.
+Là một thành viên của DM Lab, bạn cũng được “ghé thăm” các cuộc họp nội bộ **“Điều Gì Đang Hiệu Quả”** của chúng tôi, nơi các thành viên của đội ngũ DM chia sẻ những gì mới, những gì nóng hổi và những gì ĐANG HIỆU QUẢ trên tất cả các bộ phận và công ty khác nhau của chúng tôi.
 
 Giống như bạn đang ngồi tại một trong những chiếc bàn làm việc tại văn phòng của chúng tôi ở Austin, TX… nghe lén mọi thứ chúng tôi nói.
+
+Trước đây, những “cuộc gặp gỡ” ảo này chỉ dành cho nhân viên, nhưng như một phần của việc “mở mã nguồn” doanh nghiệp của mình, tôi đã quyết định cho phép các thành viên DM Lab tham dự các buổi này.
+
+Bạn không chỉ nhận được những ý tưởng mới nhất và tuyệt vời nhất (trước khi chúng được chuyển thành Kế Hoạch Thực Thi), bạn còn có cơ hội đặt câu hỏi cho tôi, đội ngũ của tôi, hoặc bất kỳ ai khác quyết định ghé qua trong tuần đó.
 
 ### Nhóm Mastermind DM Engage
 
 Là một thành viên Lab, bạn cũng có quyền truy cập vào nhóm mastermind riêng của chúng tôi, “DM Engage”.
 
 Giống như một nhóm mastermind truyền thống, DM Engage tập trung vào:
+
 ✅ Chia sẻ những gì đang hiệu quả, và…
+
 ✅ Nhận trợ giúp với những gì không hiệu quả.
+
+Các thành viên của chúng tôi bao gồm:
+
+✅ Phó chủ tịch cấp cao về marketing cho một trong những công ty thể hình lớn nhất thế giới (bạn không chỉ nghe nói về họ… bạn đã thấy sản phẩm của họ trên TV)
+
+✅ Nhà sáng lập của hai trong số những startup SaaS nóng nhất trong lĩnh vực thử nghiệm và phân tích (có khả năng bạn đang sử dụng một hoặc cả hai giải pháp của anh ấy)
+
+✅ Một cựu Phó chủ tịch của PepsiCo…
+
+✅ Một trong những nhà đầu tư mạo hiểm (VC) có mối quan hệ rộng nhất tại Thung lũng Silicon (người cũng tình cờ là một tác giả sách bán chạy nhất)…
+
+…cùng với một số lượng lớn:
+
+✅ Tác giả và nhà xuất bản thông tin
+
+✅ Nhà đầu tư mạo hiểm và các nhà đầu tư
+
+✅ Chủ doanh nghiệp địa phương, truyền thống
+
+✅ Blogger và doanh nhân truyền thông
+
+✅ Luật sư tài ba (vâng, chúng tôi cho phép một vài người) và…
+
+✅ Các CEO dày dặn kinh nghiệm
 
 Và một khi bạn đã cho thấy rằng bạn hoàn toàn cam kết với nhóm này, những thành viên này (và những người khác) sẽ sẵn sàng, sẵn lòng và có khả năng đến để giúp đỡ bạn.
 
-Nhưng xin cảnh báo trước: Bạn cũng sẽ được kỳ vọng làm điều tương tự.
+**Nhưng xin cảnh báo trước:** Bạn cũng sẽ được kỳ vọng làm điều tương tự.
 
 ### Các Buổi Gọi “Giờ Làm Việc” Hàng Tuần
 
 Tất cả các thành viên của DM Lab đều được truy cập TRỰC TIẾP và HÀNG TUẦN với toàn bộ đội ngũ Digital Marketer (và các chuyên gia khách mời đặc biệt không thường xuyên) trong các buổi Q&A “Giờ Làm Việc” TRỰC TIẾP, chỉ dành cho thành viên.
 
-Đây là cơ hội để bạn hỏi đội ngũ chuyên gia của tôi bất cứ điều gì… theo đúng nghĩa đen, BẤT CỨ ĐIỀU GÌ!
+Đây là cơ hội để bạn hỏi đội ngũ chuyên gia của tôi bất cứ điều gì… **theo đúng nghĩa đen, BẤT CỨ ĐIỀU GÌ!**
+
+Nhưng vì **luôn cần có ai đó “là người đầu tiên ra sàn nhảy”**, đội ngũ của chúng tôi bắt đầu mỗi cuộc gọi bằng 15 – 20 phút chia sẻ thông tin chi tiết như…
+
+✅ Hai công thức chúng tôi sử dụng MỖI NGÀY (Thực ra là nhiều lần mỗi ngày) để theo dõi sức khỏe của doanh nghiệp…
+
+✅ CHÍNH XÁC cách chúng tôi sử dụng nội dung blog để tạo ra các ưu đãi được nhắm mục tiêu chính xác bằng cách sử dụng Đối Tượng Tùy Chỉnh Trang Web Facebook
+
+✅ Kế hoạch triển khai và kiểm soát chất lượng (QC) cho “dự án mới” của chúng tôi (mỗi “sơ suất” khiến chúng tôi tốn tối thiểu 5.000 đô la nên checklist QC này siêu giá trị)
+
+✅ Cách chúng tôi sử dụng các công cụ xây dựng trang và mẫu của bên thứ ba để khởi chạy các trang và chiến dịch mới trong vài giờ CHỨ KHÔNG phải vài ngày (và phân tích sâu về các mẫu chuyển đổi tốt nhất của chúng tôi)
+
+… và khi chúng tôi chia sẻ xong, đến LƯỢT BẠN hỏi đội ngũ DM BẤT CỨ ĐIỀU GÌ.
 
 Chúng tôi sẽ ở lại cho đến khi câu hỏi cuối cùng được trả lời mỗi tuần!
 
-Vậy là bạn nhận được tất cả…
+**Vậy là bạn nhận được tất cả…**
 
-* ✅ Thư viện Kế Hoạch Thực Thi
-* ✅ Các cuộc gặp gỡ “Điều Gì Đang Hiệu Quả” hàng tháng
-* ✅ Truy cập 24/7 vào Nhóm Mastermind DM Engage
-* ✅ Các cuộc gọi “Giờ Làm Việc” hàng tuần
+✅ Thư viện Kế Hoạch Thực Thi (tất cả các checklist, báo cáo, “cheat sheet” và quy trình vận hành tiêu chuẩn của chúng tôi… theo đúng nghĩa đen là mọi hệ thống chúng tôi sử dụng để điều hành doanh nghiệp của mình…)
 
-### Bạn Nhận Được TẤT CẢ - Trong 30 Ngày - Chỉ Với $1
+✅ Các cuộc gặp gỡ “Điều Gì Đang Hiệu Quả” hàng tháng (để bạn luôn cập nhật và nắm bắt được những gì mới, những gì nóng hổi và những gì thực sự hiệu quả NGAY HÔM NAY…)
+
+✅ Truy cập 24/7 vào Nhóm Mastermind DM Engage của chúng tôi (để bạn có thể nhận được sự giúp đỡ và hỗ trợ bất cứ khi nào và bất cứ nơi đâu), và…
+
+✅ Các cuộc gọi “Giờ Làm Việc” hàng tuần (để bạn không bao giờ có một câu hỏi nào không được trả lời)…
+
+**Bạn Nhận Được TẤT CẢ - Trong 30 Ngày - Chỉ Với $1**
 
 Đúng vậy…
 
-Khoản đầu tư của bạn hôm nay chỉ là $1…
+**Khoản đầu tư của bạn hôm nay chỉ là $1…**
 
-### Tôi Có Thể Điên… Nhưng Tôi Không Ngu Ngốc
+**Tôi Có Thể Điên… Nhưng Tôi Không Ngốc**
 
 Có thể bạn sẽ ngạc nhiên, nhưng tôi có một động cơ thầm kín, khôn lỏi khi đưa ra lời đề nghị này.
 
 Như bạn có thể đã đoán, tôi không thể giàu lên bằng cách cho đi những thứ tốt nhất của mình chỉ với 1 đô la.
 
-Niềm hy vọng chân thành của tôi là bạn sẽ yêu thích những gì bạn thấy và chọn ở lại.
+**Niềm hy vọng chân thành của tôi là bạn sẽ yêu thích những gì bạn thấy và chọn ở lại.**
 
 Nếu bạn làm vậy, TUYỆT VỜI!
-Nếu không, đó cũng ok thôi.
+
+Nếu không, cũng không sao cả.
 
 Chỉ cần hủy trước khi 30 ngày kết thúc, và bạn sẽ không bao giờ bị tính phí.
 
-Nhưng nếu bạn thực sự yêu thích nó (và tôi nghĩ bạn sẽ như vậy), bạn sẽ tự động được gia hạn với mức phí thành viên sáng lập chỉ **38,60 đô la một tháng**.
+**(TIẾT LỘ ĐẦY ĐỦ: Chúng tôi thực sự không cố gắng tính phí thẻ của bạn trong 35 ngày, chỉ để phòng trường hợp đó là cuối tuần hoặc bạn đang đi du lịch hoặc bạn chỉ đơn giản là quên mất. Ồ vâng, và chúng tôi cũng gửi cho bạn hai lời nhắc trước khi việc gia hạn tự động diễn ra, vì vậy bạn không phải lo lắng về việc bỏ lỡ nó.)**
+
+Nhưng nếu bạn thực sự yêu thích nó (và tôi nghĩ bạn sẽ như vậy), bạn sẽ tự động được gia hạn với mức phí thành viên sáng lập chỉ 38,60 đô la một tháng.
 
 Một khoản tiền nhỏ bé…
 
@@ -331,20 +401,24 @@ Một khoản tiền nhỏ bé…
 
 Thực tế, tôi sẽ thỏa thuận với bạn…
 
-Nếu bạn không thể kiếm đủ tiền trong tháng đầu tiên để trang trải chi phí đầu tư vào DM Lab trong ít nhất hai năm tới, tôi sẽ nhấn mạnh rằng bạn nên rút lui và tìm kiếm sự giúp đỡ ở nơi khác.
+**Nếu bạn không thể kiếm đủ tiền trong tháng đầu tiên để trang trải chi phí đầu tư vào DM Lab trong ít nhất hai năm tới, tôi sẽ nhấn mạnh rằng bạn nên rút lui và tìm kiếm sự giúp đỡ ở nơi khác.**
 
 Một lần nữa, đó là mức độ tự tin của tôi vào những gì bạn sắp có được.
 
 Vì vậy, hãy nhấp vào nút Thêm vào giỏ hàng bên dưới, và chúng ta hãy bắt đầu…
 
-**(Nút màu xanh lá cây)**
-**Thêm Gói Dùng Thử $1 Vào Giỏ Hàng**
+#### [Thêm Gói Dùng Thử $1 Vào Giỏ Hàng](lehuutuyen.com)
 
-Hẹn gặp lại bạn ở bên trong,
+_Thêm Vào Giỏ Hàng - Chỉ $1.00_
+
+_Hẹn gặp lại bạn ở bên trong,_
 
 **Ryan Deiss**
-Nhà sáng lập và CEO, DigitalMarketer.com
 
-**P.S.** Điều này không cần phải nói, nhưng ưu đãi 1 đô la này sẽ không có sẵn trong thời gian dài, và nó sẽ không sớm quay trở lại khi nó biến mất.
+_Nhà sáng lập và CEO, DigitalMarketer.com_
+
+**P/s:** Điều này không cần phải nói, nhưng ưu đãi 1 đô la này sẽ không có sẵn trong thời gian dài, và nó sẽ không sớm quay trở lại khi nó biến mất.
 
 Vì vậy, hãy tham gia ngay bây giờ khi nó còn mới mẻ trong tâm trí bạn (và khi trang này vẫn còn hoạt động).
+
+**P/ss:** Vẫn còn đang phân vân? Đây là những gì các thành viên của chúng tôi đang nói…
