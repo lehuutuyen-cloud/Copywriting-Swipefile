@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 08:58:24",
+  "last_updated": "2025-11-23 08:59:56",
   "total_books": 6,
   "books": [
     {
@@ -161,8 +161,8 @@
       },
       "chapters": [
         {
-          "filename": "chapter_00_phan_mo_dau.md",
-          "path": "books/halbert_copywriting_method_part_iii/chapter_00_phan_mo_dau.md"
+          "filename": "chapter_00_loi_noi_dau.md",
+          "path": "books/halbert_copywriting_method_part_iii/chapter_00_loi_noi_dau.md"
         }
       ]
     },
