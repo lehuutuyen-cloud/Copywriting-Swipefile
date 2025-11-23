@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 09:49:54",
+  "last_updated": "2025-11-23 09:57:36",
   "total_books": 6,
   "books": [
     {
@@ -179,6 +179,10 @@
         {
           "filename": "chapter_04_chinh_sua_de_ro_rang.md",
           "path": "books/halbert_copywriting_method_part_iii/chapter_04_chinh_sua_de_ro_rang.md"
+        },
+        {
+          "filename": "chapter_05_cach_giu_khach_hang_tiem_nang_doc_tiep.md",
+          "path": "books/halbert_copywriting_method_part_iii/chapter_05_cach_giu_khach_hang_tiem_nang_doc_tiep.md"
         }
       ]
     },
