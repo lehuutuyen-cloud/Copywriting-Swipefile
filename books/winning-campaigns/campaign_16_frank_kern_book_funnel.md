@@ -108,24 +108,29 @@ Và bạn sẽ ngay lập tức "nắm bắt" được toàn bộ phương pháp
 
 Dưới đây là một phần nhỏ trong những nội dung cuốn sách này chứa đựng và những giá trị mà nó có thể mang lại cho doanh nghiệp của bạn:
 
-* **TIN VUI NHẤT:** Ngay lúc bạn đọc những dòng này, đối thủ của bạn đang hầu như tự nguyện dâng khách hàng của họ cho bạn.
+* **TIN VUI NHẤT:** Ngay lúc bạn đọc những dòng này, đối thủ của bạn đang hầu như _tự nguyện dâng khách hàng của họ cho bạn_.
 
     Làm sao ư?
-    Họ đang mắc ba sai lầm chết người, những sai lầm này có thể khiến khách hàng của họ đổ xô đến với bạn.
-    Tất cả những gì bạn cần làm là "xuất hiện" và bạn có thể nhanh chóng thống trị thị trường của mình chỉ trong vài ngày bằng cách sử dụng phương pháp đơn giản này. (Xem trang 3.)
+  
+    Họ đang mắc ba sai lầm chết người, những sai lầm này có thể **khiến khách hàng của họ đổ xô đến với bạn**.
+
+  Tất cả những gì bạn cần làm là "xuất hiện" và bạn có thể nhanh chóng **thống trị thị trường của mình chỉ trong vài ngày** bằng cách sử dụng phương pháp đơn giản này. (Xem trang 3.)
 
 * Chiến thuật đột phá để xây dựng **NIỀM TIN** với khách hàng tiềm năng của bạn.
 
-    Rất ít doanh nghiệp thực hiện điều này, và tôi tin rằng nó dễ hơn khoảng 300 lần so với các phương pháp "thông thường" mà hầu hết mọi người vẫn dùng.
+    Rất ít doanh nghiệp thực hiện điều này, và tôi tin rằng nó **dễ hơn khoảng 300 lần** so với các phương pháp "thông thường" mà hầu hết mọi người vẫn dùng.
+  
     Bạn sẽ hiểu rõ điều này ở trang 54.
 
-* Bí mật đơn giản của diễn giả có thu nhập cao nhất thế giới – và cách bạn có thể ứng dụng nó để mang lại lợi ích cho chính mình. (Xem trang 20).
+* **Bí mật đơn giản** của diễn giả có thu nhập cao nhất thế giới – và cách bạn có thể ứng dụng nó để mang lại lợi ích cho chính mình. (Xem trang 20).
 
-* **BỊT TAI LẠI!** Bạn đang bị nhồi nhét những thông tin sai lệch bởi “những nhà tiếp thị mới nổi” và những sản phẩm hào nhoáng của họ.
+* **BỊT TAI LẠI!** Bạn đang bị nhồi nhét những thông tin **sai lệch** bởi **“những nhà tiếp thị mới nổi”** và những **sản phẩm hào nhoáng** của họ.
 
     Chỉ có ba bước đã được chứng minh để đạt lợi nhuận bền vững, và chúng hoạt động cùng nhau hoàn hảo khi được áp dụng theo đúng thứ tự.
-    Ở trang 6 (sáu), bạn sẽ nhận được phương trình chính xác gồm 3 phần giúp tạo ra lợi nhuận cho toàn bộ hệ thống này. Bạn sẽ ngay lập tức hiểu nó và có thể áp dụng vào doanh nghiệp của mình ngay hôm nay.
-    Hãy triển khai nó và bạn có thể hoàn toàn thống trị thị trường... đưa bản thân, doanh nghiệp hoặc thương hiệu của bạn lên tầm cao mới, vượt qua đối thủ cạnh tranh trong khi họ còn đang bối rối không hiểu chuyện gì đã xảy ra.
+
+  Ở trang 6 (sáu), bạn sẽ nhận được **phương trình chính xác gồm 3 phần** giúp tạo ra lợi nhuận cho toàn bộ hệ thống này. Bạn sẽ ngay lập tức hiểu nó và có thể áp dụng vào doanh nghiệp của mình ngay hôm nay.
+
+  **Hãy triển khai** nó và bạn có thể hoàn toàn thống trị thị trường... đưa bản thân, doanh nghiệp hoặc thương hiệu của bạn lên tầm cao mới, vượt qua đối thủ cạnh tranh trong khi họ còn đang bối rối không hiểu chuyện gì đã xảy ra.
 
 * Hai điều bạn có thể làm **NGAY LẬP TỨC** để tăng doanh số và doanh thu mà không cần chi thêm tiền cho lưu lượng truy cập và không cần gửi thêm email cho danh sách của bạn.
 
@@ -133,7 +138,12 @@ Dưới đây là một phần nhỏ trong những nội dung cuốn sách này 
 
 * **HÃY ÁP DỤNG NGAY:** Có một hiệu ứng tâm lý tuyệt vời khiến mọi người đổ xô chi tiêu nhiều hơn đến 300% cho cùng một loại sản phẩm mà bạn bè của họ vừa mua với giá chỉ bằng một phần nhỏ.
 
-    Tôi sẽ hướng dẫn bạn qua một nghiên cứu điển hình hiện tại và tiết lộ chính xác cách thực hiện điều này, tại sao nó hiệu quả, và các bước cụ thể bạn có thể thực hiện để tạo ra hiệu ứng "bùng nổ" tương tự trong doanh nghiệp của bạn.
-    Tôi đã áp dụng chiến lược này trong hai doanh nghiệp của mình, thành công tính giá cao hơn đến 500% so với đối thủ, ngay trong thời kỳ suy thoái kinh tế tồi tệ nhất.
+    Tôi sẽ hướng dẫn bạn qua **một nghiên cứu điển hình** hiện tại và tiết lộ chính xác cách thực hiện điều này, tại sao nó hiệu quả, và các bước cụ thể bạn có thể thực hiện để tạo ra hiệu ứng "bùng nổ" tương tự trong doanh nghiệp của bạn.
+  
+    Tôi đã áp dụng chiến lược này trong hai doanh nghiệp của mình, thành công **tính giá cao hơn đến 500% so với đối thủ**, ngay trong thời kỳ suy thoái kinh tế tồi tệ nhất.
 
     Kết quả cuối cùng? **TÔI ĐÃ BÁN SẠCH SẢN PHẨM.**
+
+    Chỉ một mẹo này thôi cũng có thể **thay đổi hoàn toàn hướng đi** của doanh nghiệp bạn, biến bạn thành một thương hiệu siêu cao cấp mà **mọi người đều khao khát** được hợp tác cùng.
+
+
