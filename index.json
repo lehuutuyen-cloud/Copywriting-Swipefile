@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 10:02:35",
+  "last_updated": "2025-11-23 10:25:05",
   "total_books": 6,
   "books": [
     {
@@ -187,6 +187,10 @@
         {
           "filename": "chapter_06_lam_cho_bai_viet_ban_hang_manh_me_hon.md",
           "path": "books/halbert_copywriting_method_part_iii/chapter_06_lam_cho_bai_viet_ban_hang_manh_me_hon.md"
+        },
+        {
+          "filename": "chapter_07_tiem_vao_tam_ly_an.md",
+          "path": "books/halbert_copywriting_method_part_iii/chapter_07_tiem_vao_tam_ly_an.md"
         }
       ]
     },
