@@ -146,4 +146,224 @@ Dưới đây là một phần nhỏ trong những nội dung cuốn sách này 
 
     Chỉ một mẹo này thôi cũng có thể **thay đổi hoàn toàn hướng đi** của doanh nghiệp bạn, biến bạn thành một thương hiệu siêu cao cấp mà **mọi người đều khao khát** được hợp tác cùng.
 
+* Bạn nghĩ rằng tăng doanh số là cách duy nhất để có lợi nhuận cao hơn? Nghĩ lại đi! Hãy khám phá **yếu tố quan trọng nhất giúp bạn kiếm được nhiều tiền hơn**... ngay cả khi doanh số không thay đổi. (Xem trang 7).
 
+### **Mọi Người Đều Nghĩ Rằng…**
+
+Bạn tin rằng cần phải có lời chứng thực _(testimonials)_ để tăng doanh số, đúng không?
+
+**SAI RỒI!**
+
+Tôi đã **không dùng đến** lời chứng thực suốt **hơn bốn năm**... nhưng doanh số của tôi vẫn tăng vọt!
+
+Hãy xem cách tôi đã làm khác biệt thế nào - và **làm thế nào bạn cũng có thể áp dụng phương pháp này** - ở trang 15.
+
+Ngoài ra, bạn cũng sẽ khám phá thêm...
+
+* **Làm thế nào để bạn có thể tính phí CAO HƠN đối thủ**... Bí mật nằm ở công thức hai bước này, được thiết kế để **hiệu quả ngay cả khi bạn chỉ là một "người vô danh"**. (Xem trang 9).
+
+* Cách dễ nhất để **tạo ra nhu cầu lớn** cho sản phẩm của bạn. Hãy quên đi những lời phóng đại và kiểu "tiếp thị" mà bạn đã quá quen thuộc và chán ngấy. Phương pháp đơn giản này hiệu quả đến mức điên rồ - **và thậm chí không tốn một đồng nào để thực hiện**. (Xem trang 13).
+
+* 8 **"thao tác bí mật"** tạo điểm nhấn tâm lý giúp bạn trở nên **cuốn hút với những khách hàng tiềm năng tốt nhất**. Một trong số đó là yếu tố "CẤM KỴ". Cách triển khai bảy yếu tố còn lại sẽ được tiết lộ ở trang 17.
+
+* Làm thế nào để trở thành một **NHÂN VẬT CÓ TẦM ẢNH HƯỞNG** trong thị trường của bạn. Nên nói gì trong quảng cáo, cách định vị thông điệp tiếp thị, và loại chiến lược bán hàng nào hiệu quả nhất. _(Bắt đầu từ trang 19)_.
+
+Nhưng đó chưa phải là tất cả...
+
+Bạn cũng sẽ khám phá ra những **bí mật thành công không khoan nhượng** như…
+
+### **Cách Để Thu Hút Khách Hàng Từ Chính Đối Thủ Của Bạn!**
+
+Bạn sẽ khám phá ra một **cụm từ đặc biệt** có thể biến kẻ thù của bạn thành một **nguồn cơ hội** tuyệt vời. (Xem cuối trang 23.) 
+
+Thêm vào đó, tôi sẽ tiết lộ ...
+
+* Thời điểm **TỒI TỆ NHẤT** để cố gắng bán hàng. (Cảm ơn Chúa, đối thủ của bạn hầu như luôn mắc phải sai lầm này.) Áp dụng **chiến lược thời điểm đề nghị đặc biệt** của tôi được tiết lộ ở trang 53.
+
+* **Khi nào bạn không bao giờ nên gửi lưu lượng truy cập trực tiếp đến một thông điệp bán hàng** - ngay cả khi họ đã biết đến bạn. 
+
+Hiện tại có một **quy trình mới** giúp chuyển đổi nhiều khách hàng tiềm năng thành khách hàng hơn... và nó chỉ có thể được sử dụng trực tuyến. Khám phá đó là gì và cách triển khai chính xác trên trang 40.
+
+* Cách các CEO tỷ đô, chính trị gia, và thậm chí là những người có ảnh hưởng mạnh mẽ kiểm soát ý kiến của mọi người mà không cần gặp họ. Khám phá lớn ở trang 27.
+
+* Cách nhanh nhất để khiến ai đó muốn mua sản phẩm của bạn. _(Dù có làm gì đi nữa, **ĐỪNG** nói về sản phẩm của bạn!)_ Xem tại Trang 50.
+
+* **Cách THỰC SỰ để thu hút NGƯỜI MUA từ mạng xã hội**. Hãy quên những gì các "chuyên gia" nói đi... Cá nhân tôi chốt nhiều đơn hàng mỗi **THÁNG** hơn hầu hết mọi người kiếm được trong cả **NĂM**... tất cả đều từ quảng cáo trên mạng xã hội.
+
+Tóm lại, tôi đã **giải mã thành công**. (Khám phá bí mật đằng sau một chiến dịch quảng cáo thành công bắt đầu từ **trang 65**.)
+
+Bạn đúng rồi ...đó là rất nhiều **chiến lược** và **chiến thuật thực tế** đã được chứng minh và đang hoạt động hiệu quả ngay bây giờ.
+
+Nhưng đó chỉ là phần nổi của tảng băng chìm vì bạn còn nhận được thêm...
+
+### **Một Hệ Thống Nâng Cao Để Biến Những Người Xa Lạ Hoàn Toàn Thành Người Hâm Mộ Cuồng Nhiệt Mua Hàng Của Bạn Lặp Lại Nhiều Lần**
+
+Nghe này.
+
+Dù mọi người thường làm phức tạp quá trình bán hàng trực tuyến, thực ra nó khá đơn giản.
+
+Đây là cách thực hiện:
+
+**Bước 1:** Xây dựng danh sách những khách hàng tiềm năng quan tâm.
+
+**Bước 2:** Bán sản phẩm cho họ.
+
+Mọi người đều biết bước đầu tiên là dễ dàng. Bạn xây dựng danh sách bằng cách cung cấp thông tin miễn phí để đổi lấy địa chỉ email của họ. Bạn có thể làm điều đó ngay cả khi ngủ.
+
+Nhưng làm thế nào bạn biến một người xa lạ hoàn toàn thành một người hâm mộ cuồng nhiệt, chọn **BẠN** thay vì tất cả những người khác... lặp đi lặp lại?
+
+### Có Một Hệ Thống Cho Điều Đó
+
+Và ngoài cuốn sách này, bạn cũng sẽ nhận được một hướng dẫn chi tiết kéo dài 90 phút giải thích chính xác cách hệ thống đó hoạt động... và cách bạn có thể bắt đầu triển khai nó ngay lập tức.
+
+Nó không phải là một công nghệ mới.
+
+Nó không phải là phần mềm.
+
+### **Dưới Đây Là Những Gì Cần Làm Tiếp Theo**
+
+"Chi phí" của cuốn sách này là $5.60, và bạn sẽ nhận được nó ngay lập tức dưới dạng tải xuống PDF.
+
+**Tại sao lại là $5.60?**
+
+Vâng, tôi đã từng gửi bản in vật lý qua đường bưu điện.
+
+Việc in ấn, bưu phí và phong bì bảo vệ tốn chính xác $5.60.
+
+Khoảng 6% số sách chúng tôi gửi đi bị thất lạc trong quá trình vận chuyển.
+
+Và một số trong đó mất gần ba tuần mới đến nơi!
+
+**Tôi nghĩ bạn sẽ thích nhận được cuốn sách ngay lập tức, thay vì phải chờ vài tuần.**
+
+Ngay khi bạn đặt hàng hôm nay, bạn sẽ nhận được một email xác nhận với liên kết tải xuống để bạn có thể nhận sách.
+
+Từ đó, bạn có thể tải sách xuống và đọc ngay. Bạn có thể truy cập sách ở bất kỳ đâu, ngay lập tức, mà không cần phải chờ bưu điện gửi đến!
+
+**À, và nếu bạn đang thắc mắc...**
+
+### **KHÔNG CÓ BẤT KỲ RÀNG BUỘC NÀO!**
+
+Tôi biết có một số trang web ngoài kia cung cấp cho bạn một ưu đãi tuyệt vời, nhưng sau đó họ lại lừa bạn đăng ký một chương trình nào đó và âm thầm tính phí thẻ của bạn mỗi tháng.
+
+Đây không phải là một trong số đó.
+
+Không có chương trình "đăng ký liên tục" ẩn nào mà bạn phải thử ...hoặc bất cứ điều gì tương tự.
+
+Tôi đang bán cho bạn toàn bộ cuốn sách này với giá gốc, như một cách để "bắt đầu một cách tốt nhất" và thể hiện giá trị thực sự.
+
+Tôi hy vọng bạn sẽ thích nó và điều này sẽ là khởi đầu cho một mối quan hệ kinh doanh tốt đẹp trong nhiều năm tới.
+
+Với điều đó đã nói, có MỘT điều bạn cần ghi nhớ:
+
+### **Thời Gian Là Vô Cùng Quan Trọng**
+
+Đây là lý do.
+
+Tôi chấp nhận chịu lỗ khi bán cuốn sách này với mức giá như vậy.
+
+Lý do là vì tôi phải chi đến $33,04 cho quảng cáo chỉ để bán một cuốn sách.
+
+Vậy tại sao tôi lại làm điều đó?
+
+Rất đơn giản.
+
+Tôi muốn gây ấn tượng tốt với bạn, để rồi một ngày nào đó, bạn sẽ muốn hợp tác kinh doanh với tôi lần nữa.
+
+Đúng vậy, tôi có các sản phẩm và dịch vụ khác mà bạn có thể quan tâm.
+
+Tôi cược rằng bạn sẽ thích cuốn sách này đến mức, bạn sẽ muốn khám phá thêm các khóa đào tạo và dịch vụ khác mà tôi cung cấp.
+
+Thật sự rất đơn giản.
+
+Ồ, còn một điều nữa. Bạn cũng sẽ nhận được một khóa đào tạo video hoàn toàn mới về...
+
+### **Cách Biến Quảng Cáo Facebook Thành Doanh Thu!**
+
+Hãy thành thật nhé... Lưu lượng truy cập TRẢ PHÍ có lẽ là một trong những chủ đề khiến các doanh nhân lo sợ nhất. Chúng ta đều đã nghe những câu chuyện "kinh dị" về việc mọi người đổ cả đống tiền vào quảng cáo và không nhận lại được gì.
+
+Tôi cũng từng rơi vào tình cảnh đó. Đã có những lần tôi mất trắng. Nhiều lần.
+
+Nhưng tôi không bỏ cuộc, và cho đến hôm nay... công ty của tôi trung bình có hơn 3.058 khách hàng mới **MỖI THÁNG** (và con số này còn tiếp tục tăng) ...chỉ nhờ vào quảng cáo trên Facebook.
+
+Vậy bí quyết là gì?
+
+Chúng tôi chỉ sử dụng ba bước đơn giản... và tôi tin rằng nếu bạn tuân theo ba bước này, bạn cũng có thể tự mình giải mã "Bí Mật Của Facebook".
+
+Dưới đây là một vài điều bạn sẽ tìm thấy trong phần thưởng đặc biệt này:
+
+* **Cách sử dụng Quảng Cáo Facebook** để thu hút thêm khách hàng tiềm năng và tăng doanh số cho doanh nghiệp của bạn... ngay cả khi bạn không rành về công nghệ, không thường xuyên sử dụng Facebook cá nhân, và hoàn toàn mới mẻ với lưu lượng truy cập trả phí.
+
+* **Cách định vị quảng cáo** của bạn để nhận được phản hồi tối đa ngay từ lần đầu tiên. (Đây là bí quyết giúp bạn tối ưu hóa hiệu quả cho từng đồng chi phí quảng cáo)
+
+* Bí mật về "Ba Giai Đoạn" mà mọi chiến dịch Quảng Cáo Facebook thành công đều áp dụng. (Và cách bạn có thể sử dụng chúng để tiết kiệm thời gian, tiền bạc và công sức)
+
+* Một phát hiện tình cờ đã **gia tăng đáng kể phản hồi tích cực** của hình ảnh.. Và cách bạn có thể **Ăn Cắp** nó **Một Cách Đạo Đức** cho hình ảnh của chính bạn.
+
+* Hãy quên đi việc cần những bức ảnh đắt tiền, chuyên nghiệp. **Tất cả những gì bạn cần là một chiếc điện thoại có camera và khoảng 15 phút rảnh rỗi.**
+
+* **Công cụ miễn phí tuyệt vời** giúp bạn biến một quảng cáo thành hàng chục phiên bản khác nhau để thử nghiệm... chỉ với một cú nhấp chuột! (Điều này không chỉ **tiết kiệm rất nhiều thời gian** mà còn giúp bạn **tiết kiệm được cả đống tiền**.)
+
+* Phương pháp đơn giản nhưng thường bị bỏ qua (nhưng **siêu dễ dàng**) giúp bạn nhanh chóng mở rộng quảng cáo... mà không làm tăng rủi ro tài chính của bạn.
+
+* **Cách để khiến Facebook giúp bạn** giảm chi phí quảng cáo. (Thực tế, đó cũng chính là lợi ích lớn nhất của họ khi làm điều này.)
+
+* Và còn rất nhiều điều khác nữa!
+
+Nghe này: Cuốn sách này thực sự xuất sắc và cung cấp cho bạn mọi thứ bạn cần.
+  
+Nhưng tôi thuộc tuýp người hoặc làm lớn, hoặc không làm, và tôi cá rằng bạn cũng vậy. 
+
+Đó là lý do hôm nay tôi tặng bạn video bonus này. Đây là cách nhỏ của tôi để đảm bảo rằng bạn có thể bắt tay vào thực hiện ngay những gì bạn sẽ học được trong “**Chuyển Đổi 2.0**”.
+
+### **Bạn Thực Sự Nhận Được Cuốn Sách Và Khóa Đào Tạo Quảng Cáo Facebook Chỉ Với $5.60...**
+
+Tuy nhiên, nếu lần thử nghiệm này không mang lại kết quả như mong muốn, tôi có thể sẽ ngừng cung cấp cuốn sách và tăng giá... vì vậy bạn nên sở hữu ngay phiên bản của mình. 
+
+Nếu tôi quyết định rút lại đề nghị này, thì cơ hội sẽ không còn nữa.
+
+Nhân tiện, dù bạn chỉ phải trả một mức giá cực kỳ thấp – bạn vẫn được bảo vệ bởi điều mà tôi cho là...
+
+### **Lời Cam Kết Táo Bạo Nhất Trên Thế Giới**
+
+Tôi cam kết 100% rằng bạn sẽ yêu thích cuốn sách này và khóa đào tạo video đi kèm. Nếu không, **tôi sẽ hoàn lại toàn bộ $5.60 và bạn vẫn có thể giữ cả cuốn sách lẫn khóa đào tạo video**. 
+
+Chỉ cần gửi email hoặc gọi số điện thoại trên biên nhận, và tôi sẽ hoàn lại tiền mà không cần hỏi thêm gì. Nghe có công bằng không?
+
+Nghe có hợp lý không?
+
+### **Đây Thực Sự Là Một Đề Nghị Có Giới Hạn, Vì Vậy Hãy Sở Hữu Ngay Cuốn Sách Của Bạn Trước Khi Hết!**
+
+> CTA
+
+#### [Gửi Cho Tôi Cuốn Sách](lehuutuyen.com)
+
+Cảm ơn bạn đã dành thời gian đọc lá thư này, và tôi rất mong được hợp tác với bạn sớm!
+
+**Frank Kern**
+
+**P/S:** Trong trường hợp bạn là một trong những người (giống như tôi) chỉ lướt nhanh đến cuối thư, đây là nội dung thỏa thuận:
+
+**Tôi đang tặng bạn một cuốn sách 75 trang, trong đó chi tiết các phương pháp tiếp thị mà tôi đã sử dụng để tạo ra các hệ thống bán hàng trên Internet cực kỳ thành công cho doanh nghiệp của mình và khách hàng.**
+
+Tất cả những gì bạn cần trả là $5.60.
+
+(Đó là giá chính xác nếu tôi in một cuốn sách, đóng gói vào phong bì có đệm và gửi qua bưu điện đến bạn.)
+
+Tôi cũng tặng kèm một khóa đào tạo video hướng dẫn chi tiết ba bước mà chúng tôi sử dụng với Quảng Cáo Facebook để mang về trung bình 3,058 khách hàng mỗi tháng.
+
+Video bonus này không chỉ cho bạn biết ba bước đó là gì ... mà còn cung cấp **ví dụ cụ thể về cách triển khai chúng cho DOANH NGHIỆP của BẠN**... bắt đầu ngay bây giờ.
+
+Tôi tặng bạn video này như một món quà vì tôi muốn bạn **áp dụng ngay những gì bạn học được trong cuốn sách**.
+
+Đây là một ưu đãi rất giới hạn vì tôi đang thử nghiệm một chiến dịch marketing.
+
+Nếu ít nhất tôi không thể hòa vốn cho chi phí quảng cáo của mình, tôi sẽ ngừng cung cấp ưu đãi này.
+
+Không có **"BẪY"** nào trong ưu đãi này cả.
+
+Bạn sẽ không phải đăng ký bất kỳ chương trình "dùng thử" nào hoặc tham gia vào một chương trình hàng tháng nào.
+Thực tế, nếu bạn không thích cuốn sách, hãy cho tôi biết và tôi sẽ hoàn lại $5.60 cho bạn.
+
+> #### LƯU Ý QUAN TRỌNG: 
+Các con số doanh thu mà tôi đã nêu trên là kết quả cá nhân của tôi. Vui lòng hiểu rằng những kết quả này không phải là điển hình. Tôi không ngụ ý rằng bạn sẽ đạt được kết quả tương tự (hoặc làm điều gì đó tương tự). Tôi có lợi thế từ 25 năm kinh nghiệm trong lĩnh vực marketing phản hồi trực tiếp và quảng cáo, cùng với một lượng khách hàng theo dõi trung thành.
