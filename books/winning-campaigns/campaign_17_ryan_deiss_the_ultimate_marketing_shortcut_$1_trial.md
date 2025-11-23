@@ -67,7 +67,7 @@ Một **Godfather Offer** (Lời chào hàng Bố già) kinh điển cho mô hì
 
 > HEAD
 
-## Ưu Đãi Giới Hạn Từ Digital Marketer Nhận Lối Tắt Marketing Tối Thượng… CHỈ VỚI $1
+## Ưu Đãi Giới Hạn Từ Digital Marketer. Nhận Lối Tắt Marketing Tối Thượng… CHỈ VỚI $1
 
 ![$1](https://github.com/user-attachments/assets/b7b58e7d-9068-4b9c-9ccd-6bf791345362)
 _(Hình ảnh tờ 1 đô la Mỹ)_
