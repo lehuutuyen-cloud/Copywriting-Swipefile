@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23 09:20:56",
+  "last_updated": "2025-11-23 09:21:54",
   "total_books": 6,
   "books": [
     {
@@ -165,12 +165,12 @@
           "path": "books/halbert_copywriting_method_part_iii/chapter_00_loi_noi_dau.md"
         },
         {
-          "filename": "chapter_01_nhung_dieu_can_biet_truoc.md",
-          "path": "books/halbert_copywriting_method_part_iii/chapter_01_nhung_dieu_can_biet_truoc.md"
-        },
-        {
           "filename": "chapter_01_phan_mo_dau.md",
           "path": "books/halbert_copywriting_method_part_iii/chapter_01_phan_mo_dau.md"
+        },
+        {
+          "filename": "chapter_02_nhung_dieu_can_biet_truoc.md",
+          "path": "books/halbert_copywriting_method_part_iii/chapter_02_nhung_dieu_can_biet_truoc.md"
         }
       ]
     },
