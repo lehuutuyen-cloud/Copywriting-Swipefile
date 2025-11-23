@@ -67,7 +67,7 @@ Một **No-Brainer Offer (Lời chào hàng không cần não)** điển hình.
 ---
 ## PHẦN 3: THE SWIPE (NỘI DUNG NGUYÊN BẢN)
 
-Mới Ra Mắt Từ Frank Kern
+### Mới Ra Mắt Từ Frank Kern
 
 # "Cuốn Sách Mới Tiết Lộ Cách Tạo Chiến Dịch Trên Internet Để Bán Hàng..."
 
