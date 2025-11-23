@@ -373,5 +373,8 @@ Thực tế, nếu bạn không thích cuốn sách, hãy cho tôi biết và t�
 > 
 > Kết quả của bạn sẽ khác nhau và phụ thuộc vào nhiều yếu tố, bao gồm nhưng không giới hạn ở nền tảng, kinh nghiệm, và đạo đức làm việc của bạn. Tất cả các hoạt động kinh doanh đều có rủi ro và yêu cầu nỗ lực cũng như hành động nhất quán. Nếu bạn không sẵn lòng chấp nhận điều đó, **VUI LÒNG KHÔNG MUA CUỐN SÁCH NÀY**.
 
+---
+> FOOTER
+
 _Copyright 2024 -  Kern Media, Inc. 3960 Howard Hughes Pkwy #500 Las Vegas, NV 89169 (858) 223-1914 - All Rights Reserved_
 
