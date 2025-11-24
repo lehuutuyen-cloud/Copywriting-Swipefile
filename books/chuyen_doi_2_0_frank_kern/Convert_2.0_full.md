@@ -685,5 +685,176 @@ Những ngày của việc thổi phồng, tuyên bố quá mức, tạo ra sự
 
 Những gì bạn sắp khám phá sẽ nhanh chóng Định Vị bạn là "Một Trong Những Người Tốt Nhất" trên thị trường của bạn.
 
+Bạn sẽ biến khách hàng tiềm năng thành người hâm mộ, người hâm mộ thành khách hàng, và khách hàng thành những người ủng hộ nhiệt thành - những người sẽ tưởng thưởng bạn bằng sự trung thành và kinh doanh lâu dài.
+
+### Cơ Hội Chúng Ta Được Trao
+
+Hãy suy nghĩ về điều này. Ngay bây giờ, chúng ta có khả năng tiếp cận nhiều người hơn bao giờ hết trong lịch sử loài người.
+
+Và chúng ta có thể làm điều đó với chi phí gần như không đáng kể, đúng không?
+
+Hãy nghĩ xem, bạn có thể đăng bài trên Facebook và hàng ngàn người sẽ nhìn thấy nó mà không tốn một đồng nào. Thật tuyệt vời.
+
+Sau đó, chúng ta có thể quảng cáo đến hàng triệu người thông qua quảng cáo PPC, email, email được tài trợ, quảng cáo banner, mạng xã hội, và nhiều phương tiện khác.
+
+Khả năng tiếp cận mà bạn và tôi có thể đạt được bây giờ thật không thể tin được, và cơ hội mà điều này mang lại là rất lớn.
+
+Nhưng còn có một điều tuyệt vời hơn nữa...
+
+**Các Đối Thủ Của Bạn Đang Làm Cho Mọi Thứ Trở Nên Dễ Dàng Hơn Cho Bạn**
+
+Điều tuyệt vời nhất trong tất cả những điều này là, dù có rất nhiều cạnh tranh - vì cơ hội lớn hơn sẽ tạo ra sự cạnh tranh nhiều hơn - đối thủ của bạn thực sự đang làm cho mọi thứ trở nên dễ dàng hơn đáng kể cho bạn.
+
+Đây là lý do tại sao tôi nói như vậy.
+
+Nếu bạn mua cuốn sách này, thì bạn và tôi có lẽ đang nằm trong cùng một danh sách tiếp thị, đúng không? Tôi cũng nhận được những thứ rác rưởi giống như bạn: những lời hứa suông, những lời hứa rỗng tuếch, và các email khuôn mẫu mà nếu có thể sẽ xúc phạm đến trí tuệ của một đứa trẻ 10 tuổi. Đây dường như là tiêu chuẩn trong cộng đồng "tiếp thị" nhỏ bé của chúng ta.
+
+Và đó là một tin tuyệt vời! Vì điều này không chỉ xảy ra với chúng ta. Nó đang diễn ra trong mọi thị trường.
+
+Khách hàng tiềm năng của bạn cũng có thể đang trải qua điều tương tự trong thị trường của bạn.
+
+Đối Thủ Của Bạn Trong Hầu Hết Mọi Thị Trường Đều Có Tư Duy “Dùng Rồi Bỏ” Khi Nói Đến Khách Hàng Tiềm Năng Và Khách Hàng Hiện Tại.
+
+Điều này không tốt cho khách hàng nhưng lại rất tốt cho chúng ta từ góc độ cạnh tranh.
+
+Bởi vì tất cả những gì chúng ta cần là chỉ làm tốt hơn một chút (hoặc thậm chí tốt hơn rất nhiều!) và chúng ta có thể hoàn toàn thống trị thị trường.
+
+> **Tất Cả Những Gì Chúng Ta Cần Làm Là Chỉ Cần Làm Tốt Hơn Một Chút, Và Chúng Ta Có Thể Hoàn Toàn Thống Trị Thị Trường.**
+
+Đây là cách mà mọi thứ đang diễn ra:
+
+Hầu như trong mọi ngành công nghiệp, luôn có một người dẫn đầu. Nhưng trong hầu hết các trường hợp, Marketing của họ rất tệ. Có thể họ vẫn bán được hàng, nhưng đó chỉ là chiến lược ngắn hạn vì khách hàng tiềm năng đã chán ngấy với cách tiếp cận đầy hào nhoáng và áp lực cao.
+
+Nếu bạn nghi ngờ điều này, hãy kiểm tra hộp thư đến của bạn và xem những email quảng cáo gần đây nhất từ bất kỳ "ông lớn" nào trong ngành của bạn.
+
+Để tôi đoán nhé... rất nhiều lời mời gọi khan hiếm được bao bọc quanh những tuyên bố lớn và chỉ có áp lực bán hàng. Nghe quen không? Tất nhiên là quen.
+
+Chúng ta nên vui mừng vì điều đó. Họ đang làm cho công việc của chúng ta trở nên dễ dàng hơn!
+
+Điều này không chỉ dừng lại ở Marketing.
+
+Tất cả chúng ta đều đã mua những thứ tương tự. Bạn biết đấy – bạn mua một sản phẩm mà đáng lẽ ra phải hoạt động tốt, nhưng nó chỉ hoạt động tạm bợ.
+
+Và điều này đã được coi là chấp nhận được. Thực tế là “gần như có năng lực” đã trở thành tiêu chuẩn mới của "tốt".
+
+Tôi có tin vui cho bạn:
+
+Tâm lý đó đang mang lại cho bạn một CƠ HỘI LỚN để lấn sân và thu hút đông đảo khách hàng dễ dàng hơn bao giờ hết chỉ bằng cách KHÔNG trở thành một kẻ tồi tệ.
+
+Mọi người ngày càng khó chịu với những thứ "gần như có năng lực" và họ đang tuyệt vọng mong muốn được ai đó đối xử tốt.
+
+Hãy nghĩ về điều này: Đối với một người đàn ông trong sa mạc, ngay cả nước ao bẩn cũng trông thật hấp dẫn.
+
+Khách hàng tiềm năng và khách hàng của bạn đang ở trong sa mạc đó... và nếu bạn mang đến cho họ NƯỚC TỐT, họ sẽ kéo đến chỗ bạn rất đông.
+
+Vì vậy, tôi muốn bạn ghi nhớ tất cả điều này khi chúng ta đi sâu vào phương pháp này.
+
+Hãy nhớ rằng mọi người đang rất cần một người thực sự đối xử với họ bằng sự tôn trọng và phẩm giá... và họ sẽ YÊU BẠN khi bạn làm điều đó và thưởng cho bạn bằng những giao dịch mua hàng trong nhiều năm tới.
+
+Vậy thì, không cần thêm lời nào nữa, hãy bắt tay vào làm việc thôi!
+
+### Phương Trình Chiến Thắng
+
+Những gì chúng ta sắp thảo luận ở đây dựa trên một phương trình mà tôi đã tạo ra, giúp minh họa cho:
+
+Nguồn gốc của lợi nhuận
+
+Cách chúng ta đạt được lợi nhuận
+
+Cách chúng ta gia tăng lợi nhuận
+
+Vì vậy, hãy cùng xem qua ngay bây giờ. Phương trình này như sau:
+
+<img width="627" height="128" alt="phuong_trinh_chien_thang" src="https://github.com/user-attachments/assets/e1aef6ee-330f-4f02-8509-8d0cbd1eb509" />
+
+Đây là con đường dẫn đến lợi nhuận trong bất kỳ doanh nghiệp nào - đặc biệt là trong các doanh nghiệp cá nhân dẫn dắt (như tác giả, huấn luyện viên, diễn giả, "guru", v.v.).
+
+Chúng ta bắt đầu với việc Định Vị. Vì vậy, công thức cơ bản là: Định Vị + Quảng bá + Quy trình = Lợi nhuận.
+
+Đây chính là nền tảng để bạn có thể tạo ra doanh thu. Hãy bắt đầu với mục tiêu cuối cùng trong đầu và cùng xem xét những yếu tố cụ thể thúc đẩy lợi nhuận.
+
+Có hai điều bạn có thể làm ngay lập tức để tác động đến lợi nhuận.
+
+Đầu tiên, bạn có thể bán nhiều hàng hơn. Điều này rõ ràng, đúng không? Chúng ta gọi đó là cải thiện quy trình.
+
+Vì vậy, nếu chúng ta cải thiện quy trình của mình - nghĩa là, nếu chúng ta tăng tỷ lệ chuyển đổi, tạo ra nhiều khách hàng tiềm năng hơn, nếu trang đăng ký (opt-in page) nhận được nhiều lượt đăng ký hơn, nếu thư bán hàng (sales letter) tăng thêm vài phần trăm tỷ lệ chuyển đổi - thì chúng ta sẽ bán được nhiều hàng hơn, đúng không? Điều này hiển nhiên rồi.
+
+Nhưng đây là điểm thú vị. Cải thiện quy trình là nơi hầu hết mọi người tập trung. Đó là lý do tại sao có rất nhiều sách, khóa học, và hội thảo về cách viết quảng cáo tốt hơn, thu hút nhiều khách hàng tiềm năng hơn, tăng tỷ lệ chuyển đổi cao hơn, và nhiều thứ khác.
+
+Hãy để đối thủ của bạn tập trung vào đó trước, vì đó là nơi ít sinh lợi nhất để tập trung ban đầu.
+
+Tại sao lại vậy?
+
+Điều mà nhiều người bỏ qua là, để tăng lợi nhuận, chúng ta có thể làm một điều đơn giản khác: thu được nhiều tiền hơn từ mỗi lần bán hàng.
+
+Điều nhanh nhất để tác động đến lợi nhuận chính là giá cả của bạn.
+
+Hãy nghĩ về điều đó. Nếu mọi thứ vẫn giữ nguyên mà bạn chỉ cần tăng gấp đôi giá của mình, bạn sẽ ngay lập tức tăng gấp đôi doanh thu của doanh nghiệp.
+
+Vì vậy, việc định giá đáng để đầu tư.
+
+Có ba yếu tố cơ bản mà bạn có thể kiểm soát để quyết định giá cả:
+1. Bạn có thể để giá bị ảnh hưởng bởi **Cung và Cầu**, như trong ngành công nghiệp kim cương. Mọi người thường nghĩ rằng kim cương rất hiếm. Có những lý thuyết cho rằng các công ty kim cương lớn giữ chúng trong một kho nào đó, điều này có thể đúng hoặc không, ai biết được? Tất nhiên, điều này hơi khó kiểm soát trong một số thị trường, nhưng nếu bạn đang Kinh Doanh Tư Vấn Hoặc Tiếp Thị Thông Tin (Info-Marketing), thì điều này không khó chút nào.
+2. **Định Vị và Giá trị** là hai yếu tố còn lại - và yếu tố tác động mạnh mẽ nhất đến giá cả chính là giá trị. Nhưng không phải là giá trị mà bạn đang nghĩ đến.
+
+### Phương Trình Giá Trị
+
+Đây là một phương trình khác; đây là Phương trình Giá trị:
+> **"GIÁ TRỊ THỰC TẾ" _(Practical Value)_ + "GIÁ TRỊ NỘI TẠI" _(Intrinsic Value)_ = "TỔNG GIÁ TRỊ CẢM NHẬN"** _(Total Perceived Value)_
+
+Giá Trị Thực Tế cộng với Giá Trị Nội Tại sẽ bằng Tổng Giá Trị Cảm Nhận. Công thức này có thể được viết là **PV + IV = TPV.**
+
+Vậy hãy cùng thảo luận về nó.
+- Giá Trị Thực Tế (Practical Value): Đây là giá trị thực dụng của sản phẩm. Ví dụ, một con dao nhà bếp sẽ có giá trị cao hơn nếu nó có khả năng cắt rau củ tốt hơn so với các loại dao khác.
+- Giá Trị Nội Tại (Intrinsic Value): Đây là giá trị mà người dùng cảm nhận được, phần lớn được xây dựng thông qua Định Vị (Positioning) và Quảng Bá Sản Phẩm.
+
+Khi bạn cộng hai giá trị này lại với nhau, bạn sẽ có được Tổng Giá Trị Cảm Nhận (Total Perceived Value).
+
+Hãy để tôi nhấn mạnh điều này: **Tiền Bạc Nằm Ở Giá Trị Nội Tại, Không Phải Ở Giá Trị Thực Tế.**
+
+Điều này không có nghĩa là bạn nên giảm chất lượng sản phẩm hay dịch vụ của mình. Hoàn toàn không.
+
+Điều tôi muốn nói là, dù sản phẩm của bạn có tuyệt vời đến đâu, bạn vẫn có thể tăng Tổng Giá Trị Cảm Nhận - một khi sản phẩm đã tốt - bằng cách tập trung vào việc nâng cao Giá Trị Nội Tại.
+
+Bây giờ, hãy để tôi chứng minh điều này với bạn bằng một ví dụ thực tế, vì đây là một khái niệm có phần mới mẻ đối với nhiều người.
+
+#### Giá Trị Thực Tế Của Một Chiếc Xe Hơi
+
+Hãy cùng xem xét giá trị thực tế của một chiếc xe hơi, một ví dụ mà tất cả chúng ta đều có thể liên hệ. Về mặt thực tế, một chiếc xe hơi mang lại những lợi ích gì?
+
+Nó giúp bạn di chuyển từ điểm A đến điểm B nhanh hơn so với đi bộ. Nó bảo vệ bạn khỏi mưa gió, giữ cho bạn ấm áp, và tất cả những điều tương tự; bạn có thể để đồ đạc của mình vào đó - từ gậy golf, chó cưng, đến bất cứ thứ gì bạn muốn mang theo. Bạn không cần phải đi xe buýt nữa, đúng chứ? Đó là những giá trị thực tế của một chiếc xe hơi.
+
+Bây giờ, hãy nhìn vào phân khúc xe cao cấp và nói về giá trị thực tế của chiếc **BMW 750LI**:
+- Nội thất rất đẹp
+- Da cao cấp
+- Rất đáng tin cậy
+- Vận hành êm ái
+- Nhìn rất ngầu
+
+Và tất nhiên, nó còn có tất cả những giá trị khác như: giúp bạn di chuyển từ điểm A đến điểm B, che chắn khỏi mưa gió, và có đủ không gian để chứa đồ đạc.
+
+Vậy, giá của nó là bao nhiêu? Theo nghiên cứu nhỏ mà tôi thực hiện trên internet, nó dao động từ **86.000 đến 93.000 đô la**. Đó là những con số phổ biến mà tôi tìm thấy trên các trang web như cars.com.
+
+Bây giờ, hãy xem xét một chiếc xe khác.
+
+Hãy nói về giá trị thực tế của chiếc Rolls Royce Ghost:
+- Nội thất rất đẹp, với da cao cấp và vân gỗ sang trọng.
+- Rất đáng tin cậy. Tôi biết điều này vì tôi hiện đang sở hữu chiếc thứ tư của mình; tất cả đều tuyệt vời.
+- Vận hành êm ái, nhìn rất ngầu.
+
+Và dĩ nhiên, nó cũng có tất cả những giá trị khác như giúp bạn di chuyển từ điểm A đến điểm B, che chắn khỏi mưa gió, và có đủ không gian để chứa đồ đạc.
+
+Giá của chiếc Rolls Royce Ghost nằm trong khoảng 256.000 đến 296.000 đô la.
+
+Vấn đề là như thế này:
+
+Hãy so sánh hai chiếc xe này; một chiếc Rolls-Royce trị giá 300.000 đô la - thực sự, rất khó để mua được một chiếc Ghost với giá 256.000 đô la cho mẫu cơ bản, nó thường gần 300.000 đô la hơn - và một chiếc BMW trị giá 100.000 đô la (tôi sẽ làm tròn lên ở đây!).
+- **Rolls-Royce Ghost trị giá 300.000 đô la:** Nội thất rất đẹp, rất đáng tin cậy, vận hành êm ái, nhìn rất ngầu.
+- **BMW 750LI trị giá 100.000 đô la:** Nội thất rất đẹp, rất đáng tin cậy, vận hành êm ái, nhìn rất ngầu.
+
+**Câu hỏi mà chúng ta thực sự cần tự hỏi là: Tại sao Rolls-Royce lại có giá cao hơn BMW tới 300%?**
+
+Đặc biệt khi bạn xem xét điều này... **BMW Sở Hữu Rolls-Royce.**
+
 
 
