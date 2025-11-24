@@ -1286,5 +1286,363 @@ Chúng ta đã làm bài tập "Hãy tưởng tượng bạn sắp nói chuyện
 
 Khi chúng ta đã thiết lập được vị trí mong muốn toàn cầu của bạn, khi chúng ta biết chính xác điều đó là gì, đã đến lúc triển khai nó.
 
+### Quảng Bá (Promotion)
 
+Vậy bây giờ chúng ta đang ở giai đoạn này của phương trình, đó là Quảng Bá. Có 3 (ba) khía cạnh của việc quảng bá, và cái đầu tiên chúng ta sẽ đề cập ở đây là một thứ được gọi là **"Thiết Lập Khung Nhận Thức" (Pre-Framing)**.
+
+> Hình Ảnh "Thiết Lập Khung Nhận Thức"
+
+<img width="631" height="188" alt="image" src="https://github.com/user-attachments/assets/047fc721-ad2b-4f61-93d1-9b848bed0d35" />
+
+_**Mô tả hình ảnh:**_
+
+Hình minh họa một phương trình tạo lợi nhuận gồm ba thành phần chính. Mỗi thành phần được biểu diễn bằng một biểu tượng và nhãn tiếng Việt – tiếng Anh tương ứng.
+
+**1. Định vị (Positioning)**
+- Biểu tượng: một kim tự tháp ba tầng màu đen và xanh.
+- Ý nghĩa: bạn đứng ở vị trí nào trong tâm trí khách hàng.
+
+'+
+
+**2. Quảng bá (Promotion)**
+- Biểu tượng: một hình ngôi sao bùng nổ màu xanh, ở giữa có dấu chấm than "!".
+- Ý nghĩa: cách bạn thu hút sự chú ý, truyền thông thông điệp, tạo sức bật ban đầu.
+- (Đây là phần được đóng khung màu đỏ trong hình để nhấn mạnh.)
+
+'+
+
+3. **Quy trình (Process)**
+- Biểu tượng: ba vòng tròn xanh được kết nối bằng các mũi tên chỉ hướng lặp lại.
+- Ý nghĩa: hệ thống vận hành, quy trình chuyển đổi, quy trình sản xuất – chăm sóc – bán hàng.
+
+'=
+
+**4. Lợi nhuận (Profits)**
+- Biểu tượng: một vòng tròn lớn màu xanh bên trong có ký hiệu “$$$”.
+- Ý nghĩa: kết quả cuối cùng của việc tối ưu ba yếu tố phía trước.
+> //Kết thúc mô tả ảnh
+
+#### #1. Thiết Lập Khung Nhận Thức (Pre-Framing)
+
+Điều đầu tiên tôi sử dụng là một quá trình gọi là Thiết Lập Khung Nhận Thức (Pre-Framing).
+
+Thiết Lập Khung Nhận Thức (Pre-Framing) Về Cơ Bản Là Việc Sử Dụng Marketing Để Kiểm Soát Ý Kiến Và Cảm Nhận Của Họ Về Bạn Trước Khi Họ Có Cơ Hội Đọc Thông Điệp Bán Hàng Của Bạn Hoặc Tương Tác Với Bạn Theo Bất Kỳ Cách Nào.
+
+Nó giống như việc người giới thiệu bạn lên sân khấu. Mọi thứ chúng ta đang nói ở đây đều xảy ra trước khi họ đăng ký vào kênh của bạn. Vì vậy, tất cả những việc liên quan đến Thiết Lập Khung Nhận Thức đều xảy ra trước khi họ thậm chí đăng ký.
+
+Nếu nó được thực hiện đúng cách, khi họ đăng ký, họ đã yêu mến bạn. Và hầu hết cuộc chiến của bạn đã được thắng lợi.
+
+Vậy hãy để tôi chỉ cho bạn cách thực hiện điều đó.
+
+Chúng ta đã nói về Donald Trump trước đó. Hãy nói về Thiết Lập Khung Nhận Thức của ông ấy.
+
+Trước khi chúng ta tiếp nhận bất kỳ tài liệu hay tuyên truyền nào về Donald Trump, đây là những điều mà chúng ta tin tưởng về ông ấy:
+
+Chúng ta nghĩ rằng Donald Trump là một người quyền lực. Ông ấy có thể ra lệnh và được tuân theo. Ông ấy có thể sa thải bất kỳ ai. Ông ấy luôn đạt được những gì mình muốn. Và tất nhiên, ông ấy là một người nổi tiếng và là một chuyên gia có uy tín về tiền bạc cũng như kinh doanh nói chung.
+
+**Donald Trump…**
+- là một ông chủ 
+- là người cần được tuân lệnh 
+- luôn đạt được những gì ông muốn 
+- là một người nổi tiếng 
+- là một nhân vật quyền lực
+
+**Ông Ấy Đã Thực Hiện Việc Thiết Lập Khung Nhận Thức (Pre-Framing) Và Định Vị (Positioning) Một Cách Xuất Sắc.**
+
+Hãy nói về cách mà những người bình thường như chúng ta có thể thực hiện việc này. Chúng ta không sống trong thế giới truyền thông đại chúng. Phần lớn chúng ta hoạt động trong thế giới trực tuyến và tiếp thị phản hồi trực tiếp. Vậy làm thế nào để chúng ta thực hiện việc đó?
+
+Đó thực ra là một quy trình khá đơn giản với nhiều phần chuyển động. Mọi thứ đều có thể thực hiện dễ dàng nếu bạn chú ý đến chúng.
+
+Chúng ta bắt đầu từ phía bên trái, với điểm khởi đầu, và phía bên phải đại diện cho việc chúng ta kiếm được tiền.
+
+> Trích Sơ Đồ Khung Nhận Thức
+
+<img width="635" height="243" alt="image" src="https://github.com/user-attachments/assets/852a1b67-f054-4b79-bd4e-71fc8fa5eafc" />
+
+_**Mô tả ảnh:**_ _Một đường thẳng dạng timeline kéo dài từ trái sang phải._
+
+Bên trái ghi “Bắt Đầu”.
+
+Trên timeline có 5 mốc (5 chấm đen), mỗi mốc là một giai đoạn trong hành trình marketing – chuyển đổi – doanh thu.
+
+**Từ trái sang phải:**
+1. Nhận thức toàn cầu mong muốn
+2. Thiết lập định vị
+3. Thiết lập khung nhận thức thông qua marketing
+4. Định hướng tư duy thông qua quảng bá
+5. Quy trình chuyển đổi
+
+Dưới khu vực giữa timeline có danh sách các hoạt động marketing:
+- Quảng cáo PPC
+- Video lan truyền
+- Nội dung tổng hợp
+- Bài viết
+- Phỏng vấn
+- Bài đăng blog
+- Đóng góp trên diễn đàn
+
+Cuối timeline, bên phải, ghi: **“Doanh thu & Lợi nhuận”.**
+> //Kết thúc mô tả ảnh
+
+Chúng ta sẽ tiến hành theo một trình tự. Đầu tiên, giống như vừa thực hiện, chúng ta sẽ xác định kỹ lưỡng nhận thức hoặc vị trí mong muốn của mình. Tôi thường nhầm lẫn hai khái niệm này, nhưng thực chất, chúng là một.
+
+Sau khi hoàn thành điều đó, chúng ta sẽ quyết định thiết lập vị trí này: "Tôi sẽ khẳng Định Vị trí của mình tại đây. Tôi sẽ cắm lá cờ này trong thị trường. Đây là tôi. Đây là điều tôi đại diện. Đây là sức mạnh đặc biệt của tôi. Đây là danh tính siêu anh hùng của tôi. Và đây là điều tôi phản đối."
+
+Khi đã xác định rõ điều đó, đã đến lúc triển khai nó, bắt đầu với việc thiết lập khung nhận thức thông qua tiếp thị.
+
+Dưới đây là một số ví dụ về tài liệu tiền thiết lập khung nhận thức. Đây là những thứ mà mọi người có thể nhìn thấy trước khi họ thực sự tương tác với bạn.
+- **Nội Dung Quảng Cáo PPC:** Nội dung này rất quan trọng; những gì họ nhìn thấy trong quảng cáo sẽ ảnh hưởng đến mọi hành động của họ sau khi nhấp vào. Nghe có vẻ cơ bản, và đúng là vậy. Nhưng có một yếu tố nhỏ mà tôi sẽ giải thích ngay sau đây, điều này làm cho nó trở nên mạnh mẽ hơn. Tôi sẽ đưa ra một ví dụ cụ thể để minh họa.
+- **Video Lan Truyền:** Đây là những video mà họ nhìn thấy về bạn. Ngay sau đây, tôi sẽ cung cấp cho bạn một vài ví dụ để bạn hiểu rõ hơn.
+- **Nội Dung Đồng Bộ Hóa:** Trong bối cảnh này, điều đó có nghĩa là các bài viết do bạn viết được đăng trên sản phẩm của người khác hoặc trên các trang web khác.
+
+Điều này có nghĩa là ai đó đã mua một sản phẩm hoặc dịch vụ tương tự như của bạn và bây giờ họ đang đọc một bài viết của bạn. 
+
+Điều này đặt bạn vào cùng vị thế tâm lý với người mà họ vừa chi tiền cho, giúp loại bỏ rất nhiều sự kháng cự từ phía họ đối với bạn. Đây là một yếu tố rất quan trọng.
+> **Nếu Bạn Có Thể Đưa Nội Dung Của Mình Vào Sản Phẩm Của Người Khác, Bạn Đang Thiết Lập Khung Nhận Thức Cho Người Mua, Và Điều Đó Thật Hoàn Hảo.**
+
+- **Bài Viết Do Bạn Viết:** Tôi đã được tạp chí SUCCESS liên hệ nhiều lần. Họ hỏi: "Bạn có muốn viết một bài không? Bạn có muốn phỏng vấn không?"
+
+  Và phản ứng của tôi luôn là: "Chắc chắn rồi, tôi rất muốn viết bài và làm một cuộc phỏng vấn.
+
+  Tôi sẽ lái xe đến studio của bạn ngay. Tôi sẽ dành cả ngày để thực hiện điều đó. Tôi rất hứng thú." Tại sao? Bởi vì đây là một cách tuyệt vời để thiết lập khung nhận thức.
+
+  Tên tôi đã xuất hiện trên trang bìa của một số số báo gần đây, ngay phía trên tên của Richard Branson - điều mà tôi nghĩ thật sự rất ấn tượng.
+
+- **Phỏng Vấn:** Phỏng vấn bạn cũng là một cách khác. Ai phỏng vấn bạn tạo nên sự khác biệt lớn, và người mà bạn phỏng vấn cũng có thể tạo ra sự khác biệt lớn.
+- **Bài Đăng Trên Blog:** Những bài viết trên blog của bạn cũng là công cụ mạnh mẽ để thiết lập khung nhận thức.
+- **Đóng Góp Trên Diễn Đàn:** Tôi biết một số người thực sự xây dựng hầu hết công việc tìm kiếm khách hàng tiềm năng và thu hút khách hàng thông qua việc trả lời câu hỏi trên các diễn đàn và Facebook. Không đùa đâu.
+
+Tất cả những điều này đều là một phần của quá trình Thiết Lập Khung Nhận Thức (Pre-Framing). 
+
+Mọi người đang tiếp nhận những thông tin này mà không có bất kỳ lời mời gọi mua hàng nào. Họ chỉ đơn giản là nhìn thấy bạn và những gì bạn chia sẻ, nhưng mọi thứ họ thấy và thông điệp mà họ nhận được từ bạn đều đóng vai trò quan trọng trong các bước tiếp theo của quy trình này.
+> **Mọi Thứ Họ Nhìn Thấy Về Bạn Và Thông Điệp Họ Nhận Được Từ Bạn Đều Rất Quan Trọng Cho Bước Tiếp Theo Trong Quy Trình.**
+
+Khi chúng ta thiết lập xong tất cả những yếu tố đó, tiếp theo là giai đoạn thứ hai - tôi gọi nó là "sự định hướng tư duy" (indoctrination). Đây thực sự là những gì bắt đầu xảy ra tại điểm đăng ký và tiếp tục diễn ra sau đó.
+
+Cuối cùng, khi họ quyết định đưa tiền cho bạn, chúng ta sẽ bước vào một giai đoạn khác gọi là "quy trình chuyển đổi" (conversion process).
+
+Tôi sẽ hướng dẫn bạn qua tất cả các bước này. Điều này sẽ rất quan trọng đối với những ai quyết định áp dụng phương pháp này vào doanh nghiệp của mình.
+
+**Mục Tiêu Của Tôi Là Giúp Bạn Triển Khai Phương Pháp Này Một Cách Dễ Dàng Và Rõ Ràng, Từ Đó Tạo Ra Lợi Nhuận Đáng Kể.**
+
+Hãy xem liệu chúng ta có thể làm được điều đó không, nhé?
+
+##### Một Số Ví Dụ
+
+Cách tốt nhất để học là thông qua ví dụ, và tôi nghĩ rằng việc chia sẻ quá trình này với bạn sẽ hữu ích. Vậy nên, hãy để tôi cung cấp cho bạn một số ví dụ cụ thể.
+
+Ví Dụ Về Pre-Framing Và Quảng Cáo Trả Tiền Theo Click (PPC)
+
+Đây là một ví dụ điển hình về việc sử dụng pre-framing trong quảng cáo PPC. Đây là một ví dụ từ giai đoạn đầu của tôi khi thử nghiệm với quảng cáo trên Facebook. Tôi sẽ sớm chia sẻ với bạn một ví dụ gần đây hơn.
+
+Tôi không thường xuyên đề cập đến điều này, nhưng trong vài năm qua, tôi đã chi gần 300.000 đô la cho quảng cáo PPC trên Facebook để quảng bá thương hiệu của mình. Phần lớn số tiền đó đã được chi từ nhiều năm trước.
+
+Những ngày này, tôi thực sự không cần phải quảng bá nhiều nữa vì những gì tôi đã làm trước đây hoàn toàn phù hợp với những gì tôi đang chia sẻ với bạn bây giờ. Tất cả những điều mà tôi đang khuyên bạn thực hiện, tôi đã từng làm rồi. Và đó chính là động lực mà tôi đang tận dụng ở thời điểm hiện tại, điều này thật tuyệt vời.
+
+Hãy cùng xem xét các yếu tố của việc Thiết Lập Khung Nhận Thức (Pre-Framing).
+
+Khi tôi thực hiện chiến lược này vào năm 2010 – và tôi biết ví dụ này có hơi xa vời – danh tính siêu anh hùng của tôi lúc đó là một anh chàng điên rồ, không tôn trọng quy tắc và tình cờ kiếm được một đống tiền, và tôi muốn phù hợp với hình ảnh đó.
+
+Trước khi họ thậm chí nhấp chuột, họ đã thấy tiêu đề “Trẻ tuổi, Giàu có và Điên rồ”.
+
+Điều quan trọng cần hiểu – và điều này đáng để ghi nhớ và thực sự tuân thủ bất kể bạn làm gì từ thời điểm này trở đi – là làm sao để tất cả các yếu tố này tạo nên một câu chuyện nhất quán về bạn và thương hiệu của bạn.
+
+**Trong Tiếp Thị Và Bán Hàng, Bạn Không Chỉ Muốn Thu Hút Những Khách Hàng Tiềm Năng Mà Bạn Mong Muốn, Mà Còn Cần Đẩy Lùi Và Loại Bỏ Những Khách Hàng Không Phù Hợp.**
+
+Cho đến nay, tôi không muốn làm việc với những người quá nghiêm túc, không vui tính và cứng nhắc. Đó không phải là phong cách của tôi. Tôi sẽ không chấp nhận điều đó. Tôi muốn những người vui vẻ, sáng tạo, thú vị, nhiệt tình, lạc quan – và cũng là những người làm việc chăm chỉ.
+
+Nếu chúng ta nhìn vào tiêu đề này, nó đạt được điều gì? Chà, một người nghiêm túc sẽ nhìn vào nó và nói, “Tôi không thích anh chàng này.” Nhưng một ai đó vui tính và yêu thích công việc sẽ nhìn vào nó và nghĩ, “Được rồi, có lẽ tôi nên xem thử.”
+
+Bây giờ, còn một yếu tố khác của pre-framing trong đây nữa.
+
+Nhớ rằng tôi đã nói về danh tính siêu anh hùng của mình – một phần trong đó là nhà tư vấn tiếp thị internet có thu nhập cao nhất thế giới. Thực ra danh hiệu đó còn dài hơn một chút!
+
+Chà, đó là một ví dụ khác của pre-framing ngay trong quảng cáo này. Vì vậy, trước khi họ thậm chí đăng ký hoặc biết thêm điều gì về tôi, những yếu tố này đã được gieo vào tiềm thức và tâm trí họ.
+
+Họ đã hình thành ý kiến trước khi có cơ hội làm bất cứ điều gì khác. Bạn muốn họ dễ uốn nắn và tiếp nhận bạn trước khi bạn thậm chí bắt đầu thuyết trình.
+
+Bây giờ, tôi sẽ cho bạn xem một ví dụ khác. Nhớ rằng tôi đã nói về video lan truyền? Hãy xem cái này.
+
+> Ảnh Frank Kern & Tony Robbins
+
+<img width="629" height="511" alt="image" src="https://github.com/user-attachments/assets/8a6eb95c-0f08-44de-82ea-9aee2f8bbdb4" />
+> //Kết thúc ảnh
+
+Đoạn video này không phải của tôi. Nó được tải lên nhiều năm trước bởi một người dùng trên YouTube có tên là Frank Kern Mass Control. Đó không phải là tôi. Tôi không tự tải video của mình lên YouTube. Tuy nhiên, video này đã được xem hơn 82.000 lần.
+
+Điều này quan trọng vì nó tạo ra một Khung Nhận Thức (Pre-Frame) giúp tôi được Định Vị ngang hàng và xuất hiện cùng với Tony Robbins. Tại sao lại như vậy? Bởi vì anh ấy đang phỏng vấn John Reese và tôi. Như tôi đã nói trước đó, người phỏng vấn bạn rất quan trọng; nó thực sự giúp củng cố vị trí của bạn.
+
+Nếu tôi bị phỏng vấn bởi những người như Jeffrey Dahmer hay Bernie Madoff, tôi chắc chắn không muốn điều đó xuất hiện trên YouTube. Điều đó sẽ rất tệ cho hình ảnh và vị trí của tôi.
+
+Nhưng trong trường hợp này, tại sao lại không tận dụng? Bạn có thể tạo dựng những tình huống như thế này.
+
+Trong cuộc phỏng vấn này, tôi không tự quảng cáo hay bán bất kỳ sản phẩm nào của mình, nhưng tôi đã thu hút được vô số khách hàng và đối tác chỉ nhờ vào chính cuộc phỏng vấn này.
+
+Một ví dụ khác liên quan đến Tony Robbins là khi anh ấy quay lại một đoạn video về tôi phát biểu tại một trong những sự kiện của anh ấy ở Las Vegas và sau đó đăng nó lên blog của mình.
+
+**Khung nhận thức (Pre-frame)** đầu tiên chính là việc video này nằm trên blog của Tony Robbins. Nhớ rằng tôi đã nói rằng các bài đăng trên blog và các bài viết do bạn viết hoặc được viết về bạn có thể thực sự có lợi? Đây chính là một ví dụ tương đương với một bài đăng trên blog, nhưng thay vì bài viết, tôi xuất hiện trong video. Bản chất video này là một bài viết về tôi, nhưng tôi được thể hiện dưới dạng video.
+
+Chúng ta có rất nhiều khung nhận thức đang diễn ra ở đây. Thực tế là tôi xuất hiện trong video đó đã tạo ra một khung nhận thức rằng tôi thuộc cùng một vũ trụ và tầm cỡ với những nhà lãnh đạo kinh doanh vĩ đại này, điều này là một vinh dự lớn lao đối với tôi, như bạn có thể tưởng tượng.
+
+Và còn một chi tiết nữa. Trong phần nội dung, tôi được giới thiệu là một "huyền thoại về Marketing trên Internet."
+
+Nhân tiện, tôi sẽ không bao giờ quên ngày hôm đó. Thực sự tôi không có kế hoạch phát biểu vào ngày đó. Tôi đến gặp Tony. Có một người đàn ông có một câu hỏi về lĩnh vực kinh doanh mà tôi từng làm - dịch vụ thương mại cách đây nhiều năm. Anh ấy có một câu hỏi, và tôi đã nhắn tin cho Tony nói, “Này bạn, nếu bạn muốn tôi trả lời một số câu hỏi về tạo khách hàng tiềm năng (lead-gen), tôi sẽ rất vui lòng.”
+
+Đây là một trong những lĩnh vực chuyên môn của tôi, và vẫn là như vậy. Tony nói, “Tuyệt, sao bạn không nói vào ngày mai?” Tôi kiểu, “Được thôi!” Vì vậy, tôi thức rất khuya đêm trước đó vì đó là Vegas. Tôi sẽ làm gì khác, đúng không? Tôi thức cả đêm hôm trước. Tôi xuất hiện và nói, “Được thôi, tôi sẽ nói vào lúc mấy giờ, khoảng một giờ chiều đúng không?”
+
+Họ nói, “Ừ, ngay trước bạn là Tony, Peter Guber - đạo diễn điện ảnh, và Steve Wynn.” Vậy là tôi phải phát biểu sau những người đó. Bạn có thể tưởng tượng được không? Thật điên rồ.
+
+Tôi cảm thấy rất hồi hộp, nhưng mọi thứ diễn ra tốt đẹp và đã có video về nó.
+
+Đó là một số khung nhận thức rất tốt. Đó chính xác là những gì tôi muốn thị trường của mình thấy và biết.
+
+Thực tế, câu chuyện ngay tại đây thực sự có thể được coi là một chút khung nhận thức để khẳng định rằng Frank Kern đang ở cùng đẳng cấp với những người này. Anh ấy có thể nhắn tin cho Tony Robbins, xuất hiện trên sân khấu của anh ấy một cách ngẫu hứng, và nói chuyện với những huyền thoại vĩ đại của ngành công nghiệp này.
+
+**Mọi Điều Bạn Làm Và Nói Đều Có Thể Trở Thành Lợi Thế Của Bạn, Nếu Được Thực Hiện Đúng Cách.**
+
+Dưới đây là một ví dụ khác về Thiết Lập Khung Nhận Thức (Pre-Framing) – nhớ khi tôi đã nói về nội dung được chia sẻ (syndicated content)? Khi bạn có thể tham gia phỏng vấn hoặc đóng góp bất kỳ nội dung nào trong sản phẩm của người khác mà bạn muốn tiếp cận khách hàng của họ, và bạn đang thực sự làm tốt công
+
+Thực tế là tôi đã giúp Tony tạo ra một loạt chương trình, và đến tận bây giờ, chương trình đó vẫn được bán, và anh ấy thường nhắc đến nó trên QVC. Khoảng mỗi hai tháng, tôi lại nhận được vô số tin nhắn văn bản và tin nhắn Facebook, kiểu như, "Tony Robbins đang nói về bạn trên QVC." Thật tuyệt vời.
+
+Chúng tôi đã cùng nhau tạo ra loạt chương trình này – có tên là Money Masters – trong đó anh ấy phỏng vấn những người rất thành công trong lĩnh vực mà chúng tôi gọi là phương tiện truyền thông mới, tức là Internet và các doanh nghiệp phi truyền thống.
+
+Chúng tôi đã cùng nhau lên ý tưởng và phát triển sản phẩm này. Tôi xuất hiện trong sản phẩm và trên trang của Tony – và điều này tạo ra ba lớp định hình trước (pre-frame):
+- Thực tế rằng tôi xuất hiện trên trang là lớp đầu tiên.
+- Việc tôi có mặt trong sản phẩm là lớp thứ hai.
+- Tony còn nói những điều tốt đẹp về tôi ngay trên trang đó, tiếp tục duy trì hình ảnh huyền thoại của tôi. Điều này thật hoàn hảo.
+
+Tất cả những điều này – mọi thứ tôi đang chia sẻ với bạn – khi mọi người hỏi, "Làm thế nào mà bạn có thể định hình mình trong thị trường này và trở nên nổi tiếng như vậy, trở thành một người nổi tiếng và được săn đón như thế?" Đây chính là câu trả lời. Đây là bí mật lớn.
+
+Hãy thực hiện những điều này. Bạn có thể tự định hình mình theo cách này. Không có gì là quá khó khăn cả. Tôi không làm điều gì quá phức tạp. Tôi chỉ đang trò chuyện, trả lời các câu hỏi và làm những điều tương tự.
+
+Dưới đây là một ví dụ khác: Đây là một cuộc phỏng vấn video mà ai đó đã thực hiện với tôi cho một bộ phim.
+
+Đoạn này được đăng trên một blog, tôi nghĩ là bởi một người bạn và cũng là khách hàng của tôi, Chris McCombs. Đây là một ví dụ điển hình.
+
+Dưới đây là một số ví dụ về Thiết Lập Khung Nhận Thức (Pre-Framing). Chúng có thể xuất phát từ những điều nhỏ nhặt như quảng cáo PPC, banner quảng cáo, email mà ai đó có thể thấy về bạn, hoặc bài báo mà bạn đã xuất bản, cho đến những điều lớn hơn như việc xuất hiện trong sản phẩm của người khác. Đây chính là cách mà những người như chúng ta xây dựng thương hiệu và vị thế của mình.
+
+#### #2. Định Hướng Tư Duy (Indoctrination)
+
+**Bước #2: Định Hướng Tư Duy (Indoctrination)**
+
+Khi họ đã bước vào tầm ảnh hưởng của chúng ta nhờ vào các tài liệu Thiết Lập Khung Nhận Thức (Pre-Framing), bước tiếp theo để củng cố vị thế trên thị trường và thu hút đúng đối tượng mà chúng ta mong muốn là một quá trình tôi gọi là Định Hướng Tư Duy (Indoctrination).
+
+**Tài Liệu Định Hướng Tư Duy Của Bạn Là Những Gì Họ Nhìn Thấy Sau Khi Đã Được Thiết Lập Khung Nhận Thức Để Tin Rằng Bạn Thật Tuyệt Vời.** 
+
+Đây là lúc mà nhiều người trong cộng đồng của chúng ta và trong mọi doanh nghiệp thường thất bại; đó là họ không tạo đủ thiện cảm với khách hàng tiềm năng trước.
+
+Đây là lúc mà nhiều người trong cộng đồng của chúng ta và trong mọi doanh nghiệp thường thất bại; đó là họ không tạo đủ thiện cảm với khách hàng tiềm năng trước.
+> **Đây Là Điểm Mà Nhiều Người Thất Bại Trong Kinh Doanh; Họ Không Tạo Được Sự Gắn Kết Tình Cảm Với Khách Hàng Tiềm Năng Từ Sớm.**
+
+Nhiều người thất bại trong kinh doanh vì họ bỏ qua việc xây dựng mối liên kết tình cảm với khách hàng tiềm năng. Giống như việc bạn vừa mới gặp ai đó và lập tức đề nghị điều gì quá táo bạo, việc thiếu bước "tán tỉnh" trong kinh doanh cũng tương tự như vậy. Quá trình chuẩn bị tâm lý (pre-framing) và giáo dục (indoctrination) là những bước tâm lý mạnh mẽ, giúp bạn xây dựng mong muốn hợp tác và giá trị nội tại của mình trước khi khách hàng có cơ hội thực sự mua hàng.
+
+Quy Trình Giáo Dục (Indoctrination) và Chuyển Đổi (Conversion) bắt đầu ngay khi khách hàng Đăng Ký (Opt-In) và tiếp tục sau khi họ đã mua hàng. Mục tiêu của tài liệu giáo dục là kiểm soát niềm tin và mong muốn của khách hàng, dẫn dắt họ qua quá trình chuyển đổi một cách tự nhiên.
+
+Chúng ta đã xác định được Định Vị (Positioning) của mình và đang trong giai đoạn Quảng Bá (Promotion). Sau khi đã thu hút họ thông qua việc Thiết Lập Khung Nhận Thức (Pre-Framing), bây giờ là lúc để xây dựng mong muốn và niềm tin thông qua việc Định Hướng Tư Duy (Indoctrination). Đây là giai đoạn tiếp theo trong quy trình của chúng ta.
+
+Bây giờ, Tài Liệu Định Hướng Tư Duy (Indoctrination) là gì?
+
+Video Ra Mắt (Launch Videos): Đây là các video ra mắt ở một mức độ nào đó, xuất hiện sau khi đăng ký tham gia. Những gì bạn thấy trước khi đăng ký vào một loạt video ra mắt thuộc quy trình Thiết Lập Khung Nhận Thức (Pre-Framing), nhưng một khi bạn đã ở trong hệ thống (funnel), thì đó là các tài liệu Định Hướng Tư Duy (Indoctrination materials).
+
+Hội Thảo Trực Tuyến (Webinar): Hội thảo trực tuyến là tài liệu Định Hướng Tư Duy (Indoctrination) ở một mức độ nào đó và chúng cũng có thể được sử dụng như là cơ chế chuyển đổi (conversion mechanisms). Chúng ta sẽ nói về điều đó trong giây lát.
+
+Manifestos/PDFs: Bạn có biết Rich Schefren không? Anh ấy là một người đàn ông dễ mến – thật tuyệt vời. Anh ấy đã xâm nhập vào ngành và thực sự tạo nên một cú hích lớn bằng cách tạo ra một PDF, đó là một bản tuyên ngôn. Tôi đoán là bạn đã đọc nó – "Bản tuyên ngôn về kinh doanh trên Internet" – tôi nghĩ đó là tên gọi của nó.
+
+Nó đã được tải xuống khoảng một triệu lần, nhân tiện mà nói. Nếu bạn chưa đọc bản Manifesto của anh ấy, thì bạn vừa trải qua điều gì? Đó là quá trình Thiết Lập Khung Nhận Thức (Pre-Framing) cho Rich.
+
+Nếu bạn đọc bản Manifesto đó ngay bây giờ, bạn có lẽ sẽ đọc nó qua một lăng kính khác so với khi bạn đã được Thiết Lập Khung Nhận Thức (Pre-Framing) theo cách khác. Tôi đang nói với bạn rằng những thứ này rất quan trọng. Những điều nhỏ nhặt tích góp thành những điều lớn lao.
+
+Teleseminars: Không đùa đâu - Teleseminars (hội thảo qua điện thoại). Tôi biết một người bạn đã kiếm bảy con số với các teleseminars đã ghi âm. Tôi thề với Chúa. Các bạn có lẽ biết anh ta. Đó là Kevin Nations. Anh chàng này làm teleseminars. Ý tôi là, cậu ta đang làm teleseminars vào năm 2014! Thật sự, teleseminars?
+
+Nhưng anh ấy làm và nó hoạt động rất tốt.
+
+Nói về tài liệu Định Hướng Tư Duy (Indoctrination Materials), loại nào là tốt nhất để sử dụng? Cái nào hoạt động hiệu quả nhất?
+
+Video Là Một Yếu Tố Lớn – Nếu Bạn Chưa Sử Dụng Video, Hãy Bắt Đầu Ngay. Không quá khó đâu. Nếu bạn cảm thấy mình không tự tin trước máy quay, thì không cần phải lên hình. Bạn có thể chỉ cần ghi lại màn hình và nói chuyện. Thật sự không phải là vấn đề lớn.
+
+Bạn cũng không thể sai lầm với hội thảo trực tuyến (Webinars) nếu thực hiện đúng cách; ngay cả khi không thực hiện hoàn hảo, chúng vẫn có thể rất hiệu quả, mang lại lợi nhuận từ cả góc độ bán hàng và duy trì lòng trung thành của khách hàng.
+> **Điểm Mấu Chốt Là Đừng Suy Nghĩ Quá Nhiều Về Điều Này. Hãy Chọn Cái Nào Cảm Thấy Tự Nhiên Và Sử Dụng Nó.**
+
+Kevin đã thành công rực rỡ với Teleseminars, vì vậy bạn không cần phải suy nghĩ quá nhiều. Hãy sử dụng bất kỳ phương pháp nào mà bạn cảm thấy phù hợp.
+
+Bất kỳ phương pháp nào trong bốn phương pháp này – hãy chọn một và làm. Đừng tự ép mình phải thực hiện mọi thứ hoàn hảo. Chỉ cần chọn phương pháp mà bạn cảm thấy thoải mái và bắt đầu.
+
+Tôi sẽ đưa cho bạn một vài ví dụ về những tài liệu này.
+
+Đây là tài liệu Định Hướng Tư Duy (Indoctrination) nhằm thấm nhuần tư tưởng rằng tôi là Chủ tịch của Internet. Nó được trích từ bài "Báo Cáo Tình Hình Internet" (State of the Internet Address) năm 2012.
+
+Tôi đã thực hiện điều này hầu như mỗi năm kể từ năm 2010 – ngoại trừ năm 2013. Đây là một phần của quá trình Định Hướng Tư Duy (Indoctrination) để xây dựng danh tiếng.
+
+Một ví dụ khác (không được hiển thị) là từ một chiến dịch mà tôi đã thực hiện có tên là "List Control" và tiêu đề của video đó là "Người Lạ Bí Ẩn" (Mysterious Stranger).
+
+Đó là một trong những video nổi tiếng của tôi, giúp người xem thật sự nhận thức về tôi như một chuyên gia hàng đầu trong việc cung cấp thiện chí và xây dựng lòng trung thành của người đăng ký.
+
+Mục đích của video indoctrination đó không phải là để bán hàng. 
+
+**Mục Đích Của Video Này Là Để Củng Cố Mối Quan Hệ Đó, Để Khi Đến Lúc Bán Hàng, Việc Chuyển Đổi Trở Nên Dễ Dàng.**
+
+Mọi người đang nói: "Vâng, nhưng tôi không muốn xuất hiện trên camera. Tôi không có người quay video chuyên nghiệp. Tôi không có kỹ năng kỹ thuật."
+
+Để tôi chỉ cho bạn một trong những tài liệu indoctrination tai tiếng nhưng cực kỳ hiệu quả của tôi. Tôi không muốn bạn bị choáng ngợp bởi mức độ chuyên nghiệp đáng kinh ngạc mà tôi đang thể hiện ở đây!
+
+Tôi không muốn bạn bị choáng ngợp bởi mức độ chuyên nghiệp đáng kinh ngạc mà tôi đang thể hiện ở đây!
+
+Tôi đã viết điều này trên máy bay.
+
+Tôi chắc chắn người ngồi bên cạnh nghĩ rằng tôi hoàn toàn mất trí.
+
+Đây là một bản tuyên ngôn dài khoảng 20-30 trang được viết tay, mà tôi đã viết trên máy bay, chống lại sự tiêu cực trong truyền thông và tư duy khan hiếm; nó đã được sử dụng trong một chiến dịch quảng bá cho sản phẩm mà tôi đã tạo ra có tên là “Mass Control.”
+
+Tôi nghĩ thứ này đã được tải xuống khoảng tám mươi hoặc một trăm nghìn lần. Nó được lan truyền điên cuồng và mọi người rất thích nó.
+
+Tôi đã viết tay nó và quét qua máy scan. Bùm! Tài liệu định hướng tư duy.
+
+**Chúng Ta Không Cần Phải Quá Suy Tư. Chỉ Cần Có Một Thông Điệp Hay Là Đủ.**
+
+Những gì bạn nói thật sự rất quan trọng. Để làm rõ thêm, tôi sẽ nhắc lại tất cả những điều này.
+
+Chức năng đầu tiên của quá trình dẫn dắt tư tưởng là củng cố vị thế của bạn.
+
+Ví dụ, khi tôi cho bạn xem bài phát biểu "State of the Internet", đó là lúc tôi chuyển từ một người làm Marketing đầy năng lượng sang vai trò Tổng thống của Internet, một người kinh doanh thực thụ hơn. Điều này phản ánh sự trưởng thành cá nhân của tôi.
+
+Nhiều người hỏi, tại sao tôi lại làm như vậy? Họ nghĩ rằng liệu có cách nào tốt hơn để thu hút khách hàng mà tôi mong muốn không?
+
+Thực tế là tôi đã ngừng việc tiệc tùng liên tục.
+
+Thực ra, tôi không sống như vậy nữa. Không có lý do gì để giả vờ. Bây giờ, ở tuổi 40, tôi sống một cuộc sống bình thường hơn. Tôi có con cái, và cuộc sống của tôi cũng khác đi.
+
+Bên cạnh việc củng cố vị thế, mục tiêu khác là tạo dựng thiện chí. Tôi đã nói điều này trước đây và sẽ tiếp tục nhấn mạnh điều đó cho đến khi tôi không còn trên Trái Đất nữa:
+
+**Thu Nhập Của Chúng Ta Thường – Và Tôi Muốn Nói Là Gần Như Luôn Luôn – Tỷ Lệ Thuận Với Lượng Thiện Chí Mà Chúng Ta Xây Dựng Được Trong Thị Trường Của Mình.**
+
+Thông qua các tài liệu định hướng tư duy, bạn có thể thiết lập và duy trì thiện chí. Khi bạn đã có thiện chí và khách hàng thích bạn – họ cảm thấy như họ biết bạn, thích bạn và tin tưởng bạn – điều gì sẽ xảy ra? Quá trình chuyển đổi của bạn trở nên hiệu quả hơn.
+
+Có hai cách duy nhất mà chúng ta có thể tăng lợi nhuận là gì?
+- Cách #1: Tối ưu hóa quy trình chuyển đổi của bạn.
+- Cách #2: Tăng giá.
+
+Việc thiết lập thiện chí và củng cố thêm vị thế của bạn đều đạt được thông qua quá trình định hướng tư duy. Vì vậy, bạn thực sự không thể làm sai với quá trình này.
+
+Một điều khác nữa là bạn thiết lập được sự tin tưởng. Tại sao ai đó không mua hàng của bạn? Chỉ có hai lý do:
+- Lý do #1: Họ không muốn. Đôi khi không có nhiều điều bạn có thể làm về điều đó. Nếu họ không muốn – thì họ không muốn.
+- Lý do #2: Họ không tin bạn. Chúng ta có thể làm rất nhiều điều để thay đổi điều đó. Tài liệu định hướng tư duy giúp thiết lập sự tin tưởng.
+
+Điểm tiếp theo về tài liệu định hướng tư duy là rất quan trọng: Nó xây dựng mong muốn. Chúng ta đã từng trải qua điều này khi nhìn thấy một sản phẩm – "Ồ, cái đó khá hay." Nhưng chúng ta không thực sự muốn nó ngay lập tức. Sau đó, theo thời gian, chúng ta tiếp xúc với nó nhiều hơn và bắt đầu nghĩ, "Mình phải có một cái như vậy." Đó là lúc quá trình định hướng tư duy tăng tốc.
+
+Chúng ta không nên giả định rằng ai đó sẽ muốn mua sản phẩm của chúng ta ngay lập tức khi họ mới chỉ vừa nhìn thấy chúng ta.
+
+**Chúng ta Phải Thực Sự Thuyết Phục Họ Cảm Thấy Như Họ Biết Chúng Ta, Thích Chúng Ta, Tin Tưởng Chúng Ta, Và Khao Khát Sản Phẩm Của Chúng Ta.**
+
+Họ phải chấp nhận vị trí của chúng ta và cảm thấy rằng mình phù hợp với vị trí đó. Đây là một cỗ máy được tổ chức rất tốt và được tinh chỉnh cẩn thận, có thể mang lại kết quả khổng lồ. Thật may mắn, không ai thực sự làm điều này trong cộng đồng của chúng ta, điều này thật tuyệt vời vì nó khiến mọi thứ trở nên rất đơn giản đối với những người như chúng ta, những người sẵn sàng nỗ lực – mà thực tế điều này cũng không quá khó.
+
+Và như tôi đã nói trước đây, mục đích của tất cả những điều này là làm trơn tru quá trình chuyển đổi.
+
+Điều thú vị là tất cả những điều này đều xây dựng giá trị nội tại:
+- Quá trình "pre-framing" (Thiết Lập Khung Nhận Thức) xây dựng giá trị nội tại.
+- Định Vị là một yếu tố quan trọng trong việc tạo dựng giá trị nội tại.
+- Quá trình thuyết phục tiếp tục củng cố giá trị đó.
+
+Vậy điều gì thúc đẩy giá cả? Chính là giá trị nội tại. Tổng giá trị thực sự thúc đẩy giá cả, nhưng phần quan trọng nhất trong phương trình đó vẫn là giá trị nội tại.
+
+Hãy nghĩ về sự khác biệt 200.000 đô la giữa một chiếc Rolls Royce và một chiếc BMW – về cơ bản là cùng một chiếc xe. Sự khác biệt nằm ở đâu? Chính là ở giá trị nội tại.
 
