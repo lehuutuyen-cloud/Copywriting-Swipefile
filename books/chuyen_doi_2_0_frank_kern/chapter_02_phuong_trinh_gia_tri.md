@@ -1,7 +1,7 @@
 # TITLE: Phần 2 - Chuyển Đổi: Phương Trình Giá Trị, Chiến Lược Định Vị & Tư Duy Người Giàu
 - BOOK: Chuyển Đổi 2.0 (Convert 2.0)
 - AUTHOR: Frank Kern
-- URL: [File Upload]
+- URL: [File Upload](https://docs.google.com/document/d/1jLtS-Q79Q_PXHynFEGqEj1LGTGoWseEA3dueEfyu_Ro/edit?tab=t.0#heading=h.iikbi3m03ls)
 - TYPE: BookNoteChapter
 - LAST_UPDATED: 2025-11-24
 - TAGS: Frank Kern, Value Equation, Positioning, Celebrity Authority, Stealth Selling, Rich Guy Thinking
