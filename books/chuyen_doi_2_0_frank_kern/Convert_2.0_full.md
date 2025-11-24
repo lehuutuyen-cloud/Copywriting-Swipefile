@@ -994,7 +994,50 @@ Vậy hãy cùng thảo luận về cách Định Vị quan trọng đối với
 
 Trước hết, hãy xác định một số Định Vị hấp dẫn; những Định Vị cơ bản sẽ thu hút khách hàng của bạn đến với bạn.
 
+#### Định Vị Cuốn Hút (Magnetic Positioning) – Dạng Text
+1. Sự Tương Đồng Với Thị Trường
+2. Bí Ẩn (Mysterious)
+3. Thú Vị (Exciting)
+4. Độc Quyền (Exclusive)
+5. Bị Cấm (Forbidden)
+6. Nguyên Bản (Original)
+7. Hiếm Có (Rare)
+8. Phổ Biến (Popular)
+9. Trái Ngược (Contrarian)
+10. Khác Biệt (Different)
 
+Một trong những yếu tố chính là **"Độc Quyền"**, đúng không? Chúng ta đều muốn sở hữu những thứ mà người khác không có. Sự độc quyền làm cho chúng ta cảm thấy quan trọng.
 
+Một yếu tố khác là **"Hiếm Có"**. Điều này liên quan mật thiết đến sự độc quyền. Hãy nhìn vào kim cương. Chúng hiếm có - hoặc ít nhất chúng ta được dẫn dắt để tin như vậy. Chính sự hiếm có này đã tạo ra giá trị cho kim cương.
+
+**"Khác Biệt"** đến một mức độ nào đó cũng là một yếu tố Định Vị hấp dẫn. 
+
+**"Thú Vị"** là một cách Định Vị lôi cuốn.
+
+**"Nguyên Bản"** là một cách Định Vị mạnh mẽ. 
+
+**"Trái Ngược"** cũng là một cách Định Vị thú vị.
+
+Một trong những ví dụ yêu thích của tôi là Dan Kennedy. Ông Dan già đáng kính, một trong những người thầy đầu tiên của tôi và vẫn là người thầy của tôi cho đến ngày nay.
+
+Ông nổi tiếng với việc luôn **"Trái Ngược"** – ông thách thức mọi quan điểm của truyền thông truyền thống. Toàn bộ quan điểm của ông là, "Nhìn xem, tất cả các công ty quảng cáo lớn đều sai lầm. Mọi thứ các bạn đang làm đều không đúng. Tôi có thể làm tốt hơn hàng trăm lần". Và thực tế là ông đã chứng minh điều đó đúng.
+
+**"Bí Ẩn"** là một yếu tố khác. Chúng ta bị cuốn hút bởi sự bí ẩn và kỳ lạ. 
+
+**"Bị Cấm"** cũng là một yếu tố hấp dẫn. Hãy nghĩ về những thanh niên 19 tuổi cố gắng vào một quán bar? Tại sao? Vì họ không được phép vào.
+
+Điều này giống như mèo – con người cũng như mèo – bạn đặt chúng vào một căn phòng và đóng cửa lại, và điều duy nhất chúng muốn là biết có gì ở phía bên kia cánh cửa.
+> **Nếu bạn để chúng ở một bên cửa và đóng lại, chúng sẽ muốn sang phía bên kia. Tất cả chúng ta đều được lập trình giống nhau.**
+
+Một yếu tố khác là **"Phổ Biến"**. Có sự an toàn trong số đông, và đó là một cách Định Vị hiệu quả và hấp dẫn.
+
+**"Sự Tương Đồng Với Thị Trường"** _(Affinity To Market_. Người này giống như tôi. Đây là một cấp độ Định Vị khác có sức hút mạnh mẽ với tiền bạc.
+
+Bạn có thể chọn bất kỳ yếu tố nào trong số này hoặc tạo ra một yếu tố khác mà bạn nghĩ sẽ phù hợp với mình. Điều quan trọng nhất là chọn yếu tố Định Vị mang lại cho bạn lợi ích lớn nhất. 
+> **Bạn Có Thể Chọn Bất Kỳ Yếu Tố Định Vị Nào Trong Số Này Hoặc Tạo Ra Một Yếu Tố Khác Phù Hợp Với Bạn.**
+
+Tất cả những điều này đều dựa trên giả định rằng bạn thực hiện tốt công việc của mình, giữ đúng lời hứa và cung cấp dịch vụ chất lượng. 
+
+Nhưng với điều đó là điều hiển nhiên, yếu tố mang lại lợi ích lớn nhất chính là vị trí của bạn trong thị trường.
 
 
