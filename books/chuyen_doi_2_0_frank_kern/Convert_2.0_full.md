@@ -502,11 +502,11 @@ Vậy, làm thế nào để chúng ta đạt được điều đó? Và chúng 
 #### Cách Tạo Ra Cảm Xúc Là Thông Qua Câu Chuyện.
 
 Và có ba loại câu chuyện chính:
-1. Aspirational (Khát Vọng): Loại câu chuyện này tập trung vào việc vẽ nên một tương lai tươi sáng cho khách hàng tiềm năng của bạn. Nó giúp họ nhìn thấy điều gì đó mà họ sẽ khao khát đạt được. Vấn đề với loại này là nhiều người thường làm theo cách rất vụng về. Bạn thường thấy những người trên mạng khoe khoang như, "Hãy nhìn bộ sưu tập du thuyền của tôi!" và sau đó họ cho bạn thấy những chiếc du thuyền được neo đậu bằng một sợi dây vàng khổng lồ. Điều này không mang lại sự thanh lịch. Vì vậy, bạn cần phải chân thật và tinh tế khi kể câu chuyện này.
-2. Motivational (Động Lực): Loại câu chuyện này nhằm tạo động lực và lý do để mọi người hành động. Chúng ta đều đã nghe những câu chuyện động lực, nơi mọi người khuyến khích bạn ra ngoài và “chỉ cần làm điều đó”!
+1. **Aspirational (Khát Vọng):** Loại câu chuyện này tập trung vào việc vẽ nên một tương lai tươi sáng cho khách hàng tiềm năng của bạn. Nó giúp họ nhìn thấy điều gì đó mà họ sẽ khao khát đạt được. Vấn đề với loại này là nhiều người thường làm theo cách rất vụng về. Bạn thường thấy những người trên mạng khoe khoang như, "Hãy nhìn bộ sưu tập du thuyền của tôi!" và sau đó họ cho bạn thấy những chiếc du thuyền được neo đậu bằng một sợi dây vàng khổng lồ. Điều này không mang lại sự thanh lịch. Vì vậy, bạn cần phải chân thật và tinh tế khi kể câu chuyện này.
+2. **Motivational (Động Lực):** Loại câu chuyện này nhằm tạo động lực và lý do để mọi người hành động. Chúng ta đều đã nghe những câu chuyện động lực, nơi mọi người khuyến khích bạn ra ngoài và “chỉ cần làm điều đó”!
 
    Ví dụ, có rất nhiều người trên mạng xã hội luôn nói về sự nỗ lực và kiên trì, cách bạn có thể đạt được điều gì đó – chỉ cần dậy sớm và cùng nhau chinh phục ngày hôm nay, nghiền nát nó! Rah! Rah! Rah!
-3. Inspirational (Truyền Cảm Hứng): Loại câu chuyện này sâu sắc hơn một chút. Nó giúp mọi người cảm thấy được truyền cảm hứng cho một mục đích lớn hơn. Khi được thực hiện đúng, nó khiến mọi người cảm thấy hy vọng và được khuyến khích, từ đó thúc đẩy họ muốn hành động.
+3. **Inspirational (Truyền Cảm Hứng):** Loại câu chuyện này sâu sắc hơn một chút. Nó giúp mọi người cảm thấy được truyền cảm hứng cho một mục đích lớn hơn. Khi được thực hiện đúng, nó khiến mọi người cảm thấy hy vọng và được khuyến khích, từ đó thúc đẩy họ muốn hành động.
 
 Ngoài ba loại này, có những loại câu chuyện khác mà bạn có thể sử dụng để tạo sự kết nối, nhưng đây là những loại câu chuyện chính.
 
