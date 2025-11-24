@@ -1040,4 +1040,251 @@ Tất cả những điều này đều dựa trên giả định rằng bạn th
 
 Nhưng với điều đó là điều hiển nhiên, yếu tố mang lại lợi ích lớn nhất chính là vị trí của bạn trong thị trường.
 
+**Bạn Sẽ Được Trả Công Cao Nhất Dựa Trên Vị Trí Của Mình Trong Thị Trường. Hết!**
+
+Để tôi minh họa điều này cho bạn.
+
+Hãy tưởng tượng một kim tự tháp với các vị trí khác nhau, và càng lên cao trên kim tự tháp, bạn thường sẽ kiếm được nhiều tiền hơn. Đây là một quy tắc phổ biến, không phải điều tôi tự nghĩ ra.
+
+Ở phần đáy của kim tự tháp, chúng ta có những người làm công việc tổng quát. Người có thể làm mọi thứ, từ thợ sửa chữa đa năng đến bác sĩ thực hành chung.
+
+Hãy xem xét điều này ở cấp độ đó.
+
+> //Trích dẫn "Kim Tự Tháp Thẩm Quyền"
+
+
+<img width="505" height="458" alt="image" src="https://github.com/user-attachments/assets/b4954e3d-2359-479e-b704-e319224bc548" />
+
+> Hình ảnh là một kim tự tháp 5 tầng thể hiện các cấp độ phát triển nghề nghiệp hoặc mức độ uy tín trong một lĩnh vực.
+> Từ đáy lên đỉnh, các tầng lần lượt là:
+
+1. **GENERALIST – Người làm công việc phổ thông**
+
+   Đây là tầng lớn nhất ở đáy kim tự tháp. Đại diện cho những người có kiến thức rộng nhưng nông, làm nhiều loại công việc khác nhau nhưng không chuyên sâu.
+
+2. **SPECIALIST – Chuyên gia**
+
+   Tầng thứ hai. Đây là nhóm có kỹ năng chuyên môn rõ ràng, giỏi một lĩnh vực cụ thể và có khả năng giải quyết các vấn đề chuyên sâu.
+
+3. **AUTHORITY – Người có thẩm quyền**
+
+   Tầng thứ ba. Đây là những người không chỉ giỏi chuyên môn mà còn có tiếng nói trọng lượng trong ngành, được công nhận là nguồn tham chiếu đáng tin cậy.
+
+4. **CELEBRITY – Người nổi tiếng**
+
+   Tầng thứ tư. Những cá nhân được công chúng biết đến rộng rãi, có độ nhận diện cao, và ảnh hưởng lớn trong cộng đồng hoặc ngành nghề.
+
+5. **Tầng trên cùng (dấu ?) – Cấp độ chưa được đặt tên**
+
+   Đây là đỉnh kim tự tháp, thể hiện cấp độ cao nhất nhưng đang để trống bằng dấu hỏi “?”.
+
+   Ý nghĩa có thể là: cấp độ tối thượng, biểu tượng, huyền thoại, hoặc một vị thế vượt lên trên cả người nổi tiếng.
+
+> // Kết thúc mô tả ảnh
+
+Hãy nghĩ về các bác sĩ – đây là điều mà tất cả chúng ta đều có thể liên hệ đến. Một bác sĩ đa khoa sẽ không được trả lương cao như một bác sĩ chuyên khoa.
+
+Ví dụ, một bác sĩ phẫu thuật tim sẽ đòi hỏi mức phí cao hơn nhiều so với người mà bạn đến gặp khi bị cảm lạnh. Tất cả chỉ vì ông ấy là một Chuyên Gia trong lĩnh vực của mình.
+
+Tiếp theo là một Người Có Thẩm Quyền. Nếu bác sĩ phẫu thuật tim đó là người nổi tiếng nhất trong thị trấn – và tất cả các bác sĩ phẫu thuật tim khác đều khuyên bạn nên đến gặp người này – thì ông ấy sẽ được trả lương cao hơn nữa. Ông ấy trở nên được săn đón hơn vì ông ấy là người có thẩm quyền. Đây là điều cơ bản.
+
+Giờ đây, điều kỳ diệu nằm gần đỉnh kim tự tháp là vị trí của một người nổi tiếng. Sức mạnh của việc Định Vị bản thân như một người nổi tiếng có hai điểm quan trọng mà chúng ta cần lưu ý:
+- Thứ nhất, nó rất thu hút tiền bạc.
+- Thứ hai, sự nổi tiếng có thể được tạo ra từ con số không.
+
+Tôi không đề nghị bạn lừa dối, nhưng thực tế là mọi sự nổi tiếng đều được xây dựng thông qua một chuỗi sự kiện. Chúng ta có thể cố tình tái tạo lại những chuỗi sự kiện đó để tạo ra sự nổi tiếng trong thị trường của mình.
+
+Hãy để tôi đưa ra một ví dụ. Bạn còn nhớ mùa đầu tiên của chương trình The Apprentice do Donald Trump tổ chức chứ? Chắc chắn bạn đã quen thuộc với The Apprentice, nhưng nếu chưa, thì tóm lại, bạn sẽ giành chiến thắng trong chương trình này bằng cách thành công trong các thử thách kinh doanh khác nhau.
+
+Một mùa trong chương trình tập trung vào việc ai sẽ tăng doanh thu cho một nhà hàng. Có hai đội, và một trong số đó được dẫn dắt bởi một anh chàng tên là Troy. Trong đội này có một người khác tên là Kwame Jackson.
+
+Tôi nghĩ lúc đó anh ấy làm việc ở Wall Street. Tôi không chắc hiện giờ anh ấy đang làm gì, nhưng tôi chắc rằng anh ấy đã rất thành công. 
+
+Anh ấy là một người cực kỳ thông minh.
+
+Cách Định Vị của họ là để Kwame ngồi ở một quầy bên ngoài nhà hàng, giả vờ như anh ấy là một cầu thủ bóng rổ nổi tiếng của NBA.
+> **Chúng Ta Có Thể Cố Ý Tái Tạo Các Sự Kiện Để Xây Dựng Danh Tiếng Trong Thị Trường Của Mình.**
+
+Họ thậm chí không nói Kwame Jackson là một cầu thủ NBA nổi tiếng. Họ chỉ đơn giản hành động như thể anh ấy là một người nổi tiếng. Họ nói: "Hãy đến và nhận chữ ký của Kwame Jackson, mọi người. Đến đây và gặp Kwame Jackson. Hãy nhận chữ ký của anh ấy đi."
+
+Và chỉ như thế, mọi người đổ xô đến anh ấy, tin rằng anh ấy là một người nổi tiếng nào đó vì cách anh ấy được Định Vị, và họ đã mua những quả bóng rổ. Kết quả là đội của họ đã giành chiến thắng trong thử thách.
+
+Vì vậy, Định Vị danh tiếng thực sự rất quan trọng. Tất nhiên, tôi không khuyến khích bạn ra ngoài và làm những điều như vậy. Tôi phải thừa nhận rằng có một chút gian lận trong việc này, và Donald Trump cũng cảm thấy như vậy. Ông ấy nói: "Tôi ngưỡng mộ sự năng động của các bạn, nhưng tôi cũng phải thừa nhận có một chút gian lận ở đây." Tuy nhiên, điều này chỉ chứng minh sức mạnh của việc Định Vị danh tiếng.
+
+Nhân tiện nhắc đến Donald Trump, hãy cùng nói về Định Vị, đặc biệt là Định Vị danh tiếng. Tôi không nhớ chính xác trang web nào, nhưng tôi đã đọc rằng phí để Donald Trump phát biểu là 1,5 triệu đô la. Bạn có tưởng tượng nổi không? Tại sao lại như vậy? Vì sao trên đời này Donald Trump lại có thể nhận được 1,5 triệu đô la để phát biểu?
+
+Hãy suy nghĩ từ góc độ Giá Trị Thực Tế. Liệu ông ấy có phải là người phát biểu giỏi nhất không? Tôi không biết – có lẽ ông ấy cũng khá giỏi, tôi cho là vậy. Nhưng tôi vẫn thích những diễn giả khác hơn. Không có gì chống lại Donald Trump, nhưng nếu tôi phải trả 1,5 triệu đô la, có lẽ tôi sẽ muốn nghe ai đó khác. Liệu ông ấy có mang lại nội dung tốt nhất không? Ông ấy có phải là người truyền cảm hứng nhất không? Hay ông ấy có phải là người nói năng lưu loát nhất không? Tất cả những điều này đều có thể tranh luận, phải không?
+
+Hầu hết mọi người sẽ nói, "Ông ấy giỏi, nhưng tôi không chắc, thật sự là tôi sẽ không đi nghe Donald Trump phát biểu và sau đó cảm thấy như mình có thể đi trên mặt nước hay gì cả."
+
+Vậy với tất cả những điều đã nói, làm thế nào mà ông ấy lại được trả một triệu rưỡi đô la để phát biểu? Tôi nghĩ bài phát biểu chỉ kéo dài khoảng 90 phút hoặc đại loại như vậy.
+
+Chuyện gì đang xảy ra ở đây? Câu trả lời là – bởi vì ông ấy là Donald Trump. Đó là lý do tại sao.
+
+> Trích dẫn hình ảnh
+
+<img width="296" height="276" alt="image" src="https://github.com/user-attachments/assets/c46cdf7f-6335-4eba-a777-8b2ffee48dc1" />
+
+Hình ảnh thể hiện một kim tự tháp 5 tầng, nhưng tầng trên cùng lần này đã được làm rõ và đặt tên.
+
+Từ đáy lên đỉnh:
+
+**GENERALIST – Người làm công việc phổ thông**: Tầng rộng nhất. Đại diện cho nhóm làm nhiều thứ nhưng không chuyên sâu.
+
+**SPECIALIST – Chuyên gia**:  Người có kỹ năng chuyên sâu, xử lý vấn đề ở mức độ mà generalist không làm được.
+
+**AUTHORITY – Người có thẩm quyền**: Người được công nhận là “chuẩn mực” trong ngành. Ý kiến của họ có sức nặng và ảnh hưởng.
+
+**CELEBRITY – Người nổi tiếng**: Người được nhiều người biết đến và có sự thu hút lớn về mặt hình ảnh, truyền thông.
+
+**CELEBRITY + AUTHORITY – Người nổi tiếng quyền lực** Đây là tầng mới, nằm ở đỉnh kim tự tháp.
+
+Nội dung trong hình mô tả thêm:
+– Người nổi tiếng quyền lực
+– Hấp dẫn tiền bạc nhất
+
+Đây là cấp độ kết hợp giữa độ nhận diện của một người nổi tiếng và sự tôn trọng/thẩm quyền của một chuyên gia đầu ngành.
+Những người ở cấp độ này có ảnh hưởng mạnh nhất, kiếm nhiều tiền nhất, và có khả năng điều hướng thị trường hoặc dư luận.
+> // Hết trích dẫn hình ảnh
+
+Donald Trump đã nâng cấp bản thân từ vị trí của một Người Nổi Tiếng (Celebrity) lên một tầm cao mới: vị trí cao nhất và cũng là vị trí hấp dẫn tiền bạc nhất trên thế giới, đó chính là vị trí của một Người Nổi Tiếng Quyền Lực (Celebrity + Authority).
+
+**Không Có Vị Trí Nào Trên Thị Trường Có Sức Hút Về Tiền Bạc Lớn Hơn Vị Trí Của Một Người Nổi Tiếng Quyền Lực (Celebrity + Authority).**
+
+Trường hợp của Donald Trump là minh chứng rõ ràng cho điều đó.
+
+Tôi biết bạn có thể đã nghe về điều này trước đây, vì vậy câu hỏi không phải là "Làm sao chúng ta biết điều này là đúng?" Bởi vì đây là một thực tế đã được chấp nhận rộng rãi.
+
+Câu hỏi thực sự là, "Làm thế nào để chúng ta tạo ra và triển khai vị trí này để tận dụng lợi ích của nó trong chiến lược tiếp thị và trên thị trường của chúng ta?"
+
+### Định Vị (Positioning)
+
+#### Bước #1: Cách Tạo Dựng và Triển Khai Định Vị (Positioning)
+
+Vậy hãy bắt đầu nào. Bước đầu tiên là chúng ta cần xác định vị trí mong muốn của bạn trên thị trường là gì.
+
+Dưới đây là ý nghĩa của điều này đối với chúng ta:
+
+Vị trí thị trường của những người như chúng ta khác với các tập đoàn lớn. Chúng ta không quá lo lắng về việc xây dựng thương hiệu hay những thứ tương tự.
+
+Chúng ta quan tâm đến việc kiếm được càng nhiều tiền càng tốt trong khi vẫn cung cấp tối đa sự thiện chí cho cộng đồng của mình.
+
+Vị trí của bạn sẽ xoay quanh việc bạn muốn thị trường nghĩ gì về bạn.
+> **Vị Trí Của Bạn Sẽ Được Định Hình Dựa Trên Cách Bạn Muốn Thị Trường Nhìn Nhận Về Mình.**
+
+**Đây là một cách tốt để suy nghĩ về điều này:**
+
+Hãy tưởng tượng bạn sắp bước lên sân khấu trước 1.000 khách hàng tiềm năng lý tưởng nhất – những người mà bạn có thể giới thiệu sản phẩm tốt nhất của mình. Những khách hàng tiềm năng hoàn hảo này sẽ trở thành khách hàng của bạn. Vậy, bạn muốn mình được giới thiệu như thế nào trước những người đó?
+
+Bạn chuẩn bị bước lên sân khấu, và người dẫn chương trình sắp giới thiệu bạn. Bạn muốn người dẫn chương trình nói gì về mình?
+
+Tự hỏi bản thân, "Bạn muốn người dẫn chương trình nói gì về mình?" là cách tuyệt vời để thực sự xác định bạn muốn vị trí hoặc hình ảnh toàn cầu của mình như thế nào.
+
+Đây là một số cách để bạn hình dung rõ hơn về điều này:
+
+**1. Điều Đầu Tiên Bạn Cần Làm Là Tìm Ra Sức Mạnh Đặc Biệt Của Mình.**
+
+Tất nhiên, bạn biết mình có sức mạnh đặc biệt gì. Có thể bạn rất giỏi trong việc giúp người khác giảm cân nhanh chóng. Có thể bạn rất giỏi trong việc chuyển đổi khách hàng. Hoặc có thể bạn rất giỏi trong việc tạo ra sự thay đổi tích cực trong cuộc sống của ai đó. Dù là gì đi nữa, đó là thế mạnh của bạn.
+
+Ví dụ, trong thị trường của chúng ta, Jeff Walker là người mà ai cũng biết đến và yêu mến; anh ấy là người chuyên phụ trách ra mắt sản phẩm. Andy Jenkins là chuyên gia về Video Marketing.
+
+Điều tiếp theo bạn cần hiểu và thực sự xác định là danh tính siêu anh hùng của mình. Đây thực sự là hình ảnh, gần như là cách mà thị trường của bạn biết về bạn.
+
+Tôi từng được biết đến như anh chàng lướt sóng Mass Control, và sau đó tôi đã chuyển sang làm "Chủ tịch Internet" – điều này phần lớn là do tình cờ. Tôi nghĩ rằng, "này, mình sẽ tiếp nhận điều này. Tại sao không?" Và bây giờ tôi đã chuyển sang vai trò chủ yếu là cố vấn cho ngành tiếp thị internet.
+
+**Vì vậy, bạn có thể xác định điều này – miễn là nó đúng, tất nhiên.**
+
+Bạn Có Thể Định Nghĩa Nó Và Bạn Cần Phải Rất Cụ Thể Về Những Gì Bạn Muốn Nó Trở Thành.
+
+Bởi vì cách thị trường nhìn nhận bạn sẽ đóng vai trò như một phương tiện để tăng cường chuyển đổi, tăng khả năng sinh lời, tăng nhu cầu của bạn, và rất nhiều thứ khác. Mọi thứ.
+
+Vì vậy, điều này thực sự rất quan trọng.
+
+**2. Điều Tiếp Theo Bạn Cần Hiểu Là Bạn Đại Diện Cho Điều Gì? để bạn có thể truyền đạt điều đó đến thị trường của mình, và cuối cùng là Bạn Chống Lại Điều Gì?**
+
+Tôi biết chúng ta đang bắt đầu nói về một số khái niệm hơi trừu tượng, vì vậy hãy để tôi đưa điều này vào bối cảnh cho bạn.
+
+Hãy tưởng tượng bạn sắp bước lên sân khấu, có 1.000 người đang chờ đợi, và bạn đang rất phấn khích. Họ chưa từng gặp bạn – bạn muốn tạo ấn tượng tốt nhất có thể, và chúng ta đều biết rằng bạn sắp được giới thiệu bởi người dẫn chương trình.
+
+Chúng ta muốn người dẫn chương trình nói gì?
+
+Một cách hay để hình thành điều đó và thực sự làm rõ vị trí mong muốn toàn cầu của bạn là điền vào chỗ trống trong câu sau đây:
+- Điểm Mạnh Đặc Biệt Của Bạn Là Gì?
+- Danh Tính Siêu Anh Hùng Của Bạn Là Gì? 
+- Bạn Đại Diện Cho Điều Gì?
+- Bạn Phản Đối Điều Gì?
+
+Chúng ta muốn người dẫn chương trình nói gì?
+
+**"[Tên Của Bạn] Được Biết Đến Là Người Được Săn Đón Nhất [Thêm Sức Mạnh Đặc Biệt Hoặc Danh Tính Siêu Anh Hùng] Trong Thị Trường [Kinh Doanh Sản Phẩm Số]"**
+
+Đó là câu đầu tiên. Bạn cũng có thể được biết đến với một danh xưng khác. Tôi chỉ đưa ra "người được săn đón nhất," nhưng nếu muốn, bạn có thể được biết đến với một danh xưng khác - bất cứ điều gì phù hợp.
+
+Câu Tiếp Theo Là, "Anh Ấy Hoặc Cô Ấy Nổi Tiếng Vì..."
+
+...và bây giờ bạn điền vào chỗ trống này bằng cách áp dụng sức mạnh đặc biệt của bạn cho những gì bạn đại diện.
+
+Tôi biết điều này có vẻ hơi lạ lùng, vì vậy tôi sẽ đưa ra một ví dụ ngay dưới đây.
+
+**3. Sau Đó, Bạn Hoàn Thiện Câu Này Với Những Gì Bạn Phản Đối.**
+
+Lý do điều này quan trọng là vì một trong những Công Thức Tiêu Đề Cổ Điển Và Hiệu Quả Nhất trên thế giới là thứ mà tôi gọi là "Làm Thế Nào Để Đạt Được Kết Quả Tuyệt Vời Mà Không Gặp Rắc Rối". Nói cách khác, làm thế nào để đạt được kết quả xuất sắc mà không gặp phải những điều tồi tệ.
+
+Đó là lý do tại sao chúng ta muốn thêm điều này vào câu cuối cùng khi xây dựng nhận thức mong muốn toàn cầu của bạn.
+
+Để tôi điền các khoảng trống này hoặc hoàn thiện câu này cho bạn theo cách nó liên quan đến doanh nghiệp của tôi.
+
+Nếu tôi được giới thiệu, đây là những gì tôi muốn họ nói về tôi:
+
+_Frank Kern được biết đến là người được săn đón nhất trong lĩnh vực tiếp thị Internet, viết quảng cáo, và tư vấn phản hồi trực tiếp...
+Bây giờ tôi sẽ dừng lại ở đây - tôi đang làm gì? Tôi đang chèn danh tính siêu anh hùng của mình và một phần sức mạnh đặc biệt của tôi._
+
+Vâng, sức mạnh đặc biệt của tôi là mang lại khách hàng, v.v., cho các nhà tư vấn, huấn luyện viên và nhà cung cấp dịch vụ, giúp họ cấu trúc doanh nghiệp và đạt được sự phát triển đơn giản hóa.
+
+Vì vậy, tôi đang chèn tất cả những điều đó vào. Và bây giờ chúng ta tiếp tục:
+
+_Frank Kern được biết đến là người được săn đón nhất trong lĩnh vực tiếp thị Internet, viết quảng cáo, và tư vấn phản hồi trực tiếp trong cộng đồng kinh doanh trực tuyến._
+
+Trong ví dụ trước, tôi đã nói "Trong Thị Trường". Nhưng bạn muốn xác định thị trường của mình một chút nữa. Vì vậy, tôi đã nói "Trong Cộng Đồng Kinh Doanh Trực Tuyến."
+
+Bây giờ chúng ta sẽ đến phần thứ hai của câu này - "Anh ấy nổi tiếng vì..." và bây giờ tôi sẽ chèn ứng dụng của sức mạnh đặc biệt trong mối quan hệ với những gì tôi đại diện.
+
+_Anh ấy nổi tiếng với việc tạo ra các chiến dịch tiếp thị Internet cực kỳ lợi nhuận..._
+
+Đó là việc ứng dụng sức mạnh đặc biệt của anh ấy.
+
+_...điều đó cũng giúp tăng mạnh lòng trung thành với thương hiệu và thiện chí._
+
+Bởi vì đó là điều mà tôi đại diện. Nếu ai đã học với tôi một thời gian dài, bạn sẽ biết rằng mục tiêu chính của tôi không chỉ là tạo ra khách hàng và khách hàng tiềm năng, mà còn làm điều đó theo cách xây dựng thiện chí.
+
+Bây giờ phần cuối cùng của câu này là:
+
+_...mà không hề gây khó chịu hoặc thậm chí mang tính bán hàng._
+
+Chúng ta đang lấy đi điều gì? Điều mà tôi phản đối. Bởi vì một điều tôi không thể chịu được trong thị trường và trong tiếp thị nói chung là kiểu quảng cáo cường điệu khó chịu và theo kiểu "tôi cũng thế."
+
+> //Giới thiệu về Frank Kern
+
+_Frank Kern được biết đến là người được săn đón nhất trong lĩnh vực tiếp thị Internet, viết quảng cáo, và tư vấn phản hồi trực tiếp trong cộng đồng kinh doanh trực tuyến._
+
+_Anh ấy nổi tiếng với việc tạo ra các chiến dịch tiếp thị Internet cực kỳ lợi nhuận..._
+
+_...mà không hề gây khó chịu hoặc thậm chí mang tính bán hàng._
+> //Kết thúc giới thiệu
+
+Vì vậy, nhiệm vụ của tôi dành cho bạn là thực sự làm rõ điều này.
+
+**Bạn Không Nhất Thiết Phải Sử Dụng Nhận Thức Này Như Một Tuyên Bố Trong Quảng Cáo Của Mình, Nhưng Bạn Nên Xây Dựng Tất Cả Các Tài Liệu Quảng Cáo Và Tiếp Thị Của Mình Xung Quanh Nhận Thức Này.**
+
+Khi bạn thực hiện bài tập này, đây là cách bạn có thể làm rõ ràng nhận thức mong muốn toàn cầu của mình.
+
+Bạn muốn họ nghĩ gì về bạn trước khi họ thậm chí có cơ hội gặp bạn?
+
+Để đưa mọi thứ quay trở lại cơ chế, đây là nơi chúng ta đang ở trong phương trình. Chúng ta vừa thực hiện bài tập nhỏ này và tìm ra bạn muốn vị trí của mình là gì. Chúng ta đã làm điều đó theo cách giúp bạn có thể thu hút thêm nhiều khách hàng một cách dễ dàng hơn.
+
+Chúng ta đã làm bài tập "Hãy tưởng tượng bạn sắp nói chuyện với 1.000 người."
+
+Khi chúng ta đã thiết lập được vị trí mong muốn toàn cầu của bạn, khi chúng ta biết chính xác điều đó là gì, đã đến lúc triển khai nó.
+
+
 
