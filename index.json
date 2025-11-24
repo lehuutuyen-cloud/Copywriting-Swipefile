@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24 10:28:05",
+  "last_updated": "2025-11-24 10:32:36",
   "total_books": 7,
   "books": [
     {
@@ -103,6 +103,10 @@
         {
           "filename": "chapter_00_loi_mo_dau.md",
           "path": "books/chuyen_doi_2_0_frank_kern/chapter_00_loi_mo_dau.md"
+        },
+        {
+          "filename": "chapter_01_quy_trinh_3_giai_doan.md",
+          "path": "books/chuyen_doi_2_0_frank_kern/chapter_01_quy_trinh_3_giai_doan.md"
         }
       ]
     },
