@@ -818,7 +818,7 @@ Hãy để tôi nhấn mạnh điều này: **Tiền Bạc Nằm Ở Giá Trị 
 
 Bây giờ, hãy để tôi chứng minh điều này với bạn bằng một ví dụ thực tế, vì đây là một khái niệm có phần mới mẻ đối với nhiều người.
 
-#### Giá Trị Thực Tế Của Một Chiếc Xe Hơi
+### Giá Trị Thực Tế Của Một Chiếc Xe Hơi
 
 Hãy cùng xem xét giá trị thực tế của một chiếc xe hơi, một ví dụ mà tất cả chúng ta đều có thể liên hệ. Về mặt thực tế, một chiếc xe hơi mang lại những lợi ích gì?
 
@@ -855,6 +855,146 @@ Hãy so sánh hai chiếc xe này; một chiếc Rolls-Royce trị giá 300.000 
 **Câu hỏi mà chúng ta thực sự cần tự hỏi là: Tại sao Rolls-Royce lại có giá cao hơn BMW tới 300%?**
 
 Đặc biệt khi bạn xem xét điều này... **BMW Sở Hữu Rolls-Royce.**
+
+Công ty Rolls-Royce thực sự thuộc sở hữu của BMW. Các xe vẫn được sản xuất theo quy trình tương tự, nhưng BMW là công ty mẹ.
+
+Điều thú vị là chiếc Rolls-Royce Ghost thực sự được xây dựng trên khung gầm giống như dòng BMW 7 Series. Về cơ bản, chúng là cùng một chiếc xe.
+
+Tuy nhiên, giá của chúng lại chênh lệch nhau rất lớn, và sự khác biệt này không chỉ nằm ở các yếu tố vật lý mà còn ở Giá Trị Nội Tại và cách Định Vị Thương Hiệu.
+
+Sự khác biệt chính giữa hai chiếc xe này nằm ở thiết kế bên ngoài và trang trí nội thất. Bạn có một hình dáng thân xe khác nhau, nội thất cũng được trang trí khác biệt; chất lượng da cũng có sự khác biệt nhỏ. Điều này có thể gây ra tranh cãi trong một số trường hợp, nhưng đó chính là những khác biệt chủ yếu.
+> **Câu trả lời cho việc tại sao Rolls Royce lại có giá cao hơn nằm ở Giá Trị Nội Tại (Intrinsic Value).**
+
+Câu hỏi tại sao Rolls Royce lại có giá cao hơn BMW đáng kể, với sự chênh lệch lên tới 200.000 đô la, thực sự nằm ở giá trị nội tại (Intrinsic Value).
+
+Mặc dù có một số khác biệt về giá trị thực tế, chẳng hạn như động cơ 12 xi-lanh của Ghost so với động cơ của BMW 750 và BMW 760, nhưng những khác biệt này không đủ để biện minh cho mức giá chênh lệch 200.000 đô la. Vậy điều gì đã tạo ra sự khác biệt về giá trị này?
+
+Điều cốt yếu ở đây là Rolls Royce đã được Định Vị như biểu tượng của sự tốt nhất. Trong văn hóa đại chúng, Rolls Royce không chỉ là một chiếc xe, mà còn là một phép ẩn dụ cho sự xuất sắc tối cao. Khi chúng ta nói về "Rolls Royce của ngành XYZ," chúng ta đang đề cập đến thứ tốt nhất có thể có.
+
+Rolls Royce được Định Vị toàn cầu là thương hiệu tốt nhất. Khi bạn lái một chiếc Rolls Royce, bạn không chỉ lái một chiếc xe, mà còn mang theo một bản sắc khác biệt. Đến cuộc họp trong một chiếc Rolls, bạn sẽ được đối xử khác so với việc bạn lái một chiếc BMW, Honda Civic, hay bất kỳ chiếc xe nào khác. Bạn được nhìn nhận như một người thành công, quan trọng, và mọi người sẽ chú ý đến bạn ngay lập tức.
+
+**Đây Chính Là Lý Do Thực Sự Khiến Bạn Phải Trả Thêm 200.000 Đô La.**
+
+Không phải vì chất lượng da hay thêm vài xi-lanh trong động cơ, mà vì giá trị nội tại mà Rolls Royce mang lại.
+
+Vậy đây là điều cần lưu ý... Nếu chúng ta muốn tăng giá và có thể thu phí cao hơn cũng như chốt những đơn hàng lớn, bước đầu tiên để tăng lợi nhuận là tăng giá trị nội tại của chúng ta.
+> **"Nếu Muốn Tính Phí Cao Hơn Và Gia Tăng Lợi Nhuận, Chúng Ta Cần Phải Nâng Cao Giá Trị Nội Tại."**
+
+Một lần nữa, tôi sẽ nhắc lại lần thứ 900 – không có điều gì trong số này có thể thay thế việc bạn thực hiện đúng cam kết với khách hàng của mình.
+
+Vì vậy, dù chúng ta làm gì, không điều nào trong những điều này nên được áp dụng như một thủ thuật để che đậy cho sản phẩm hoặc dịch vụ kém chất lượng. Điều đó có thể mang lại kết quả ngắn hạn nhưng sẽ không bền vững.
+
+Tôi biết bạn đã hiểu điều này, nhưng tôi vẫn muốn nhấn mạnh một cách rõ ràng. Giờ thì chúng ta hãy quay trở lại công việc thôi.
+
+### Quyền Năng Của Giá Trị Nội Tại (The Power of Intrinsic Value)
+
+Vậy tại sao điều này lại quan trọng? Tại sao việc tăng giá trị nội tại lại có thể giúp tăng lợi nhuận của bạn nhiều hơn bất cứ điều gì khác?
+
+Trước hết...
+
+**Tăng Giá Trị Nội Tại Cho Phép Bạn Tính Giá Cao Hơn - Và Giá Cả Là Yếu Tố Số Một Ảnh Hưởng Đến Lợi Nhuận.**
+
+Mọi người thường nói về tỷ lệ chuyển đổi và các yếu tố tương tự, nhưng giả sử tỷ lệ chuyển đổi của bạn không thay đổi; chi phí để thu hút một khách hàng không thay đổi; và chi phí để hoàn thành dịch vụ của bạn cũng không thay đổi. Nhưng bạn lại tăng gấp đôi giá của mình.
+
+Điều gì sẽ xảy ra với lợi nhuận của bạn?
+
+Chúng sẽ tăng gấp đôi – bùm, đơn giản như vậy.
+
+Vì vậy, chúng ta cần tập trung vào cách làm thế nào để tính giá cao hơn, thay vì chỉ chăm chăm vào những cải tiến nhỏ như "Chúng ta có nên thay đổi tiêu đề không?" hay "Chúng ta có nên sử dụng phần mềm viết blog khác không?" hay bất cứ điều gì tương tự.
+> **Chúng Ta Cần Tập Trung Vào Cách Làm Thế Nào Để Tính Giá Cao Hơn Thay Vì Chỉ Chăm Chăm Vào Những Cải Tiến Nhỏ.**
+
+Đó không phải là một đột phá!
+
+Tìm ra cách để tính phí cao hơn cho những món hàng có giá trị lớn mới chính là đột phá.
+
+Đó là điều mà 1% những người thực sự mong muốn đạt được đang nhắm tới.
+
+> **Một Lý Do Khác Để Tăng Giá Trị Nội Tại Là Nó Sẽ Làm Tăng Nhu Cầu Đối Với Bạn.**
+
+Hãy nghĩ về điều này - quay lại ví dụ về xe hơi. Mỗi khi Ferrari ra mắt một mẫu xe mới, chẳng hạn như Ferrari 458, mẫu xe đó thường bán hết trước khi thậm chí được vận chuyển từ Ý sang Hoa Kỳ.
+
+Những chiếc xe mới này đã được đặt hết, và thậm chí có những người sẵn sàng trả thêm từ 50.000 đến 60.000 đô la so với giá niêm yết chỉ để có được chiếc xe ngay khi nó ra mắt.
+
+Lúc này, nhân viên bán hàng không cần phải nỗ lực quá nhiều.
+
+Khi mẫu xe mới của Ferrari ra mắt, các nhân viên bán hàng của Ferrari chỉ cần đứng đó và nhận đơn đặt hàng với mức giá cao hơn giá niêm yết.
+
+Không có sự thương lượng, không cần cố gắng gì nhiều.
+
+Nhu cầu quá cao, và đó là vì giá trị nội tại của chiếc xe đã được xây dựng một cách mạnh mẽ trong lòng những người hâm mộ trung thành, khiến họ trở nên cuồng nhiệt với nó.
+> **Nhu Cầu Cao Đến Mức Vì Giá Trị Nội Tại Của Sản Phẩm Đã Được Xây Dựng Lên Rất Mạnh Mẽ.**
+
+Điều tương tự cũng xảy ra với iPhone. Khi một chiếc iPhone mới ra mắt, vào ngày đầu tiên hoặc thứ hai, mọi người đã đổ xô xếp hàng để mua chiếc iPhone mới. Điều thú vị là, một nửa số người trong hàng đã sở hữu một chiếc iPhone rồi. 
+
+Thế nhưng, họ vẫn sẵn sàng chi thêm tiền để có được phiên bản mới, dù về cơ bản nó chỉ là bản sao cải tiến của chiếc điện thoại họ đã có. Nhưng với sự mới mẻ và tất cả giá trị nội tại mà nó mang lại, họ vẫn bị thu hút mạnh mẽ.
+
+Nhân tiện, bạn có nghe về chuyện khi iPhone mới ra mắt lần gần nhất, có người đã thuê những người vô gia cư đứng xếp hàng cho họ không? Sau đó, những người vô gia cư thậm chí còn tranh giành để được đứng xếp hàng. Thật là điên rồ.
+- Đó chính là mức độ khuấy động mà bạn muốn tạo ra trong thị trường của mình.
+- Bạn muốn người hâm mộ yêu thích bạn đến mức đó. Và tất cả điều này đều liên quan đến giá trị nội tại.
+
+**Giá Trị Nội Tại Cũng Làm Tăng Hiệu Quả Của Quy Trình Bán Hàng Của Bạn.**
+
+Giá trị nội tại cũng làm tăng hiệu quả của quy trình bán hàng của bạn. Quay lại với Apple – họ không cần phải nỗ lực để bán điện thoại tại cửa hàng. Họ chỉ cần nói: "Ồ, bạn muốn mua một chiếc điện thoại? Hãy xếp hàng với mọi người, và khi đến lượt, chúng tôi sẽ phục vụ bạn."
+
+Nhân viên bán xe Ferrari có cần phải thuyết phục để bán mẫu xe mới khi nó ra mắt không? Tuyệt đối không. Anh ta chỉ cần nói: "Vâng, bạn biết đấy, chiếc xe này sẽ tốn của bạn thêm khoảng 50.000 đô la so với giá niêm yết."
+
+Và mỗi lần như vậy, luôn có những người tranh nhau để mua nó.
+
+Điều này không chỉ xảy ra với các sản phẩm như iPhone hay Ferrari mà còn với tất cả các dòng sản phẩm cao cấp khác. Mọi thứ đều tuân theo quy luật này.
+
+Vậy tại sao lại như vậy?
+
+Vì Giá Trị Nội Tại đã được xây dựng rất mạnh mẽ. Đây chính là lý do tại sao tất cả những yếu tố này đều quan trọng. Để tôi giải thích thêm một chút.
+
+Chúng ta sẽ nói về Lợi Nhuận ở đây – chính là điều mà các dấu hiệu đô la nhỏ trong sơ đồ đại diện. Lợi nhuận bị ảnh hưởng bởi hai yếu tố chính.
+
+Phía bên trái là Hiệu Quả Của Quy Trình. Điều này có nghĩa là nếu chúng ta sử dụng nút màu đỏ thay vì màu xanh trên trang thanh toán, có thể sẽ tăng thêm một vài phần trăm tỷ lệ chuyển đổi. Điều này thực sự quan trọng.
+
+Mặt khác, nếu chúng ta tăng gấp đôi giá mà mọi yếu tố khác vẫn giữ nguyên, thì chúng ta đã tăng gấp đôi doanh thu.
+
+> //Trích dẫn quy trình 
+<img width="286" height="351" alt="quy_trinh_gia_tri_noi_tai" src="https://github.com/user-attachments/assets/ea9bd7dd-7f01-483c-988f-6bdace486cbe" />
+
+_**Mô tả:** Sơ đồ thể hiện một vòng tròn tạo ra lợi nhuận dựa trên ba yếu tố chính:_
+1. **Hiệu Quả Của Quy Trình**
+
+   Đây là mức độ tối ưu, tốc độ và khả năng vận hành của doanh nghiệp. → Khi quy trình hiệu quả, nó giúp tăng Giá Trị Nội Tại.
+2. **Giá Trị Nội Tại**
+
+   Giá trị thật mà sản phẩm/dịch vụ mang lại cho khách hàng.
+
+   → Giá trị này được xây dựng chủ yếu thông qua định vị.
+
+   → Khi giá trị nội tại cao, doanh nghiệp có thể định giá (Price) cao hơn.
+3. **Giá (Price)**
+
+   Mức giá mà khách hàng sẵn sàng trả dựa trên nhận thức về giá trị. → Giá tốt dẫn đến tăng Lợi Nhuận ($$$).
+4. **Lợi Nhuận ($$$)**
+
+   Lợi nhuận tăng giúp doanh nghiệp tái đầu tư, từ đó tăng cường Hiệu Quả Quy Trình, và vòng lặp lại tiếp tục.
+
+**Tóm lại:** Hiệu quả quy trình → nâng giá trị nội tại → nâng giá bán → tăng lợi nhuận → tái đầu tư để tăng hiệu quả quy trình.
+> //Hết trích dẫn quy trình
+
+Mỗi lần bạn tăng giá trong khi các yếu tố khác vẫn giữ nguyên và không thay đổi – đó là mức độ mà doanh nghiệp của bạn sẽ phát triển. Cả hai yếu tố này đều được thúc đẩy bởi việc nâng cao giá trị nội tại.
+
+**Cả Hai Động Lực Chính Tạo Nên Lợi Nhuận Đều Được Thúc Đẩy Bởi Việc Tăng Giá Trị Nội Tại.**
+
+### Làm Thế Nào Để Xây Dựng Giá Trị Nội Tại?
+
+Câu hỏi chúng ta cần giải quyết ngay bây giờ là: Làm thế nào để xây dựng giá trị nội tại?
+
+Câu trả lời nằm ở việc chúng ta xây dựng nó thông qua Định Vị.
+
+Hãy thử suy nghĩ về Định Vị theo một cách khác. Thông thường, khi nói về Định Vị, chúng ta nghĩ đến các thương hiệu lớn, chiến lược Định Vị thương hiệu, và tất cả những khía cạnh liên quan. Điều đó thật thú vị, nhưng không phải là lĩnh vực kinh doanh của chúng ta.
+
+Nếu bạn đang đọc cuốn sách này, có thể bạn đang tham gia vào lĩnh vực kinh doanh thông tin. Chúng ta làm việc với mọi người để Giúp Họ Đạt Được Những Kết Quả Tốt Hơn – dù là trong kinh doanh, mối quan hệ, chế độ ăn uống, thể dục, hay bất kỳ lĩnh vực nào khác.
+
+Vậy hãy cùng thảo luận về cách Định Vị quan trọng đối với bạn và tôi.
+
+Trước hết, hãy xác định một số Định Vị hấp dẫn; những Định Vị cơ bản sẽ thu hút khách hàng của bạn đến với bạn.
+
+
 
 
 
