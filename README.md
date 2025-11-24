@@ -5,6 +5,9 @@ Kho tri thức tinh gọn (Distilled Knowledge) về Copywriting, Marketing &amp
 
 Repository này chứa các ghi chú sách (Book Notes) và các phân tích chiến lược được chiết xuất sâu (Deep Dive Extraction) từ các tài liệu kinh điển. Dữ liệu được định dạng đặc biệt để phục vụ việc sáng tạo nội dung và huấn luyện AI Marketing.
 
+## Tư Duy
+- Tư duy lại (Reframing): Không có bài viết nào hoàn hảo. Chỉ có bài viết "Đang được tối ưu". Copywriting là một thí nghiệm khoa học, không phải cuộc thi văn học. Sai thì sửa, số liệu không biết nói dối.
+
 ## 📂 Cấu trúc Dữ liệu
 Dữ liệu được tổ chức trong thư mục `/books/`. Mỗi cuốn sách là một thư mục riêng biệt bao gồm:
 1. **metadata.json**: Chứa thông tin chung về cuốn sách.
