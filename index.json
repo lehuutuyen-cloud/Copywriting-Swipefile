@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24 10:34:16",
+  "last_updated": "2025-11-24 10:35:52",
   "total_books": 7,
   "books": [
     {
@@ -107,6 +107,10 @@
         {
           "filename": "chapter_01_quy_trinh_3_giai_doan.md",
           "path": "books/chuyen_doi_2_0_frank_kern/chapter_01_quy_trinh_3_giai_doan.md"
+        },
+        {
+          "filename": "chapter_02_phuong_trinh_gia_tri.md",
+          "path": "books/chuyen_doi_2_0_frank_kern/chapter_02_phuong_trinh_gia_tri.md"
         }
       ]
     },
