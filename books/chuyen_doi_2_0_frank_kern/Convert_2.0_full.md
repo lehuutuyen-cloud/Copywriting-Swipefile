@@ -55,6 +55,7 @@ Nhưng nếu nhìn vào hiện tại, chúng ta đã có trong tay những công
 
 Tôi gọi nó là...
 
+---
 ## Phần 1: Xây Dựng Thương Hiệu Dựa Trên Ý Định (Intent Based Branding)
 
 Xây dựng thương hiệu dựa trên ý định có nghĩa là: **Xây Dựng Thương Hiệu Của Bạn Trong Khi Đồng Thời Bán Hàng.**
@@ -63,6 +64,7 @@ Xây dựng thương hiệu dựa trên ý định có nghĩa là: **Xây Dựng
 
 Xây dựng thương hiệu dựa trên ý định là xây dựng thương hiệu với mục đích bán hàng – cụ thể là giúp bạn tăng tốc quá trình bán hàng bằng cách tạo dựng mối liên kết và quan hệ giữa bạn và khách hàng tiềm năng.
 
+---
 ### Thí Nghiệm
 
 Đây là câu chuyện: Vài tuần trước, Facebook đã có một thay đổi mới. Họ thêm một phần mới trên trang kinh doanh của mọi người có tên là "Thông tin và Quảng cáo" (nằm ở phía bên trái của trang, gần phía dưới).
@@ -115,6 +117,7 @@ Tôi chỉ đơn giản nói rằng tôi đang thực hiện công việc đó v
 
 Điều thú vị là tôi không hề có ý định thu hút thêm khách hàng mới.
 
+---
 ### Kết Quả Điên Rồ
 
 Nói ngắn gọn, hai người đó đã trở thành khách hàng và tổng doanh thu từ họ lên đến 76.000 đô la – thật khó tin.
@@ -153,6 +156,7 @@ Vậy nên, tôi hoàn toàn hài lòng với những con số này.
 
 Bây giờ, khi chúng tôi đã bắt đầu thực hiện thí nghiệm này và bạn đã thấy những con số ấn tượng, tôi quyết định rằng tôi muốn giải thích chính xác cách thực hiện, để bạn cũng có thể thử áp dụng nó.
 
+---
 ### Quy Trình 3 Giai Đoạn
 
 Hãy suy nghĩ về điều này: Nếu bạn liên tục cố gắng bán hàng trực tiếp trên Facebook, điều đó sẽ trở nên cực kỳ khó chịu.
@@ -203,6 +207,7 @@ Vậy hãy bắt đầu bằng cách xem xét quy trình thực sự của việ
 
 Có ba bước, bất kể bạn thực hiện nó trên mạng xã hội, qua tiếp thị email truyền thống hay trên bất kỳ nền tảng nào khác, quy trình vẫn giống nhau.
 
+---
 ### Giai Đoạn 1: Thiết Lập Khung Nhận Thức (Pre-Framing)
 
 **Thiết Lập Khung Nhận Thức** có nghĩa là khiến khách hàng tiềm năng đưa ra một kết luận về bạn trước khi họ tiêu thụ bất kỳ nội dung nào của bạn, hoặc trước khi họ xem xét việc mua bất cứ thứ gì từ bạn.
@@ -219,6 +224,7 @@ Thiết Lập Khung Nhận Thức (Pre-Framing): Nếu chúng ta biết rằng m
 
 Và đó là **Bước 1: Xây Dựng Thương Hiệu Dựa Trên Ý Định** bắt đầu với việc nhận thức rằng mọi người sẽ hình thành ý kiến trước khi họ tiêu thụ bất kỳ nội dung nào.
 
+---
 ### Giai Đoạn 2: Định Hướng Tư Duy (Indoctrination)
 
 Giai đoạn tiếp theo là Định Hướng Tư Duy.
@@ -227,6 +233,7 @@ Giai đoạn tiếp theo là Định Hướng Tư Duy.
 
 Bạn đã thực sự mang lại giá trị cho họ. Nói cách khác, họ trở thành người hâm mộ của bạn – nhưng không chỉ đơn giản là một "lượt thích" trên Facebook. Đây là những người thực sự tiêu thụ nội dung của bạn và cảm thấy, _“Ồ, đúng rồi, tôi thích người này vì họ đã giúp tôi.”_
 
+---
 ### Giai Đoạn 3: Chuyển Đổi (Conversion)
 
 Một trong những quy trình tuyệt vời nhất để minh họa cho khái niệm này là điều mà tôi nghĩ hầu hết mọi người trong Inner Circle đều có thể liên hệ, đó là một phễu Marketing internet cổ điển, chẳng hạn như việc ra mắt sản phẩm.
@@ -273,6 +280,7 @@ Vậy, điều chúng tôi làm bây giờ là áp dụng khung này trên mạn
 
 Chúng ta có thể **Định Hướng Tư Duy** và **Thiết Lập Khung Nhận Thức** cho đúng đối tượng ngay lập tức, và bạn có thể bắt đầu đưa ra lời mời cho chính những người đó vào ngày mai. Điều này thật sự, thật sự tuyệt vời.
 
+---
 ### Cách Hoạt Động
 
 Đây là cách mà nó hoạt động:
@@ -295,6 +303,7 @@ Nhưng nhiệm vụ của bạn, là thực sự xây dựng kết nối mạnh 
 
 Vậy điều mà chúng ta muốn tìm hiểu là, làm thế nào để tạo ra kết nối đó? Làm thế nào để chúng ta thực hiện điều này?
 
+---
 ### Hai Loại Thiện Cảm
 
 Tóm lại, điều đầu tiên bạn muốn làm để tạo sự kết nối là xây dựng cái gọi là **"Thiện Cảm Bề Mặt"** _(Surface Affinity)_ với thị trường mà bạn đang cố gắng tác động.
@@ -372,6 +381,7 @@ Mọi người chỉ quan tâm đến bản thân họ, và đó là điều t�
 
 Với sự hiểu biết đó, chúng ta có thể đi sâu hơn vào quy trình, bắt đầu với...
 
+---
 ### Những Trụ Cột Cốt Lõi Trong Thông Điệp Của Bạn
 
 <img width="616" height="137" alt="a-b" src="https://github.com/user-attachments/assets/203850ac-8ab2-49c5-947c-263737afedf3" />
@@ -469,6 +479,7 @@ Nếu khách hàng tiềm năng của bạn đang ở phía bên trái của hì
 
 Giờ thì, có một lớp khác trong thông điệp của bạn...
 
+---
 ### Cảm Xúc Thông Qua Câu Chuyện
 
 Chúng ta đã có những thông điệp cốt lõi và đang cung cấp nội dung chất lượng, nhưng con người không thể chỉ sống bằng nội dung hay mà thôi.
@@ -687,6 +698,7 @@ Những gì bạn sắp khám phá sẽ nhanh chóng Định Vị bạn là "M�
 
 Bạn sẽ biến khách hàng tiềm năng thành người hâm mộ, người hâm mộ thành khách hàng, và khách hàng thành những người ủng hộ nhiệt thành - những người sẽ tưởng thưởng bạn bằng sự trung thành và kinh doanh lâu dài.
 
+---
 ### Cơ Hội Chúng Ta Được Trao
 
 Hãy suy nghĩ về điều này. Ngay bây giờ, chúng ta có khả năng tiếp cận nhiều người hơn bao giờ hết trong lịch sử loài người.
@@ -753,6 +765,7 @@ Hãy nhớ rằng mọi người đang rất cần một người thực sự đ
 
 Vậy thì, không cần thêm lời nào nữa, hãy bắt tay vào làm việc thôi!
 
+---
 ### Phương Trình Chiến Thắng
 
 Những gì chúng ta sắp thảo luận ở đây dựa trên một phương trình mà tôi đã tạo ra, giúp minh họa cho:
@@ -797,6 +810,7 @@ Có ba yếu tố cơ bản mà bạn có thể kiểm soát để quyết đị
 1. Bạn có thể để giá bị ảnh hưởng bởi **Cung và Cầu**, như trong ngành công nghiệp kim cương. Mọi người thường nghĩ rằng kim cương rất hiếm. Có những lý thuyết cho rằng các công ty kim cương lớn giữ chúng trong một kho nào đó, điều này có thể đúng hoặc không, ai biết được? Tất nhiên, điều này hơi khó kiểm soát trong một số thị trường, nhưng nếu bạn đang Kinh Doanh Tư Vấn Hoặc Tiếp Thị Thông Tin (Info-Marketing), thì điều này không khó chút nào.
 2. **Định Vị và Giá trị** là hai yếu tố còn lại - và yếu tố tác động mạnh mẽ nhất đến giá cả chính là giá trị. Nhưng không phải là giá trị mà bạn đang nghĩ đến.
 
+---
 ### Phương Trình Giá Trị
 
 Đây là một phương trình khác; đây là Phương trình Giá trị:
@@ -818,6 +832,7 @@ Hãy để tôi nhấn mạnh điều này: **Tiền Bạc Nằm Ở Giá Trị 
 
 Bây giờ, hãy để tôi chứng minh điều này với bạn bằng một ví dụ thực tế, vì đây là một khái niệm có phần mới mẻ đối với nhiều người.
 
+---
 ### Giá Trị Thực Tế Của Một Chiếc Xe Hơi
 
 Hãy cùng xem xét giá trị thực tế của một chiếc xe hơi, một ví dụ mà tất cả chúng ta đều có thể liên hệ. Về mặt thực tế, một chiếc xe hơi mang lại những lợi ích gì?
@@ -886,6 +901,7 @@ Vì vậy, dù chúng ta làm gì, không điều nào trong những điều nà
 
 Tôi biết bạn đã hiểu điều này, nhưng tôi vẫn muốn nhấn mạnh một cách rõ ràng. Giờ thì chúng ta hãy quay trở lại công việc thôi.
 
+---
 ### Quyền Năng Của Giá Trị Nội Tại (The Power of Intrinsic Value)
 
 Vậy tại sao điều này lại quan trọng? Tại sao việc tăng giá trị nội tại lại có thể giúp tăng lợi nhuận của bạn nhiều hơn bất cứ điều gì khác?
@@ -980,6 +996,7 @@ Mỗi lần bạn tăng giá trong khi các yếu tố khác vẫn giữ nguyên
 
 **Cả Hai Động Lực Chính Tạo Nên Lợi Nhuận Đều Được Thúc Đẩy Bởi Việc Tăng Giá Trị Nội Tại.**
 
+---
 ### Làm Thế Nào Để Xây Dựng Giá Trị Nội Tại?
 
 Câu hỏi chúng ta cần giải quyết ngay bây giờ là: Làm thế nào để xây dựng giá trị nội tại?
@@ -1157,6 +1174,7 @@ Tôi biết bạn có thể đã nghe về điều này trước đây, vì vậ
 
 Câu hỏi thực sự là, "Làm thế nào để chúng ta tạo ra và triển khai vị trí này để tận dụng lợi ích của nó trong chiến lược tiếp thị và trên thị trường của chúng ta?"
 
+---
 ### Định Vị (Positioning)
 
 #### Bước #1: Cách Tạo Dựng và Triển Khai Định Vị (Positioning)
@@ -1286,6 +1304,7 @@ Chúng ta đã làm bài tập "Hãy tưởng tượng bạn sắp nói chuyện
 
 Khi chúng ta đã thiết lập được vị trí mong muốn toàn cầu của bạn, khi chúng ta biết chính xác điều đó là gì, đã đến lúc triển khai nó.
 
+---
 ### Quảng Bá (Promotion)
 
 Vậy bây giờ chúng ta đang ở giai đoạn này của phương trình, đó là Quảng Bá. Có 3 (ba) khía cạnh của việc quảng bá, và cái đầu tiên chúng ta sẽ đề cập ở đây là một thứ được gọi là **"Thiết Lập Khung Nhận Thức" (Pre-Framing)**.
@@ -1540,6 +1559,23 @@ Quy Trình Giáo Dục (Indoctrination) và Chuyển Đổi (Conversion) bắt �
 
 Chúng ta đã xác định được Định Vị (Positioning) của mình và đang trong giai đoạn Quảng Bá (Promotion). Sau khi đã thu hút họ thông qua việc Thiết Lập Khung Nhận Thức (Pre-Framing), bây giờ là lúc để xây dựng mong muốn và niềm tin thông qua việc Định Hướng Tư Duy (Indoctrination). Đây là giai đoạn tiếp theo trong quy trình của chúng ta.
 
+> // Ảnh Tư Duy (Indoctrination)
+
+<img width="638" height="217" alt="image" src="https://github.com/user-attachments/assets/7cae23ea-2949-4699-851b-2d33a2c8ecda" />
+
+_**Mô tả ảnh:**_ Hình gồm bốn biểu tượng chính xếp theo dạng công thức:
+
+1. Biểu tượng kim tự tháp 3 tầng ghi: **Định vị (Positioning)**
+2. Dấu cộng
+3. Hình ngôi sao bùng nổ màu xanh với dấu chấm than “!” ghi: **Quảng bá (Promotion)**
+- Pre-Framing: Chuẩn bị tâm lý
+- Indoctrination: Quy trình giáo dục
+4. Dấu cộng
+5. Tiếp theo là ba vòng tròn xanh liên kết với nhau bằng các mũi tên chỉ vòng tròn – ghi: **Quy trình (Process)**
+6. Dấu bằng
+7. Cuối cùng là vòng tròn xanh chứa 3 dấu đô-la “$$$” ghi: **Lợi nhuận (Profits)**
+> //Kết thúc mô tả ảnh
+
 Bây giờ, Tài Liệu Định Hướng Tư Duy (Indoctrination) là gì?
 
 Video Ra Mắt (Launch Videos): Đây là các video ra mắt ở một mức độ nào đó, xuất hiện sau khi đăng ký tham gia. Những gì bạn thấy trước khi đăng ký vào một loạt video ra mắt thuộc quy trình Thiết Lập Khung Nhận Thức (Pre-Framing), nhưng một khi bạn đã ở trong hệ thống (funnel), thì đó là các tài liệu Định Hướng Tư Duy (Indoctrination materials).
@@ -1646,3 +1682,532 @@ Vậy điều gì thúc đẩy giá cả? Chính là giá trị nội tại. T�
 
 Hãy nghĩ về sự khác biệt 200.000 đô la giữa một chiếc Rolls Royce và một chiếc BMW – về cơ bản là cùng một chiếc xe. Sự khác biệt nằm ở đâu? Chính là ở giá trị nội tại.
 
+#### #3. Chuyển Đổi (Conversion)
+
+**Bước #3: Chuyển Đổi (Conversion)**
+
+Bây giờ hãy nói về bước #3, đó là chuyển đổi. Cơ chế chuyển đổi đơn giản là quá trình mà khách hàng trải qua khi họ quyết định mua hàng và đưa tiền cho bạn.
+
+Mục Tiêu Của Quá Trình Chuyển Đổi Hoặc Cơ Chế Chuyển Đổi Là Thực Hiện Bán Hàng Trong Khi Vẫn Duy Trì Vị Trí Và Thiện Chí.
+
+Hiện tại, chúng ta có hai lựa chọn:
+1. Chúng ta có thể cố gắng làm việc chăm chỉ và đủ lâu để trở thành một trong số 0,05% những người trong lĩnh vực Marketing và kinh doanh là bậc thầy về viết nội dung và tạo ra quảng cáo xuất sắc. Đó là một cách để tăng tỷ lệ chuyển đổi.
+2. Hoặc chúng ta có thể nắm vững Định Vị, "pre-framing" (Thiết Lập Khung Nhận Thức) và quá trình thuyết phục (Indoctrination).
+
+Lựa chọn #2 dễ hơn gấp 1000%. Thậm chí dễ hơn đến một triệu phần trăm. Vì đó là điều tự nhiên.
+
+Khi chúng ta làm điều đó, chúng ta đang khai thác tâm lý tự nhiên của con người. Hãy xem chúng ta đang ở đâu trong phương trình này và tôi sẽ cung cấp thêm cho bạn một số thông tin chi tiết.
+
+> // Ảnh Tư Duy (Indoctrination)
+
+<img width="638" height="217" alt="image" src="https://github.com/user-attachments/assets/7cae23ea-2949-4699-851b-2d33a2c8ecda" />
+
+_**Mô tả ảnh:**_ Hình gồm bốn biểu tượng chính xếp theo dạng công thức:
+
+1. Biểu tượng kim tự tháp 3 tầng ghi: **Định vị (Positioning)**
+2. Dấu cộng
+3. Hình ngôi sao bùng nổ màu xanh với dấu chấm than “!” ghi: **Quảng bá (Promotion)**
+- **Pre-Framing:** Chuẩn bị tâm lý
+- **Indoctrination:** Quy trình giáo dục
+- **Conversion:** Chuyển đổi
+4. Dấu cộng
+5. Tiếp theo là ba vòng tròn xanh liên kết với nhau bằng các mũi tên chỉ vòng tròn – ghi: **Quy trình (Process)**
+6. Dấu bằng
+7. Cuối cùng là vòng tròn xanh chứa 3 dấu đô-la “$$$” ghi: **Lợi nhuận (Profits)**
+> //Kết thúc mô tả ảnh
+
+Chúng ta đã thiết lập Định Vị; tôi đã hướng dẫn bạn qua bài tập tưởng tượng mình sắp nói chuyện trước 1.000 người và bạn muốn tất cả họ yêu thích bạn nhờ những gì họ tin tưởng về bạn trước khi bạn bước lên sân khấu.
+
+Chúng ta đã nói, "Nếu chúng ta muốn 1.000 người này tin tưởng điều đó, thì tại sao không làm cho cả thế giới tin tưởng điều đó?" Vì vậy, chúng ta đã thảo luận về cách thúc đẩy vị trí đó thông qua Thiết Lập Khung Nhận Thức (Pre-Framing) và Thuyết Phục (Indoctrination).
+
+Bây giờ, chúng ta đang đến phần chuyển đổi. Hãy nhìn vào bức tranh lớn ở đây.
+
+> Ảnh "Định vị từ tính"
+
+<img width="622" height="251" alt="image" src="https://github.com/user-attachments/assets/4a214b33-c43c-4a60-9f3f-b73b094815b7" />
+> Kết thúc ảnh
+
+Chúng ta bắt đầu bằng cách triển khai Định Vị hấp dẫn thông qua Thiết Lập Khung Nhận Thức (pre-framing). Nhớ lại chúng ta đã đề cập đến các ví dụ về Định Vị hấp dẫn trong thị trường của mình.
+
+Sau đó, chúng ta đã nói rằng chúng ta tạo khung nhận thức bằng quảng cáo PPC, xuất hiện với tư cách khách mời trên các blog, thậm chí tại các hội thảo, email được gửi bởi các đối tác liên doanh, nội dung được phân phối hoặc thậm chí là quảng cáo đơn lẻ. Loại phương tiện không quan trọng, mà là cách chúng ta sử dụng chúng.
+
+Khi đã thu hút được sự chú ý, bước tiếp theo là xây dựng mong muốn và niềm tin, đồng thời tiếp tục gia tăng giá trị nội tại thông qua quá trình Định Hướng Tư Duy (indoctrination).
+
+Quá trình thuyết phục này thực tế bắt đầu từ trang đăng ký, và những gì họ nhìn thấy ngay sau khi đăng ký rất quan trọng. Chuỗi email theo dõi, những gì chúng ta nói trong email, nội dung trong video, các tài liệu PDF mà chúng ta gửi cho họ; những gì chúng ta nói trong các webinar và thậm chí trong các teleseminars nếu bạn sử dụng cách cũ. Tất cả những điều này giúp quá trình chuyển đổi trở nên dễ dàng hơn.
+
+##### Quá Trình Chuyển Đổi
+
+Hãy nói về quá trình chuyển đổi. Có nhiều cách khác nhau để bạn có thể kiếm tiền.
+
+Cách Hiệu Quả Và Hiệu Suất Nhất Để Kiếm Tiền Tất Nhiên Là Thông Qua Cuộc Trò Chuyện 1-1
+
+Điều này thật thú vị vì trong Marketing - đặc biệt là Marketing trên Internet - chúng ta thường cố gắng tránh tương tác trực tiếp với con người.
+
+Chúng ta thường tập trung vào việc vượt qua các rào cản và hoàn thiện các nghệ thuật bán hàng qua các bài thuyết trình in ấn và video, để tránh phải tham gia vào các cuộc trò chuyện một kèm một. Tuy nhiên, nếu bạn thực hiện một cuộc trò chuyện trực tiếp thì đó lại là quy trình dễ dàng nhất trên thế giới.
+
+Tiếp theo trong danh sách là thư bán hàng, rồi đến chuỗi email theo dõi, thư bán hàng video (VSL), và thậm chí cả thư trực tiếp.
+
+Cấu Trúc Đề Nghị của bạn tự nó có ảnh hưởng lớn đến quá trình chuyển đổi.
+
+Thậm chí, bài viết trên blog cũng có thể là một phần của quá trình chuyển đổi. Điều này có vẻ lạ, nhưng nếu bạn quen thuộc với phương pháp "Tam Giác Niềm Tin" của tôi, bạn sẽ thấy rằng bài viết trên blog có thể bán chạy một cách không ngờ và đồng thời vẫn mang lại thiện chí.
+
+> Ảnh "Tam Giác Niềm Tin"
+
+<img width="291" height="225" alt="image" src="https://github.com/user-attachments/assets/d1520157-0a45-4b28-a985-869bc8515f43" />
+
+**Tam Giác Niềm Tin rất đơn giản.** Bạn tạo một video giới thiệu về sản phẩm mà bạn đang bán và đăng nó lên blog của mình. Video này sẽ thay bạn thực hiện công việc bán hàng, kèm theo một liên kết đến thư bán hàng hoặc mẫu đơn đặt hàng ngay bên dưới. Sau đó, bạn chỉ cần gửi một email thông báo cho họ về bài đăng video blog mới nhất của bạn.
+
+Chúng ta bắt đầu với việc Định Vị hấp dẫn thông qua Thiết Lập Khung Nhận Thức (Pre-Framing); sau đó, chúng ta làm mềm lòng họ bằng cách Định Hướng Tư Duy (Indoctrination), và nếu chúng ta thực hiện đúng cách, thì ngay cả khi quá trình chuyển đổi không tốt, chúng ta vẫn có thể bán được hàng.
+
+##### Chế Độ "Ẩn Mình" Để Tăng Tỷ Lệ Chuyển Đổi
+
+Để tôi giải thích cho bạn lý do tại sao điều này quan trọng, nhưng trước tiên, hãy để tôi chỉ cho bạn cách chúng ta thực hiện tất cả những điều này trong chế độ "ẩn mình" (stealth).
+
+> Ảnh
+
+<img width="623" height="186" alt="image" src="https://github.com/user-attachments/assets/0bfb7112-8f06-428c-8de5-b307f22abe39" />
+> Kết thúc ảnh
+
+Chúng ta muốn bắt đầu với mục tiêu cuối cùng là có một quá trình chuyển đổi (conversion) hiệu quả và dễ dàng.
+
+Chúng ta sẽ thực hiện quá trình này bằng cách tận dụng vị thế người nổi tiếng quyền lực (celebrity authority positioning).
+
+Bước đầu tiên là thiết lập khung nhận thức (pre-framing) để xây dựng vị thế người nổi tiếng và quyền lực.
+
+Sau đó, chúng ta tiếp tục với tài liệu định hướng tư duy (indoctrination) để củng cố vị thế quyền lực, khiến khách hàng tiềm năng nghĩ, "Ồ, người này nổi tiếng vì rất nhiều lý do."
+
+Khi họ đã tương tác, chúng ta bắt đầu cung cấp giá trị và giáo dục họ.
+
+**Khi Bạn Giáo Dục, Bộ Não Tự Động Cho Rằng Bạn Có Quyền Lực.**
+
+Vì vậy, chúng ta có thể viết một cuốn sách; cuốn sách có thể không có giá trị thực sự, nhưng những người đọc nó sẽ nghĩ, "Người này chắc chắn biết mình đang nói gì. Anh ta là chuyên gia trong lĩnh vực này, anh ta đã viết sách," đúng không? Đó là sự thật đáng buồn. May mắn thay, hầu hết các cuốn sách đều chính xác, nhưng cũng có nhiều cuốn không. Dù sao, việc giáo dục tạo ra một cảm giác quyền lực.
+
+Chúng ta tiếp tục tương tác để Thiết Lập Thiện Chí (Goodwill), Khao Khát (Desire), Và Niềm Tin (Trust). Ba yếu tố này là phần cốt lõi của Quá Trình Định Hướng Tư Duy (Indoctrination). Đồng thời, chúng ta động viên và truyền cảm hứng để củng cố vị thế và tăng thêm sự trung thành từ khách hàng.
+
+Tôi sẽ cho bạn một ví dụ cụ thể. Một lần, tôi gửi một email định hướng tư duy với tiêu đề "Tôi tin vào bạn," và email đó không bán bất cứ thứ gì.
+
+Email đó không hề có bất kỳ liên kết nào. Nó chỉ đơn giản kể câu chuyện về ông nội quá cố của tôi, người đã từng nói với tôi rằng, nếu tôi làm việc chăm chỉ và đặt tâm trí vào điều gì đó, tôi có thể đạt được bất cứ điều gì mình muốn. 
+
+Chính niềm tin và những lời khuyên của ông đã giúp tôi vượt qua nhiều khó khăn trong cuộc sống và đạt được những thành công như hôm nay. Vì vậy, tôi đã viết email này gửi đến danh sách khách hàng của mình, chia sẻ câu chuyện đó và nói với họ:
+
+_“Tôi chỉ muốn bạn biết rằng – trong trường hợp bạn chưa bao giờ nghe điều này từ ai khác như tôi đã nghe từ ông tôi – tôi tin vào bạn, và bạn có thể làm được, hãy kiên trì và tiếp tục cố gắng.”_
+
+Tôi phải nói rằng, email đó là một trong những email có tác động lớn nhất mà tôi từng gửi. Nhiều năm sau, tôi vẫn nhận được những phản hồi từ mọi người về nó.
+
+**Đừng Bao Giờ Đánh Giá Thấp Sức Mạnh Của Sự Động Viên Và Truyền Cảm Hứng Trong Việc Củng Cố Vị Thế Và Xây Dựng Sự Trung Thành.**
+
+Đó cũng là một việc tốt đẹp; cảm giác thật tuyệt vời khi bạn có thể làm ai đó cảm thấy hạnh phúc. Đơn giản chỉ là lan tỏa sự tích cực trong thế giới này. Bạn có đồng ý không?
+
+Cuối cùng, để hỗ trợ cho quá trình chuyển đổi hiệu quả, tất cả những điều tôi vừa đề cập đều được thiết kế để thu hút khách hàng tiềm năng về phía bạn thay vì đẩy sản phẩm và dịch vụ lên họ.
+
+Về quá trình chuyển đổi, thực tế là: Càng xa rời quá trình chuyển đổi, mọi thứ càng trở nên phức tạp hơn.
+
+Nhớ rằng tôi đã nói, chúng ta thường sợ sự tương tác trực tiếp với con người vì hầu hết chúng ta là những nhà tiếp thị internet hướng nội, giống như nhiều người khác, phải không?
+
+Vì vậy, chúng ta thường xây dựng những hệ thống phức tạp chỉ để tạo ra thương vụ mà không cần phải giao tiếp trực tiếp với bất kỳ ai.
+
+Nhưng nếu bạn chỉ cần giao tiếp trực tiếp với ai đó, thì mọi việc trở nên cực kỳ đơn giản, phải không?
+
+Nếu bạn đang tìm cách để việc bán hàng trở nên dễ dàng hơn, chỉ cần gửi email trực tiếp với khách hàng tiềm năng có thể mang lại doanh thu khổng lồ.
+
+Thực tế gần đây, trong năm vừa qua, tôi đã thử nghiệm ba lần với cách làm này và đã bán được hơn một phần tư triệu đô la chỉ qua việc trao đổi email. Không có thư chào hàng; không gì cả. Chỉ là những email qua lại. Và kết quả thật tuyệt vời.
+
+#### Sức Mạnh Của Việc Thiết Lập Khung Nhận Thức (Pre-Framing) Và Định Hướng Tư Duy (Indoctrination)
+
+Tiến thêm một bước nữa, có một sự thật cần nhấn mạnh. Nỗ lực tạo khung sẵn và định hướng của bạn có ảnh hưởng lớn hơn đến tỷ lệ chuyển đổi so với tất cả các thủ thuật và chiến thuật kết hợp lại.
+
+Một bước tiến xa hơn, có một sự thật cần nhấn mạnh: Nỗ lực thiết lập khung nhận thức và định hướng tư duy của bạn có ảnh hưởng lớn hơn đến tỷ lệ chuyển đổi so với tất cả các thủ thuật và chiến lược khác cộng lại.
+
+> **"Những Nỗ Lực Thiết Lập Khung Nhận Thức (Pre-Framing) Và Định Hướng Tư Duy (Indoctrination) Của Bạn Có Ảnh Hưởng Lớn Hơn Đến Tỷ Lệ Chuyển Đổi So Với Tất Cả Các Thủ Thuật Và Chiến Thuật Kết Hợp Lại."**
+
+Bạn có thể sử dụng nút đỏ hoặc nút xanh, hay thay đổi tiêu đề theo ý muốn. Những thay đổi này sẽ mang lại một số lợi ích nhỏ. Nhưng...
+
+**Bạn Sẽ Thấy Sự Đột Phá Khi Thành Thạo Kỹ Năng Tạo Khung Sẵn Và Định Hướng.**
+
+Thực tế, tôi sẽ sửa lại phát biểu đó. Tôi không tin rằng bạn phải thành thạo chúng hoàn toàn. Tôi tin rằng bạn có thể thực hiện chúng một cách hời hợt mà vẫn thấy sự thay đổi đột phá, bởi vì hầu như không ai thực sự làm điều đó, đúng không?
+
+Chúng ta đều hoạt động trong cùng một thị trường và thấy những gì người khác làm.
+- Không quá khó để trở nên khác biệt.
+- Không quá khó để trở nên tốt hơn.
+
+Tôi đang mời bạn ngay bây giờ hãy vươn lên và trở nên tốt hơn.
+
+Bây giờ hãy để tôi chứng minh tất cả những điều này – tầm quan trọng của việc tạo khung sẵn (pre-framing) và định hướng tư duy (indoctrination) và cách chúng ảnh hưởng đến quá trình chuyển đổi.
+
+##### Bài Kiểm Tra Angelina Jolie
+
+Tôi cho rằng Angelina Jolie là người phụ nữ đẹp thứ hai trên thế giới, chỉ sau vợ tôi là Natalia. Điều thú vị là Natalia có nhiều nét giống với Angelina Jolie, điều này khiến tôi vô cùng hạnh phúc!
+
+Angelina là một người phụ nữ xinh đẹp, nhưng sẽ có người nói: "Ồ, đúng rồi? Nhưng có rất nhiều phụ nữ xinh đẹp. Bạn đã từng đến Ukraine hay Nga chưa? Ở đó phụ nữ đẹp khắp mọi nơi. Thật là điên rồ, đúng không?"
+
+Vậy điều gì khiến Angelina đặc biệt đến vậy? Trước tiên, tất nhiên là cô ấy có vẻ đẹp tự nhiên, giống như bạn và tôi có khả năng thực hiện những lời hứa của mình.
+> Ảnh tạp chí có hình Angelina Jolie
+
+Vậy nếu lời hứa của cô ấy là "Tôi muốn mang đến cho bạn trải nghiệm bên cạnh một người phụ nữ đẹp," cô ấy có thể thực hiện điều đó một cách dễ dàng. Cũng như khi tôi hứa sẽ mang đến cho bạn những lời khuyên tốt về việc thu hút khách hàng, tôi có thể làm được ngay.
+
+Nếu bạn hứa với thị trường của mình rằng bạn có thể cung cấp cho họ một trải nghiệm nhất định và một dịch vụ cụ thể, bạn có thể thực hiện được điều đó, đúng không?
+
+Vậy, chúng ta đều có khả năng này, nhưng điều gì khiến cô ấy trở nên được săn đón đến vậy? Chính là nhờ vào việc Định Vị (positioning) và thiết lập khung nhận thức (pre-framing).
+
+Giờ hãy nhìn vào điều này. Chắc chắn bạn đã thấy rồi. Cô ấy đã xuất hiện trên vô số trang bìa tạp chí, đúng không? Ở đây, cô ấy được Esquire Magazine thiết lập khung nhận thức là "Người Phụ Nữ Gợi Cảm Nhất Hành Tinh." Đó là một tuyên bố rất mạnh mẽ, "Người Phụ Nữ Gợi Cảm Nhất Hành Tinh"!
+
+Và bây giờ, trên tạp chí People, cô ấy được liệt kê là một trong "100 Người Đẹp Nhất Thế Giới." 
+
+Đây là một ví dụ điển hình về việc thiết lập khung nhận thức (pre-framing) và Định Vị (positioning) cổ điển.
+
+Giờ thì, hãy tưởng tượng Angelina Jolie cố gắng tìm một buổi hẹn hò. Bạn nghĩ việc này sẽ khó khăn đến mức nào nếu đây là lá thư bán hàng cô ấy gửi đến danh sách 500 tỷ phú?
+
+Giả sử chúng ta có 500 tỷ phú độc thân, rất quyền lực và có con mắt tinh tường.
+> Ảnh tạp chí có hình Angelina Jolie
+
+Bạn nghĩ rằng việc cô ấy có được một buổi hẹn hò sẽ khó khăn đến mức nào nếu cô ấy gửi lá thư này đến họ?
+```text
+"Các anh chàng thân mến,
+
+Ai trong số các anh muốn mua quà cho tôi, đưa tôi đi du lịch vòng quanh thế giới trên những cuộc phiêu lưu xa hoa và đáp ứng mọi yêu cầu của tôi?
+
+Anh cần phải cho tôi biết trong 12 giây tới hoặc quên điều đó đi.
+
+Mau lên, trời ạ!
+
+Angelina"
+```
+
+Tôi đảm bảo với bạn, chắc chắn như mặt trời sẽ mọc vào ngày mai, rằng tỷ lệ phản hồi từ lá thư đó sẽ tốt hơn hầu hết bất cứ thứ gì bạn hoặc tôi có thể tạo ra cho quảng cáo của chính mình.
+
+Điều này cho thấy sức mạnh của việc xây dựng thương hiệu, Định Vị (positioning), và thiết lập khung nhận thức (pre-framing). Khi bạn đã tạo dựng được vị thế mạnh mẽ và có sự ảnh hưởng lớn như Angelina Jolie, việc thu hút sự quan tâm và phản hồi từ người khác trở nên dễ dàng hơn rất nhiều.
+
+Tại sao lại như vậy? 
+- Bởi vì **Thiết Lập Khung Nhận Thức (Pre-Framing)**
+- Bởi vì **Định Vị (Positioning)**
+- Bởi vì sự **Dẫn Dắt (Indoctrination)**
+
+Những anh chàng tỷ phú này có thể có bất kỳ người phụ nữ đẹp nào trên thế giới mà họ muốn làm bạn hẹn hò, nhưng Angelina đặc biệt. Cô ấy xuất hiện trên các bìa tạp chí; ngay ở đây trong tạp chí nói rằng cô ấy là "Người Phụ Nữ Quyến Rũ Nhất Thế Giới". Điều đó tạo nên **Giá Trị Nội Tại** (Intrinsic Value) vô cùng lớn.
+
+Tôi nghĩ rằng Angelina là một người phụ nữ rất xinh đẹp và cô ấy đã làm nhiều việc tốt trên thế giới; vì vậy, tôi thích cô ấy và rất vui khi thấy cô ấy được nhiều người yêu mến.
+
+Nhưng đó là một ví dụ điển hình về cách thức này hoạt động.
+Chúng ta có thể tạo ra điều này. Đôi khi tôi cố gắng ăn mặc giống như Angelina Jolie, nhưng không thành công như tôi mong đợi!
+
+Tuy nhiên, trong các lĩnh vực tiếp thị và bán hàng khác, chúng ta có thể tạo ra sự tuân thủ tương tự với các khách hàng tiềm năng của mình.
+
+> **Trong Tiếp Thị, Chúng Ta Có Thể Tạo Ra Sự Tuân Thủ Tương Tự Từ Khách Hàng Tiềm Năng Của Mình.**
+
+Tất nhiên, chúng ta sẽ không bao giờ muốn đối xử tệ với ai đó như lá thư này gợi ý, nhưng chúng ta có thể xây dựng sự mong muốn lớn và giá trị nội tại. Chúng ta thậm chí không cần phải là những nhà quảng cáo và viết bài chuyên nghiệp để có thể bán hàng nếu chúng ta thực hiện các bước khác đúng cách.
+
+---
+### Quy trình (Process)
+
+Chuyển Đổi Cũng Được Tối Ưu Thông Qua Quy Trình
+
+Chúng ta đã biết rằng việc chuyển đổi trở nên dễ dàng hơn nhờ vào giá trị nội tại, được xây dựng thông qua Định Vị (Positioning) và đặc biệt là qua việc Thiết Lập Khung Nhận Thức (Pre-Framing) cùng với Định Hướng Tư Duy (Indoctrination). 
+
+Tuy nhiên, chuyển đổi cũng có thể trở nên dễ dàng hơn thông qua việc tối ưu hóa quy trình. Hãy lưu ý rằng tôi đưa ra điểm này sau cùng. Chúng ta đã thiết lập Định Vị, đã thảo luận về quảng bá, và bây giờ chúng ta sẽ tập trung vào quy trình.
+
+<img width="627" height="175" alt="image" src="https://github.com/user-attachments/assets/659bdd86-78ab-4347-9a86-e127238c110e" />
+
+Tôi đã để phần này cuối cùng vì theo quan điểm của tôi, đây là phần ít quan trọng nhất.
+
+**Quy Trình (Process) Là Thứ Mà Mọi Người Đều Tập Trung Vào, Nhưng Thực Tế Thì Nó Là Phần Ít Quan Trọng Nhất.**
+
+Quy trình liên quan đến cách mà tất cả các phần trong chiến lược của bạn khớp với nhau - ví dụ như việc bạn chọn nút màu đỏ hay màu xanh, hay trang opt-in (đăng ký) của bạn được bố trí như thế nào. Tất nhiên, những điều này có vai trò nhất định, nhưng chúng không hề quan trọng như những yếu tố khác mà chúng ta đã thảo luận.
+
+Để minh họa điều này, tôi sẽ đưa ra một ví dụ về một chiến dịch rất hiệu quả mà tôi đã thực hiện gần đây. Tôi đã hứa sẽ đưa bạn đến "hậu trường" để thấy cách tất cả những điều này được triển khai trong thời gian thực. Vậy nên, bây giờ tôi sẽ thực hiện lời hứa đó. Tôi sẽ dẫn bạn qua từng bước để chỉ cho bạn cách mọi thứ được triển khai một cách chi tiết.
+
+Đầu tiên, trong chiến dịch này, tôi xác định rõ ràng vị trí toàn cầu mà tôi muốn mọi người chấp nhận. 
+
+**Điều Đầu Tiên, Tôi Muốn Được Nhìn Nhận Là Khác Biệt So Với "Họ".**
+
+Trong trường hợp này, "họ" là tất cả những người làm tiếp thị internet khác. Hiện tại, có rất nhiều người như vậy.
+
+Bạn bè của tôi là những người rất thú vị, nhưng điều tồi tệ nhất mà bạn có thể bị nhận thức trong thị trường của mình – ngoài việc trở thành một người tồi tệ – là chỉ là một "dấu trống" nữa. Điều tồi tệ nhất mà tôi có thể bị coi là, chính là chỉ là một nhà tiếp thị khác, đúng không? Chỉ là một người làm tiếp thị internet bình thường như bao người khác.
+
+Bạn không muốn điều đó xảy ra. Vì vậy, tôi ngay lập tức phải tạo ra sự khác biệt. Điều này rất quan trọng đối với tôi, đúng không? 
+
+Và dù điều gì quan trọng đối với bạn cũng được, tôi chỉ đang chia sẻ góc nhìn của tôi về chiến dịch cụ thể này. Tôi không bảo bạn phải áp dụng nó. Tuy nhiên, việc tạo sự khác biệt là vô cùng quan trọng.
+>- **Frank Kern Khác Biệt So Với "Họ"**
+>- **Frank Kern Thực Sự Quan Tâm**
+>- **Frank Kern Sẽ Giúp Tôi Đạt Được Điều Tôi Muốn**
+
+**Điều Thứ Hai, Tôi Muốn Được Chấp Nhận Rộng Rãi Rằng "Frank Kern Thực Sự Quan Tâm."**
+
+Không giống như những người khác gửi 900 triệu email trong suốt quá trình ra mắt gần đây, Kern không làm vậy. Anh ấy thực sự quan tâm, anh ấy đã dành thời gian để tìm hiểu chính xác cách anh ấy có thể phục vụ tôi tốt nhất. Đó là điều mà tôi muốn truyền tải thông qua chiến dịch này.
+
+**Điều Thứ Ba Là "Frank Kern Sẽ Thực Sự Giúp Tôi Đạt Được Điều Tôi Mong Muốn."**
+
+Vậy nên, đây là ba điều mà tôi muốn mọi người cảm nhận về tôi trước khi họ có thể đưa tiền cho tôi. Làm sao tôi có thể thực hiện điều đó?
+
+#### Case Study
+
+Tôi bắt đầu với quảng cáo PPC (pay-per-click) – và trong quảng cáo này, tôi đã sử dụng Thiết Lập Nhận Thức Ban Đầu (Pre-Indoctrination).
+
+Trong trường hợp này, tôi đã sử dụng quảng cáo PPC trên Facebook để hỏi ý kiến của họ và thể hiện sự khác biệt. Tôi tạo ra sự khác biệt bằng cách yêu cầu ý kiến từ mọi người, điều mà hiếm khi thấy trong một quảng cáo. 
+
+Thay vì nói những câu như, “Này, đến đây và mua sản phẩm của tôi vì tôi rất tuyệt,” quảng cáo của tôi hoàn toàn ngược lại với cách tiếp cận đó.
+
+**Ngay Lập Tức, Điều Này Truyền Tải Và Thiết Lập Khung Nhận Thức Rằng Frank Kern Không Chỉ Là Một Người Làm Marketing Bình Thường.**
+
+Việc tôi thực sự hỏi họ một câu hỏi và yêu cầu họ tư vấn về một điều gì đó cho thấy rằng tôi thực sự quan tâm. Như vậy, chỉ trong một quảng cáo, chúng tôi đã truyền tải được rất nhiều thông điệp. Chỉ cần một câu ngắn gọn thôi cũng có thể tạo ra sự khác biệt, đúng không?
+
+Trong trường hợp này, tôi có thể nói "Báo cáo miễn phí tiết lộ cách làm mọi thứ," nhưng thay vào đó, chúng tôi chọn cách dẫn dắt như thế này vì nó dựa trên công thức mà tôi đang chia sẻ với bạn.
+
+Bước tiếp theo là họ nhấp vào quảng cáo và đi đến trang đăng ký.
+
+Nhớ lại rằng, một trong những yếu tố quan trọng trong cách định vị mà tôi muốn truyền tải là "Frank Kern thực sự quan tâm." Vì vậy, trên trang đăng ký, tôi đã đặt câu hỏi: "Bạn có thể trả lời bốn câu hỏi trắc nghiệm và cho tôi biết bạn muốn loại webinar nào tiếp theo không?"
+
+Câu hỏi này ngụ ý rằng tôi thực sự quan tâm đến ý kiến của họ - bởi vì nếu không thì tôi đã không hỏi. Điều này không chỉ tạo thiện cảm mà còn thể hiện rằng tôi coi trọng nhu cầu và mong muốn của khách hàng.
+
+Chúng Ta Đang Tạo Dựng Vị Trí Và Thiết Lập Khung Nhận Thức Cho Vị Trí Đó Ngay Từ Trang Đăng Ký.
+
+Nhân tiện, hãy chú ý xem trang đăng ký này khác biệt thế nào so với tất cả các trang đăng ký khác mà bạn từng thấy.
+
+Những câu hỏi trong cuộc khảo sát thực sự phản ánh mong muốn của tôi là lắng nghe họ và cung cấp giá trị thực sự, chẳng hạn như: "Bạn quan tâm đến loại webinar nào tiếp theo?" 
+
+Điều này cho thấy sự nhất quán trong thông điệp mà tôi đang truyền tải từ quảng cáo cho đến trang đăng ký và cuộc khảo sát. Đây không phải là kiểu quảng cáo phô trương, mà là một nỗ lực chân thành để tìm hiểu cách tôi có thể phục vụ họ tốt hơn.
+
+Đây là những câu hỏi cụ thể trong cuộc khảo sát mà tôi đã đề cập:
+- Bạn muốn tôi thực hiện vào thời gian nào trong ngày?
+- Bạn muốn chúng được thực hiện như thế nào?
+- Bạn muốn học hỏi về điều gì?
+- Bạn đang hoạt động trong loại hình kinh doanh nào?
+
+Những câu hỏi này không chỉ giúp tôi hiểu rõ hơn về nhu cầu của họ mà còn khẳng định rằng tôi thực sự quan tâm và muốn đáp ứng tốt nhất những mong đợi của họ. Điều này góp phần quan trọng trong việc tạo dựng thiện cảm và tăng cường giá trị nội tại.
+
+Vậy tất cả những điều này mang lại lợi ích gì? Chúng củng cố thêm vị thế rằng Frank Kern thực sự quan tâm và Frank Kern có khả năng giúp tôi đạt được điều mình muốn. Sau khi họ nhấp vào nút "Hoàn Thành" trên khảo sát, họ sẽ được chuyển hướng đến trang tiếp theo, nơi họ sẽ nhận được một món quà hoặc tài liệu giá trị mà tôi đã chuẩn bị sẵn.
+
+Trong trường hợp này, trang sẽ hiển thị cho họ một số kết quả sơ bộ dựa trên khảo sát. Sau đó, có một video hướng dẫn họ một trong những phương pháp tốt nhất mà tôi biết để đạt được một số mục tiêu mà họ đã bày tỏ mong muốn học hỏi trong khảo sát. 
+
+Bằng cách thực hiện tất cả những điều này, thông điệp mà tôi muốn truyền tải là Frank Kern thực sự có thể giúp tôi đạt được điều mình muốn.
+
+**Trước Khi Họ Có Thể Cân Nhắc Việc Mua Bất Cứ Thứ Gì Từ Tôi, Tất Cả Những Yếu Tố Này Đã Được Chuẩn Bị Sẵn Sàng.**
+
+
+Và tôi không chỉ nói ra điều đó; tôi đã thực sự chứng minh điều đó qua hành động. Đây là một trong những điểm rút ra cực kỳ quan trọng ở đây.
+
+Cuối video đó, họ có cơ hội mua một sản phẩm từ tôi. Giá khá phải chăng – chỉ hai lần thanh toán, mỗi lần 97 đô la.
+Vậy kết quả ra sao? Vâng, nó đã hiệu quả. Hãy cùng bàn về điều đó.
+
+#### Quá Trình Và Kết Quả
+
+Có rất nhiều yếu tố để tạo nên một cơ chế chuyển đổi hoàn chỉnh. Mọi người thường nghĩ về từng yếu tố riêng lẻ; tôi muốn bạn nhìn nhận nó như một tổng thể.
+- Tôi đã mua lưu lượng truy cập trên Facebook.
+- Họ nhấp vào quảng cáo.
+- Họ đến trang đăng ký.
+- Họ hoàn thành bản khảo sát. Chi phí cho tôi là 0,79 đô la cho mỗi khảo sát hoàn thành (không chỉ đơn giản là đăng ký, mà là người thực sự hoàn thành khảo sát).
+- Video cung cấp giá trị, xây dựng thiện chí, giáo dục, và truyền cảm hứng cho khách hàng tiềm năng, từ đó tạo ra doanh số với tỷ lệ 2,1%.
+
+Vậy tất cả những điều này có nghĩa là gì?
+
+Tôi đã chi 0,79 đô la cho mỗi khảo sát hoàn thành - và tất nhiên, bạn phải đăng ký để tham gia khảo sát. Vì vậy, với mỗi 100 email và tất cả dữ liệu thu thập được, tôi chỉ mất 79 đô la thông qua quảng cáo.
+
+Tôi có tỷ lệ chuyển đổi 2,1% từ video sang doanh số, vì vậy mỗi 100 người với tỷ lệ chuyển đổi 2,1% đã mang lại 407,40 đô la - khá tốt, đúng không? Xét rằng nó chỉ tốn 79 đô la để có được họ.
+
+Vì vậy, nếu tôi trừ đi chi phí cố định 79 đô la từ doanh số mang lại, thì "kablaaam!" Tôi đã kiếm được 328,40 đô la lợi nhuận ròng cho mỗi 100 người đăng ký đã tham gia qua cơ chế chuyển đổi này.
+
+Tôi đang chỉ cho bạn điều này để chứng minh, không chỉ nói mà thực sự chứng minh tầm quan trọng và sự dễ dàng tương đối trong việc thực hiện điều này nếu bạn dành thời gian suy nghĩ kỹ lưỡng.
+
+Tất cả những điều này không hề phức tạp, đúng chứ?
+
+Ý tôi là nghiêm túc đấy. Hãy nhìn vào trang đăng ký (opt-in) đơn giản như thế nào; không có hình ảnh, không có gì cả. Bảng khảo sát cũng không có gì phức tạp. Video chỉ là tôi đang nói vào micro máy tính trong khi bấm phím cách trên bài thuyết trình Keynote. Tôi đã lưu trữ các trang trên leadpages.net – một nền tảng tuyệt vời để tạo các trang đăng ký và những thứ tương tự.
+
+Tôi đã kiếm được $328,40 lợi nhuận ròng cho mỗi 100 người đăng ký qua kênh này. Khá ổn đúng không?
+
+Tôi cũng đã gửi cái này đến danh sách email của mình, vì vậy những gì tôi đang chỉ cho bạn chỉ là kết quả từ quảng cáo trên Facebook. Tôi cũng đã gửi danh sách của mình qua cùng một quy trình, điểm khác biệt duy nhất là nếu họ đã có trong danh sách của tôi, tôi sẽ gửi thẳng họ đến bảng khảo sát.
+
+Vì vậy, tổng doanh thu chỉ từ giai đoạn này của quy trình mà tôi đang chỉ cho bạn – bao gồm cả việc gửi email và lưu lượng từ danh sách hiện có của tôi – đạt được $25,220.00 cho đến nay.
+
+Có điều nào trong số đó giống như một lời chào hàng không? Không. Nó đã mang lại thiện chí và củng cố vị thế.
+
+Tuy nhiên, chúng ta chưa xong đâu.
+
+Như người ta thường nói trong các quảng cáo trên truyền hình; “Nhưng đó chưa phải là tất cả, còn gì nữa không Bob?”
+
+Vâng, chúng ta còn có giai đoạn 2 của quá trình này.
+
+**Giai Đoạn 2: Chuyện Gì Xảy Ra Tiếp Theo**
+
+Sau khi mọi người hoàn thành việc điền khảo sát và tôi đã thu thập được tất cả dữ liệu đó, tôi tiến hành bước tiếp theo trong phương trình. Tôi gửi email này đến tất cả những ai đã tham gia khảo sát. Nội dung email như sau:
+
+_"Chào bạn, tôi đã thực hiện video này để gửi lời cảm ơn bạn vì đã tham gia khảo sát. Trong video, tôi sẽ cho bạn thấy những điều mà mọi người đã bày tỏ mong muốn được học hỏi. Ngoài ra, tôi cũng sẽ chia sẻ thêm một số kiến thức hữu ích khác."_
+
+Vì vậy, mọi người đã mở email này, nhận thấy rằng nó không hề mang tính thúc ép, cũng không phải là một email thiếu thân thiện. Thay vào đó, nó chỉ đơn giản là: 'Tôi đã làm một video dành riêng cho bạn, hy vọng bạn sẽ thích nó. Đây là món quà nhỏ dành cho bạn.'
+
+Khi họ click vào liên kết trong video, họ sẽ được chuyển đến một trang giống như thế này:
+
+> Chuyển họ tới trang "Pre-Training"
+
+Trang này chứa video như đã hứa và cũng cho phép họ đăng ký để nhận thêm khóa đào tạo miễn phí. Một lần nữa, chúng tôi tiếp tục cho đi, cho đi, và cho đi; giáo dục, giáo dục, và giáo dục.
+
+Trong video, tôi đang cung cấp kiến thức và giảng dạy, liên tục mang lại giá trị cho họ. Tôi đưa ra đúng những gì mà họ đã yêu cầu trong khảo sát. Điều này hoàn toàn phù hợp với vị trí mong muốn toàn cầu mà tôi đang hướng tới: "Frank Kern thực sự quan tâm," "Frank Kern khác biệt," và "Frank Kern sẽ thực sự giúp tôi."
+
+Sau khi họ đăng ký để nhận thêm khóa đào tạo miễn phí bằng cách nhập tên và địa chỉ email, tôi đã cung cấp cho họ thêm nhiều nội dung hơn nữa. Tôi đã dẫn họ qua một nghiên cứu điển hình trị giá 100.000 đô la và cuối cùng, tôi đã đưa ra một lời đề nghị.
+
+Kết quả ra sao? Mục đích của tất cả những điều này là để minh chứng cho một chiến dịch gần đây và để bạn thấy được tầm quan trọng của quy trình - cách mọi thứ kết hợp với nhau và được suy nghĩ thấu đáo.
+
+Hãy cùng xem qua. Bắt đầu với trang cung cấp khóa đào tạo miễn phí, tỷ lệ chuyển đổi rất ấn tượng, đạt 50%. Tôi muốn nó là 50,07% vì nghe có vẻ tốt hơn, nhưng thực tế là 50%. Tỷ lệ đăng ký hoàn toàn đều. Điều đó thật bất ngờ.
+
+Sau khi họ đăng ký, tôi đã cho họ nghiên cứu điển hình trị giá 100.000 đô la ngay trong video, kéo dài khoảng 20 phút, và sau đó tôi đưa ra một lời đề nghị. Lời đề nghị ở cuối video đó đã chuyển đổi ở mức 3,2%, tức là 3,2% số người xem video đã mua sản phẩm.
+
+Vậy điều đó có ý nghĩa gì? Điều đó có nghĩa là chỉ từ trang đăng ký, tôi đã có 3.122 người đăng ký tham gia hội thảo - con số này vẫn tiếp tục tăng. Điều này thật sự rất tốt, bởi vì bạn muốn có người tham gia hội thảo của mình để nếu bạn chọn bán thứ gì đó, bạn có thể bán cho họ, đúng không?
+
+Kết quả là, video nhỏ đó đã mang về 19.400 đô la doanh thu cho đến nay. Và doanh thu vẫn đang tiếp tục tăng. Tôi hoàn toàn hài lòng với kết quả này.
+
+### Tổng Quan Về Quy Trình
+
+Những gì tôi vừa hướng dẫn bạn là một ví dụ điển hình về một quy trình hiệu quả. Phần lớn mọi người thường nghĩ rằng quy trình chỉ đơn giản là việc gửi lưu lượng truy cập đến trang bán hàng.
+
+Nếu bạn muốn tiếp tục giữ nguyên mức thu nhập như hiện tại, thì cứ tiếp tục làm như vậy.
+
+**Nhưng Nếu Bạn Muốn Tăng Đáng Kể Doanh Thu Và Gia Nhập Nhóm 1% Những Người Dẫn Đầu, Bạn Cần Phải Suy Nghĩ Lại Về Quy Trình Thực Sự Là Gì.**
+
+Hãy nhớ rằng không có gì trong số này là khó cả. Tôi chỉ mất một ngày để thực hiện tất cả. Cuối cùng, tôi đã tạo ra hai trang đích, một khảo sát và một trang video. Không quá phức tạp.
+
+Vậy tổng doanh thu từ cả hai giai đoạn này là bao nhiêu? Thực ra, tất cả những gì tôi vừa hướng dẫn bạn đều là một phần của quy trình lớn, gồm giai đoạn một và giai đoạn hai.
+
+Tổng doanh thu đạt được là 44.620 đô la. Hiểu chứ?
+
+Đó là lý do tại sao bạn thực sự cần nhận thức rằng quy trình là quan trọng.
+
+Và điều làm cho quy trình hoạt động tốt nhất là khi nó phù hợp với việc duy trì nhận thức hoặc vị trí mong muốn toàn cầu của bạn.
+
+Hãy cùng nhanh chóng xem lại toàn bộ quy trình từ đầu đến cuối, vì có nhiều điều hơn bạn tưởng.
+
+> Hình ảnh
+>> Bắt đầu -> Facebook và Email _(khác biệt và sự quan tâm thực sự)_ -> Big Ass Webinar Vid _(chuyển đổi 50%)_ -> Survey Lesson _(chuyển đổi 3,2%)_ -> Webinar -> Thuyết trình -> Kết quả mong muốn.
+
+Khi bắt đầu, tôi đã xác định vị trí mong muốn tổng thể của mình. Sau đó, tôi bắt đầu quảng bá vị trí đó thông qua việc Thiết Lập Khung Nhận Thức (Pre-Framing) và Định Hướng Tư Duy (Indoctrination) trên cả email và Facebook. Bạn còn nhớ vị trí mong muốn tổng thể đó là gì không? Nó chỉ bao gồm ba phần nhỏ: "Frank Kern khác biệt. Anh ấy không giống như những người khác. Anh ấy không chỉ là một anh chàng marketing trên internet bình thường. Anh ấy thực sự quan tâm. Những gì anh ấy cung cấp đều hoạt động hiệu quả. Anh ấy có thể giúp tôi."
+
+Sau đó, họ đã truy cập vào trang web và thực hiện mọi bước. Họ đã đăng ký, hoàn thành khảo sát, và xem video trên bảng trắng lớn – video này cung cấp kết quả khảo sát và mời họ tham gia đào tạo thêm; điều đó đã chuyển đổi với tỷ lệ 50%. Thật tuyệt vời.
+
+Sau đó, họ đã thấy nhiều lời chào hàng, cụ thể là hai cái. Nhưng dù chỉ là hai lời chào hàng, chúng đã chuyển đổi rất tốt.
+
+VSL (Video Sales Letter) dành cho phần Bài học Khảo sát đã chuyển đổi với tỷ lệ 3,2%. Thật ấn tượng, đặc biệt khi đó không phải là một lời chào hàng mạnh mẽ.
+
+Và còn có nhiều phần khác trong kế hoạch. Những người đó đã được mời tham gia một webinar, và cuối buổi webinar, có thể sẽ có một lời chào hàng hoàn toàn không liên quan đến một chương trình tư vấn nhóm nhỏ.
+
+Chúng ta vẫn chưa thấy kết quả cuối cùng, nhưng hãy suy nghĩ về điều này: Nếu không ai mua thêm bất kỳ thứ gì từ thời điểm đó trở đi thì sao?
+Chà, tôi đã có 3.122 người – và con số này vẫn đang tăng – đăng ký vào khóa đào tạo miễn phí. Khóa học này sẽ giáo dục, truyền cảm hứng và củng cố vị trí của tôi, đồng thời cũng đưa ra một lời chào hàng.
+
+Vậy nên, ngay cả khi không ai làm thêm bất kỳ điều gì, thì chiến dịch này đã mang lại 44.620 đô la doanh thu – và vẫn đang tăng. Điều đó không tệ chút nào, đúng không?
+
+Tại sao tôi lại chia sẻ điều này với bạn?
+
+Một lần nữa, để minh họa cho bạn thấy những gì có thể đạt được với sự dễ dàng và đơn giản tương đối – trong khi tạo ra thiện chí lớn và cung cấp giá trị cho thị trường của bạn – nếu bạn chỉ cần chú ý đến những điều dễ dàng mà mọi người khác đang bỏ qua.
+
+Ngay cả khi tôi không bao gồm buổi đào tạo tuyệt vời đó ở cuối, tôi vẫn đã kiếm được 44.620 đô la chỉ để duy trì vị trí tốt và tiếp tục Định Hướng Tư Duy (Indoctrination) cho khách hàng tiềm năng. Vì vậy, bạn thực sự không thể sai lầm với điều đó.
+
+---
+### Bí Mật Lớn
+
+Nhưng đây là bí mật lớn về những điều này.
+
+Điều mà tôi thực sự đã làm với toàn bộ chiến dịch mà tôi vừa hướng dẫn bạn là:
+
+**Đó Không Chỉ Là Một Chiến Dịch Quảng Cáo; Tôi Đã Tạo Ra Một Tài Sản Cho Doanh Nghiệp Và Thương Hiệu Của Mình.**
+
+Đây là một tài sản sẽ tiếp tục lan truyền thông điệp mãi mãi. Nếu một chiến dịch hoạt động hiệu quả một lần, thì rất có khả năng nó sẽ tiếp tục hoạt động hiệu quả trong thời gian dài.
+
+Ví dụ, nếu tôi nói với bạn rằng tôi đã sử dụng chính cấu trúc này trong quá khứ, và nếu tôi nói với bạn rằng kết quả của nó gần như giống hệt nhau trong ba năm liên tiếp thì sao?
+
+Với suy nghĩ đó, logic sẽ bảo rằng: "Này, lần tới nếu tôi cần 44 ngàn đô la – và vẫn tiếp tục tăng – cùng với việc gia tăng thêm chút thiện chí, tôi có thể triển khai tài sản này theo cách chính xác như vậy và kỳ vọng đạt được kết quả tương tự."
+> **Đây Là Một Tài Sản Sẽ Tiếp Tục Lan Tỏa Thông Điệp Mãi Mãi!**
+
+Phần tuyệt vời nhất của toàn bộ chiến dịch này là nó không hề giống như một lời chào hàng. Tôi đang mang lại giá trị thực sự. Ngay cả khi ai đó rời đi trước khi tôi kịp đưa ra lời chào hàng, tôi vẫn cảm thấy hài lòng vì biết rằng tôi có thể đã giúp đỡ họ rất nhiều. Và điều đó thật tuyệt vời, bởi vì tôi thực sự không cần phải bán quá nhiều.
+
+Bạn cũng không cần phải làm điều đó nếu chúng ta tập trung vào những khách hàng ở đỉnh của thị trường và thu hút những người phù hợp nhất thông qua Định Vị, quy trình giáo dục (indoctrination) và thiết lập khung nhận thức (pre-framing).
+
+Vấn đề là, những người kinh doanh online và hầu hết – nếu không muốn nói là tất cả – đối thủ cạnh tranh của bạn đều luôn tìm kiếm các chiến thuật, đúng không? 
+
+Họ hỏi: _"Hôm nay mình nên làm gì để bán được nhiều hàng hơn?"_
+
+Nhưng bạn biết không? Đó không phải là câu hỏi cần hỏi.
+
+Câu hỏi đúng là:
+
+_"Tôi Có Thể Tạo Ra Bao Nhiêu Tài Sản Triển Khai Được Trong Doanh Nghiệp Của Mình Mà Có Thể Liên Tục Mang Lại Thu Nhập Ổn Định, Duy Trì Vị Thế Của Mình, Và Đồng Thời Xây Dựng Thiện Chí?"_
+
+Một là lối suy nghĩ chỉ tập trung vào việc cải thiện từng chút một, giống như cách mà hầu hết mọi người vẫn đang làm. Hai là lối suy nghĩ tập trung vào việc tạo ra những tài sản lớn lao, có thể liên tục mang lại giá trị, giúp duy trì vị thế và xây dựng thiện chí trong dài hạn. Đây mới là nơi chúng ta nên đặt trọng tâm.
+
+Bạn thấy đó, có hai kiểu suy nghĩ.
+
+#### Suy Nghĩ Của Người Ngu Ngốc
+
+Chúng ta có kiểu suy nghĩ thiển cận, và đây là vấn đề. Phần lớn mọi người không bao giờ xem xét đến Định Vị và chiến lược dài hạn. Đó là lý do bạn nhận được hàng trăm email mỗi ngày về các sản phẩm mới ra mắt.
+
+Nghe này, tôi không có ý chỉ trích ai cả; đó là một chiến lược khả thi. Nó mang lại doanh số, nhưng hãy thành thật mà nói, bạn là khách hàng tiềm năng, bạn có thấy mệt mỏi với điều này không? Chắc chắn là có.
+
+Tất cả những điều đó được thực hiện mà không có sự suy nghĩ kỹ lưỡng về việc lập kế hoạch chiến lược dài hạn. Và đó là lý do tại sao mọi người không thể tồn tại lâu dài.
+
+**Đó Cũng Là Lý Do Tại Sao Một Người Có Danh Sách 300.000 Người Nhưng Chỉ Nhận Được Khoảng 500 Lượt Click Khi Gửi Email.**
+
+Bởi vì đó là cách suy nghĩ thiển cận. Hầu hết mọi người chỉ tập trung vào "Hôm nay mình có thể bán gì để đạt được mục tiêu thu nhập?" Và rồi họ tự làm tình hình trở nên tệ hơn. Câu hỏi tiếp theo mà họ ngay lập tức tự đặt ra là: 
+
+_"Mình có thể làm ít nhất để đạt được những mục tiêu đó? Làm thế nào để sống theo giấc mơ internet mà không làm gì cả mà tiền vẫn rơi từ trên trời xuống?"_
+
+> **Hầu Hết Mọi Người Chỉ Tập Trung Vào Câu Hỏi: "Hôm Nay Mình Có Thể Bán Gì Để Đạt Được Mục Tiêu Thu Nhập?"**
+
+Đây là cách suy nghĩ ngắn hạn, tập trung vào việc đạt được kết quả ngay lập tức mà không quan tâm đến xây dựng một nền tảng vững chắc cho sự thành công lâu dài. Thay vì đầu tư vào việc phát triển giá trị thực sự và xây dựng mối quan hệ với khách hàng, họ chỉ muốn tìm con đường ngắn nhất để đạt được mục tiêu tài chính mà không cần nỗ lực. Đó là suy nghĩ của những người thiếu tầm nhìn. 
+
+Vậy nên, chúng ta có sự lựa chọn. Hãy nhớ rằng, tôi đã nói nếu bạn tiếp tục làm những việc cũ, bạn sẽ chỉ nhận được kết quả cũ.
+Tôi không nói rằng bạn đang suy nghĩ theo lối mòn – nhưng nếu có, đã đến lúc dừng lại. Chúng ta cần phải thay đổi cách tư duy của mình để đạt được những kết quả khác biệt.
+
+#### Suy Nghĩ Của Người Giàu Có (Rich Guy Thinking)
+
+Vậy, hãy nói về tư duy của người giàu. Người giàu suy nghĩ khác biệt. Họ nghĩ:
+- Làm thế nào để mình tạo ra, nuôi dưỡng và duy trì một vị thế hấp dẫn mạnh mẽ đối với thị trường mục tiêu?
+- Làm thế nào để mình liên tục thu hút những khách hàng lý tưởng đến với mình?
+- Làm thế nào để mình tạo ra quy trình chuyển đổi bằng cách giáo dục khách hàng, tăng cường giá trị nội tại, từ đó gia tăng nhu cầu, nâng cao khả năng định giá cao hơn, đồng thời làm cho quy trình chuyển đổi hiệu quả hơn trong khi vẫn bán hàng một cách thành công?
+
+Người giàu có chủ đích thiết kế mọi thứ họ làm không chỉ như một chiến dịch quảng bá đơn lẻ, mà còn như một tài sản có khả năng mang lại lợi nhuận một cách liên tục, có hệ thống và dễ dàng dự đoán.
+> **Người giàu có chủ đích thiết kế mọi thứ họ làm để biến nó từ một chiến dịch quảng bá đơn lẻ thành một tài sản có giá trị lâu dài và có khả năng sinh lợi liên tục.**
+
+Vậy nên, những gì tôi đang nói với bạn và những gì tôi yêu cầu bạn làm là thực hiện sự chuyển đổi này và nhận thấy sự gia tăng đáng kể trong doanh nghiệp của bạn. Tôi tin chắc rằng bạn có thể tăng gấp đôi, thậm chí gấp ba hoặc bốn lần doanh thu của mình chỉ bằng cách thực hiện sự thay đổi này.
+
+Đừng bận tâm về những chương trình khuyến mãi ngắn hạn hay suy nghĩ về việc “Làm thế nào tôi có thể viết tiêu đề tốt hơn?” Những điều đó chỉ là những chi tiết nhỏ nhặt, những thứ không đáng chú ý. Ông tôi thường nói, “Con ạ, đó chỉ là những chuyện vớ vẩn không có giá trị.” Đó chính là cách ông mô tả những suy nghĩ tầm thường như vậy.
+
+Thay vào đó, tôi muốn bạn tập trung vào việc:
+
+**Hãy Tạo Ra Và Triển Khai Những Tài Sản Này Bằng Cách Áp Dụng Các Phương Trình Và Chiến Lược Mà Tôi Đã Hướng Dẫn Bạn Ở Đây.**
+
+#### Sự Khác Biệt Nó Đem Lại
+
+Tôi muốn chia sẻ với bạn cách mà sự thay đổi này đã ảnh hưởng đến cuộc sống và công việc của tôi. Trước hết, tôi không thực hiện buổi ra mắt sản phẩm hay tạo ra sản phẩm mới nào kể từ năm 2010. Thực tế, tôi gần như đã rời khỏi thị trường. Đó là lý do bạn chỉ thấy tôi xuất hiện thỉnh thoảng với các buổi webinar, video nội dung hoặc các cuộc khảo sát nhỏ. Tôi không gửi email liên tục, không xuất hiện khắp nơi – bởi vì tôi đã thực hiện sự chuyển đổi này.
+
+Năm 2011, tôi gần như không làm việc gì cả. Tôi đã quyết định nghỉ ngơi và dành thời gian để lướt sóng suốt năm đó. Năm 2012 cũng vậy, tôi nghỉ phần lớn thời gian vì tôi đã kết hôn với người vợ xinh đẹp của mình, Natalia, và chúng tôi chào đón cậu con trai Alexander. Cậu bé rất tuyệt vời, nhưng không thích ngủ chút nào!
+
+Khi cậu bé lớn lên, tôi sẽ đánh thức cậu vào lúc 5:30 sáng và chúng tôi sẽ ra ngoài làm vườn hay làm điều gì đó – đó sẽ là sự trả thù ngọt ngào của tôi!
+
+Tôi bắt đầu làm việc nghiêm túc trở lại vào tháng 7 năm 2012 và kết quả thật đáng kinh ngạc. Doanh thu của tôi trong năm đó đạt tổng cộng 2.530.000 đô la – chưa kể đến thu nhập từ các hợp tác tiếp thị liên kết và các nguồn khác. Đó chỉ là kết quả từ những nỗ lực cá nhân của tôi.
+
+Vì vậy, năm đó thực sự là một năm tuyệt vời, đặc biệt khi xét rằng tôi gần như không tham gia vào thị trường và cố tình giữ mọi thứ ở mức thấp để tập trung vào gia đình và tránh làm việc quá sức.
+
+Đến năm 2013, tôi quyết định thực hiện một sự thay đổi lớn. Tôi nhận ra rằng công việc hiệu quả nhất của mình nằm ở lĩnh vực tư vấn cao cấp và huấn luyện nhóm, đặc biệt là với những doanh nghiệp thực sự kinh doanh. Tôi tập trung vào một loại hình doanh nghiệp cụ thể – những người bán dịch vụ tư vấn, huấn luyện hoặc các dịch vụ trọn gói như quản lý quảng cáo và tiếp thị. Tôi đã làm việc với các luật sư và các chuyên gia tài chính, và điều này đã mang lại những kết quả rất tích cực.
+
+Vì vậy, vào năm 2013, tôi đã thực hiện sự chuyển đổi đó và tái cấu trúc lại doanh nghiệp của mình sao cho tôi chỉ "phải" làm việc từ 9 giờ sáng đến trưa, ba ngày mỗi tuần. Đó là lịch trình của tôi; trong khoảng thời gian đó, tôi sẽ tập trung làm việc và hoàn thành các nhiệm vụ quan trọng.
+
+> **Tôi Đã Tái Cấu Trúc Doanh Nghiệp Của Mình Sao Cho Tôi Chỉ "Phải" Làm Việc Từ 9 Giờ Sáng Đến 12 Giờ Trưa, Ba Ngày Mỗi Tuần.**
+
+Tôi đã giảm bớt công việc và thực hiện sự chuyển đổi mà tôi vừa chia sẻ với bạn, bắt đầu tạo ra những tài sản như tôi đã hướng dẫn. Kết quả là, doanh thu trung bình mỗi tháng của doanh nghiệp – không bao gồm thu nhập từ tiếp thị liên kết – đạt khoảng 200.000 đô la.
+
+Còn lợi nhuận thì sao? Tôi sẽ để bạn tự đánh giá. Tôi hầu như không quảng cáo và chỉ có một nhân viên. Tôi không gửi sản phẩm vật lý, mà cung cấp dịch vụ tư vấn qua Internet cho khách hàng. Vì vậy, có thể nói, tỷ suất lợi nhuận khá ấn tượng.
+
+Thực hiện sự chuyển đổi này thực sự mang lại hiệu quả tốt. Điều thú vị là, đây cũng là một hoạt động rất có khả năng mở rộng, nhưng tôi thực sự không cảm thấy muốn làm nhiều hơn thế. Tôi có tham vọng, nhưng chỉ đến một mức độ nhất định. Bạn hiểu ý tôi chứ? Sau đó, có những điều khác cần tôi tận hưởng, như những con sóng đang chờ tôi cưỡi.
+
+#### Cách Tôi Làm Được Điều Đó
+
+Tôi chắc rằng bạn không quá quan tâm đến doanh nghiệp của tôi mà có lẽ đang tự hỏi: "Làm thế nào để tôi có thể tiếp tục học hỏi từ bạn và thực sự áp dụng những điều này?" Vì vậy, hãy để tôi chỉ cho bạn cách tôi đã làm.
+
+Điều đầu tiên tôi làm là chuyển sự tập trung khỏi các chương trình khuyến mãi và sản phẩm. Thay vì suy nghĩ, "Chương trình khuyến mãi tiếp theo của tôi là gì? Sản phẩm tiếp theo của tôi là gì?" và tất cả những thứ tương tự, tôi bắt đầu tập trung vào câu hỏi:
+
+"Mô hình kinh doanh hoàn hảo là gì và những tài sản nào tôi có thể tạo ra để duy trì mô hình kinh doanh này, giúp tạo ra doanh thu liên tục, có hệ thống và có thể dự đoán được mà không cần phải liên tục chạy trên chiếc bánh xe không lối thoát?"
+
+Khi tôi bắt đầu tập trung vào việc sử dụng định vị thu hút và kỹ thuật bán hàng để thu hút và chuyển đổi chỉ những khách hàng trả tiền cao, tôi đã quyết định để lại những phần còn lại cho "Các Đối Thủ Cạnh Tranh" của mình. Đó là lý do bạn không thấy tôi thực hiện các chương trình tiếp thị liên kết hay bán các sản phẩm nhỏ, ngoại trừ một số sản phẩm một lần mà tôi đã chỉ cho bạn trong quy trình gần đây. Tôi không làm điều đó thường xuyên.
+
+Có lý do cho điều đó: Tôi chỉ muốn bán các sản phẩm cao cấp và làm việc với những khách hàng thực sự sẽ hợp tác với tôi và đạt được kết quả. Điều đó rất quan trọng đối với tôi, và tôi biết điều đó cũng quan trọng đối với bạn, phải không?
+
+Vì vậy, để thực hiện sự chuyển đổi từ 80% thị trường dưới cùng sang làm việc với 20% hàng đầu, điều duy nhất bạn cần làm là đưa ra quyết định có ý thức để thực hiện điều đó. Đó là công việc bổ sung duy nhất bạn cần thực hiện. Điều này đã giúp tôi làm việc ít hơn đáng kể và vẫn duy trì được doanh thu hàng tháng ở mức sáu con số, có thể mở rộng bất cứ khi nào tôi muốn.
+
+Bây giờ, tôi muốn bạn suy nghĩ thật nghiêm túc về điều này: Điều gì sẽ xảy ra nếu bạn thực hiện những thay đổi chiến lược và chiến thuật tương tự trong doanh nghiệp và cuộc sống của mình? Điều đó sẽ như thế nào? Hãy dừng lại và nghĩ về điều đó.
+
+Nếu bạn không còn phải nghĩ đến việc tạo ra cái mới liên tục, không còn phải chạy đua trên chiếc bánh xe chuột và lo lắng, "Tôi phải thực hiện một chương trình khuyến mãi mới" hay "Tôi phải liên tục điều chỉnh mọi thứ," thì cuộc sống sẽ như thế nào? Thay vào đó, nếu bạn thiết kế doanh nghiệp của mình sao cho bạn được nhận diện đúng như cách bạn mong muốn?
+Tôi đã cung cấp cho bạn bản đồ và kế hoạch để thực hiện điều này. Bây giờ, quả bóng đã ở phía bạn. Hãy bắt tay vào hành động. Làm những điều tốt. Giúp đỡ mọi người. Thực hiện những bước đó và bạn sẽ không thất bại.
