@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24 02:37:07",
+  "last_updated": "2025-11-24 04:43:51",
   "total_books": 7,
   "books": [
     {
@@ -96,6 +96,10 @@
         "description": "Cẩm nang chiến lược về việc sử dụng 'Xây dựng thương hiệu dựa trên ý định' để tạo thiện cảm, xây dựng mối quan hệ và bán hàng giá cao bằng cách kiểm soát nhận thức (Pre-framing) và định hướng tư duy (Indoctrination) trước khi đưa ra lời chào hàng."
       },
       "chapters": [
+        {
+          "filename": "Convert_2.0_full.md",
+          "path": "books/chuyen_doi_2_0_frank_kern/Convert_2.0_full.md"
+        },
         {
           "filename": "chapter_00_loi_mo_dau.md",
           "path": "books/chuyen_doi_2_0_frank_kern/chapter_00_loi_mo_dau.md"
