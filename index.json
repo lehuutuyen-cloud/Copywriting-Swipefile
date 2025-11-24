@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-23 10:27:50",
-  "total_books": 6,
+  "last_updated": "2025-11-24 02:26:15",
+  "total_books": 7,
   "books": [
     {
       "id": "breakthrough_advertising",
@@ -78,6 +78,24 @@
           "path": "books/breakthrough_advertising/chapter_14_final_touches.txt"
         }
       ]
+    },
+    {
+      "id": "chuyen_doi_2_0_frank_kern",
+      "info": {
+        "id": "chuyen_doi_2_0_frank_kern",
+        "title": "Chuyển Đổi 2.0 (Convert 2.0)",
+        "author": "Frank Kern",
+        "year": 2018,
+        "tags": [
+          "copywriting",
+          "intent_based_branding",
+          "high_ticket_sales",
+          "psychology",
+          "internet_marketing"
+        ],
+        "description": "Cẩm nang chiến lược về việc sử dụng 'Xây dựng thương hiệu dựa trên ý định' để tạo thiện cảm, xây dựng mối quan hệ và bán hàng giá cao bằng cách kiểm soát nhận thức (Pre-framing) và định hướng tư duy (Indoctrination) trước khi đưa ra lời chào hàng."
+      },
+      "chapters": []
     },
     {
       "id": "great_lead",
