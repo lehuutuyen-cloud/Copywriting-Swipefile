@@ -1092,10 +1092,77 @@ Những gì tôi đã nỗ lực làm trong bản tuyên ngôn này là giúp b�
 
 Nếu bạn tuân theo những gợi ý này, bạn sẽ đi đúng hướng trên con đường gia tăng thu nhập trong khi giảm thiểu căng thẳng và giờ làm việc.
 
+## LÀM BÙNG NỔ KẾT QUẢ KINH DOANH CỦA BẠN
 
+Như tôi đã đề cập ở phần đầu của bản Tuyên ngôn này, tôi vừa bước vào một quan hệ đối tác mới, điều này buộc tôi phải điều chỉnh lại lịch trình huấn luyện của mình.
 
+Tôi sẽ hợp tác để tạo ra một mô hình kinh doanh lai giữa huấn luyện và tư vấn, hướng đến các doanh nghiệp lớn hơn và đã có chỗ đứng, với mức phí cao hơn rất nhiều.
 
+Dự báo của chúng tôi cho thấy chương trình mới này sẽ chiếm phần lớn thời gian của tôi, và do đó, các khách hàng mới tham gia chương trình huấn luyện của tôi sẽ **không còn cơ hội được làm việc trực tiếp với tôi (1-1) nữa**.
 
+Tuy nhiên, bạn vẫn có thể trò chuyện với tôi qua điện thoại **4 lần một tháng** trong các cuộc gọi huấn luyện cực kỳ giá trị, nằm trong chương trình huấn luyện **Hệ thống Tăng trưởng Doanh nghiệp** (Business Growth System) của tôi.
 
+Các cuộc gọi Hỏi & Đáp nhóm này mang đến cho khách hàng cơ hội hỏi tôi trực tiếp và tôi sẽ dành bao nhiêu thời gian cũng được để giải đáp cho họ nếu tôi thấy cần thiết. Khách hàng học được rất nhiều từ câu trả lời tôi dành cho họ, cũng như từ các chiến lược tôi đưa ra khi giải quyết vấn đề của những người khác.
 
+Chương trình huấn luyện của tôi chắc chắn **không dành cho tất cả mọi người**.
+
+Nhưng nếu bạn thực sự nghiêm túc về việc kiếm tiền lớn trên mạng, và xây dựng một doanh nghiệp thực sự sẽ phát triển và phục vụ bạn tốt trong tương lai... thì chương trình này là dành cho bạn.
+
+Vì tôi sẽ tiếp tục duy trì các cuộc gọi Hỏi & Đáp nhóm 4 lần/tháng cho tất cả khách hàng, nên sẽ có một **giới hạn rất thực tế** về số lượng người có thể tham gia chương trình tại bất kỳ thời điểm nào.
+
+## MỘT LỰA CHỌN MIỄN PHÍ ĐỂ KHÁM PHÁ CÁC CHIẾN LƯỢC XÂY DỰNG DOANH NGHIỆP ĐÃ ĐƯỢC KIỂM CHỨNG CỦA TÔI... NGAY TRONG TUẦN NÀY
+
+Vẫn còn một lựa chọn nữa để bạn có thể nhìn trộm vào những chiến lược xây dựng doanh nghiệp giống hệt như những gì đã giúp hàng tá khách hàng của tôi trở thành Triệu phú Doanh nhân...
+
+Bạn có thể áp dụng ngay vào tình hình hiện tại của mình... và sẽ thấy sự cải thiện chỉ trong vòng **một tuần**...
+
+Đó là **Khóa học Tăng tốc Kinh doanh Miễn phí** của tôi...
+
+**"TỪ BẾ TẮC ĐẾN TỰ DO: BA TRỤ CỘT CHIẾN LƯỢC GIẢI MÃ BÍ ẨN CỦA THÀNH CÔNG TRỰC TUYẾN"**
+
+Trong Khóa học Tăng tốc Kinh doanh Miễn phí này, tôi sẽ chia sẻ một số chiến lược tương tự đang được sử dụng bởi những chủ doanh nghiệp đứng đầu thế giới Internet Marketing. Rất nhiều trong số họ là khách hàng hiện tại và quá khứ của tôi.
+
+Tôi có thể hứa với bạn rằng đây **không phải** là những khái niệm bạn từng nghe trước đây. Nhưng chúng có một điểm chung: **chúng mạnh mẽ đến mức sẽ giúp doanh nghiệp của bạn tăng trưởng ngay cả khi bạn làm sai!**
+
+Và khi bạn truy cập trang web này, bạn sẽ thấy tôi đã làm cho việc khám phá những bí mật thành công đã được kiểm chứng này trở nên dễ dàng như thế nào. Bạn có thể sử dụng chúng cho doanh nghiệp của mình NGAY TUẦN NÀY... để tăng doanh số, thúc đẩy lợi nhuận, và giúp bạn chiến đấu với cuộc suy thoái này, hay bất kỳ cuộc suy thoái nào khác.
+
+[NHẬN VÉ MIỄN PHÍ CỦA BẠN TẠI ĐÂY](lehuutuyen.com)
+
+Sau khi bạn tham dự Khóa học Tăng tốc Kinh doanh Miễn phí của tôi... và áp dụng "Ba Trụ Cột Chiến Lược", bạn sẽ nhìn lại ngày hôm nay như là ngày đã thay đổi tất cả... và bắt đầu đưa bạn vào con đường dẫn tới sự giàu có trực tuyến và tự do cá nhân.
+
+Hãy đón chờ nhé,
+
+_**Rich Schefren**_
+
+---
+
+## UPDATE: CẬP NHẬT QUAN TRỌNG
+
+**TÁI BÚT (P.S.)** – Tôi bắt đầu nhận được rất nhiều "gạch đá" và sự chống đối từ các đồng nghiệp trong giới tiếp thị, những người cảm thấy bản báo cáo này có thể gây hại cho công việc kinh doanh của họ.
+
+Thực tế là có một nhóm các nhà tiếp thị đang cố gắng **ngăn chặn tôi** gửi bản Tuyên ngôn này ra ngoài.
+
+Tôi thực sự không muốn thấy điều đó xảy ra, bởi vì nó đồng nghĩa với việc rất nhiều người kinh doanh Internet đang chật vật sẽ phải tiếp tục lối mòn "săn tìm cơ hội" thiếu chiến lược của họ, chỉ đơn giản vì họ không biết rằng có một con đường khác.
+
+Nếu bạn nhận được bất kỳ giá trị nào từ bản báo cáo này, bạn có thể giúp tôi theo hai cách:
+1. Tôi đã cài đặt chức năng "giới thiệu bạn bè" để giúp bạn dễ dàng lan tỏa thông điệp này và đồng thời giúp đỡ bạn bè của mình – hãy truy cập ngay vào [Link] và **tham gia vào cuộc chiến** để thay đổi cách mà cộng đồng Internet marketing đang vận hành.
+2. Và bằng cách truy cập vào blog của tôi và đăng bình luận, bạn có thể giúp những người khác hiểu tại sao họ cần phải sở hữu bản báo cáo này. Hãy vào bài viết trên blog và nói cho cả thế giới biết bạn nghĩ gì về _Tuyên Ngôn Kinh Doanh Internet_.
+
+<img width="364" height="270" alt="image" src="https://github.com/user-attachments/assets/b80a6afa-3caf-4941-b515-216a8f3a25d3" />
+
+> **3 CHIẾN THUẬT ĐƠN GIẢN ĐÃ KÍCH HOẠT MỘT CƠN MƯA LỢI NHUẬN NGAY LẬP TỨC...**
+>
+> _(3 Simple Tactics Started An Immediate Avalanche of Profits...)_
+>
+> TĂNG TỪ $500,000 LÊN $5,000,000 CHỈ TRONG 12 THÁNG (Going From $500,000 to $5,000,000 In Only 12 Months)
+>
+> (Hình ảnh minh họa website: Dani Johnson) Học cách một cô hầu bàn trẻ, khánh kiệt, từng phải sống trong ô tô với vỏn vẹn $2.03 trong túi đã kiếm được triệu đô la đầu tiên chỉ trong 2 năm ngắn ngủi!
+>
+> Nội dung lời chứng thực (Testimonial):
+>
+> "Bằng cách làm theo các chiến lược xây dựng thương hiệu và định vị của anh, sử dụng 3 cấp độ đo lường chỉ số, và lập sơ đồ quy trình cho việc tung sản phẩm của riêng chúng tôi (dựa trên mẫu của anh), sau đó thuê ngoài một phần công việc đó, chúng tôi đã tăng trưởng gấp 10 LẦN trong 12 tháng qua. Nếu tôi không phải là một phần của nó, tôi sẽ không tin nổi đâu.
+> 
+> Thậm chí tuyệt vời hơn thế, các kỹ thuật quản lý kinh doanh trực tuyến của anh đã đóng vai trò cực kỳ quan trọng đối với chúng tôi trong thời gian tăng trưởng nóng mà anh đã tạo ra. Anh thực sự đã trao cho chúng tôi những chiếc chìa khóa để phát triển một đế chế kinh doanh lâu dài."
+
+## 
 
