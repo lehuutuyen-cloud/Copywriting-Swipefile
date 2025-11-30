@@ -555,6 +555,117 @@ Hãy cùng xem xét từng hoạt động này bao gồm những gì...
 * Quyết định xem bạn nên tham gia chương trình liên kết nào để quảng bá sản phẩm của người khác (và xây dựng danh sách email của riêng bạn)
 * Xây dựng các trang web riêng biệt để quảng bá sản phẩm của người khác (nhằm xây dựng một danh sách email chất lượng hơn cho sản phẩm của chính bạn)
 
+## SỰ THẬT NỰC CƯỜI VỀ MÔ HÌNH KINH DOANH CỦA BẠN
+
+Sau khi đã chia nhỏ tất cả các hoạt động cần phải diễn ra trong doanh nghiệp Internet của bạn (và đây chưa phải là danh sách đầy đủ đâu nhé), bạn sẽ thấy mô hình kinh doanh của mình hiện tại KHÁ LÀ NỰC CƯỜI (quite ridiculous).
+
+Nếu bạn đã sẵn sàng để nhìn thấy mô hình kinh doanh này trông thật sự như thế nào, hãy lật trang tiếp theo... nhưng hãy chuẩn bị tinh thần!
+
+![matrix-internet-business-manifesto](https://github.com/user-attachments/assets/3da9ee8a-5491-4bda-851c-a151fbc53c2f)
+
+*(Hình ảnh minh họa: Biểu đồ khổng lồ, rối rắm với hàng chục ô công việc nhỏ được nối với một vòng tròn duy nhất ở giữa mang tên "YOU" (BẠN))*
+
+Bây giờ, bạn có thấy nó nực cười không?
+
+## SỰ BẾ TẮC, LÀM VIỆC CỰC NHỌC VÀ KẾT QUẢ ÈO UỘT
+
+Nếu bạn đã từng cảm thấy bế tắc, kiệt sức vì khối lượng công việc khổng lồ cần phải hoàn thành, hoặc chỉ đơn giản là mệt mỏi rã rời – thì có gì đáng ngạc nhiên đâu?
+
+Nói thật nhé, ngay cả khi bạn có thể thuê ngoài (Outsource) tất cả những đầu việc này, bạn nghĩ rằng bạn có đủ sức lực để quản lý tất cả số lượng người làm thuê (Outsourcer) đó không?
+
+Và đây mới là điều điên rồ nhất: Mặc dù đây là mô hình mà hầu hết dân kinh doanh Internet đang làm theo, nhưng bạn có biết họ dành phần lớn thời gian của mình để làm gì không?
+
+Là đi tìm kiếm thêm các hoạt động, thêm chiến thuật, và thêm các mánh khóe mới để nhét vào cái biểu đồ trên!
+
+Thật điên rồ, phải không? Tại sao bạn lại phải phí phạm thời gian để tìm kiếm thêm việc để làm?
+
+Bạn còn chưa hoàn thành được tất cả những việc đang có, nhưng hầu hết những người làm marketing Internet vẫn mải mê săn lùng cơ hội mới nhất, tuyệt vời nhất để thêm vào danh sách những việc không bao giờ làm xong của mình.
+
+Xin đừng nhầm lẫn: Biểu đồ trên chính là biểu đồ của một người thiếu hoàn toàn chiến lược.
+
+Nó hét lên: **THỢ SĂN! (OPPORTUNIST!).**
+
+## KỂ TỪ KHI NÀO "THÊM VIỆC" LẠI LÀ GIẢI PHÁP CHO VẤN ĐỀ "QUÁ TẢI"?
+
+Đó là câu hỏi tôi muốn hỏi bạn.
+
+<img width="414" height="253" alt="image" src="https://github.com/user-attachments/assets/93561bbd-c3fe-4400-87aa-e469dfea275a" />
+
+Kể từ khi nào **Nhiều Hơn** lại là giải pháp cho vấn đề **Quá Nhiều**?
+
+Giải pháp cho việc "quá nhiều" chắc chắn không phải là đi tìm "thêm" việc để làm. Nếu nhìn lại hành vi của mình, bạn có đồng ý rằng mình đang vô thức đi theo kế hoạch thêm ngày càng nhiều chiến thuật và hoạt động vào danh sách những việc cần làm không?
+
+Để tôi tiết lộ cho bạn một lời khuyên nhỏ.
+
+Chừng nào sơ đồ tổ chức của bạn còn trông như thế này đây... bạn sẽ luôn quay cuồng như chiếc bánh xe mà không bao giờ đạt được mức độ thành công mình mong muốn.
+
+<img width="300" height="248" alt="image" src="https://github.com/user-attachments/assets/87efd791-61ac-4ab5-bed6-971a22e945f1" />
+
+*(Hình ảnh minh họa: Biểu đồ tổ chức hình kim tự tháp, trong đó MỌI VỊ TRÍ đều ghi chữ "YOU" (BẠN))*
+
+Bây giờ, trước khi bạn vội vàng kết luận rằng tôi đang khuyên bạn đi thuê người;
+
+Hãy nhận ra rằng vấn đề với Internet Marketing sâu xa hơn thế rất nhiều.
+
+Tôi chỉ vừa bóc đi vài lớp đầu tiên của củ hành này thôi. Nếu bạn thực sự muốn tìm đến sự thật, chúng ta sẽ phải đào sâu hơn nữa.
+
+## CHƠI TRÒ "SIMON SAYS" KHÔNG PHẢI LÀ CHIẾN LƯỢC KINH DOANH
+
+Hãy quay lại với cuộc trò chuyện trước của chúng ta về chiến lược. Câu hỏi lớn của tôi dành cho bạn là: Bạn có một chiến lược cụ thể không?
+
+Tôi đưa ra slide dưới đây sau một cuộc trò chuyện khuya với Stephen Pierce. Chúng tôi nói về chiến lược kinh doanh và sự thiếu vắng nó trong thế giới Internet Marketing.
+
+Stephen chỉ ra rằng, chiến lược của hầu hết mọi người là: Làm y hệt như những người khác đang làm, nhưng cố gắng làm TỐT HƠN một chút.
+
+> **SỰ GIỐNG NHAU, SỰ GIỐNG NHAU, SỰ GIỐNG NHAU...**
+>
+> Chiến lược chủ đạo của kinh doanh Internet và kinh doanh nhỏ là: **Chỉ làm cùng một thứ như mọi người khác, nhưng cố gắng làm lâu hơn, nhanh hơn, và thông minh hơn một chút.**
+
+Đây là một quan sát tuyệt vời vì hai lý do quan trọng:
+
+1.  Nó là **SỰ THẬT**.
+2.  Đây hoàn toàn không phải là một chiến lược; nó chỉ là khẩu hiệu của Thợ Săn (**Opportunist motto**).
+
+Và chính kiểu tư duy này củng cố mọi vấn đề mà chúng ta đã vạch trần trước đó.
+
+Bạn tôi ơi, đây không phải là chiến lược của một Doanh nhân thực thụ, đây là con đường tự sát của loài Lemmings (loài chuột tự lao đầu xuống biển).
+
+Nhưng đừng lo lắng. Vấn đề không phải là vô vọng. Thực tế, nếu bạn nhận thấy mình giống những gì đã đọc nãy giờ, bạn nên cảm thấy nhẹ nhõm. Bởi vì sự thật là: Bạn đã làm việc chăm chỉ hơn mức cần thiết, chỉ để nhận lại một phần nhỏ kết quả xứng đáng.
+
+Và đây không phải là lỗi của bạn, bởi vì không ai thực sự nói về điều này.
+
+Chính tôi cũng từng là nạn nhân của lối tư duy ngược đời này, dù lẽ ra tôi phải biết rõ hơn.
+
+Trước khi lên Internet, tôi đã xây dựng và điều hành nhiều công ty triệu đô thành công với hơn 100 nhân viên, nhưng khi lên mạng, tôi vẫn bị cuốn vào tư duy kinh doanh sai lầm này.
+
+Trong hai năm đầu tiên trên mạng, tôi đã làm theo đúng lối tư duy "Thợ săn" mà tôi vừa vạch trần cho bạn. Tôi đã làm việc với những tên tuổi lớn như Jay Abraham, John Carlton... nhưng tôi vẫn cảm thấy thất vọng, quá tải và kiệt sức.
+
+Tôi kiếm được tiền (dù ít hơn những gì tôi kiếm được ở offline) nhưng tôi làm việc vất vả hơn bao giờ hết.
+
+Khi cuối cùng tôi nhận ra sai lầm của mình, cảm giác giống như tỉnh dậy sau hai năm sống trong một màn sương mù. Ngay lập tức, doanh nghiệp và cuộc sống của tôi bắt đầu thay đổi.
+
+Nó tạo ra một sự khác biệt sâu sắc đến mức tôi biết mình phải chia sẻ điều này với người khác.
+
+## TẠI SAO NGAY CẢ CÁC GURU CŨNG PHẢI LẮNG NGHE TÔI?
+
+Lần đầu tiên tôi chia sẻ những điều này là tại một buổi hội thảo của Jay Abraham. Khi tôi trình bày xong, mọi người vây quanh tôi, nói rằng 90 phút đó là 90 phút quan trọng nhất trong đời kinh doanh của họ, rằng đây chính là thông tin mà họ đã thiếu bấy lâu nay. Một phụ nữ thành công đã khóc và nói rằng cô ấy và chồng cần nghe những điều tôi vừa nói đến mức nó đã cứu mạng họ.
+
+Sau đó, tôi dành 6 tháng tiếp theo để tài liệu hóa và tinh chỉnh mọi thứ cần thiết để hoạch định, sắp xếp và hệ thống hóa một doanh nghiệp.
+
+Khi hoàn tất, tôi bắt đầu một chương trình huấn luyện thử nghiệm với 25 nhà tiếp thị Internet, và kết quả thật sự ngoạn mục.
+
+Trong 8 tháng đầu tiên, các học viên của tôi đã tăng trưởng doanh nghiệp thêm 30 triệu đô la. Trong 8 tháng tiếp theo, họ tăng trưởng thêm 7 triệu đô la nữa, và con số vẫn tiếp tục tăng.
+
+Nhưng sự gia tăng thu nhập khổng lồ đó mới chỉ là một nửa câu chuyện. Bởi vì số giờ làm việc trung bình của họ cũng **GIẢM SÚT ĐÁNG KỂ**.
+
+Hai học viên chưa bao giờ nghỉ phép đã có đủ thời gian rảnh để mua du thuyền. Một người khác đã không nghỉ cuối tuần dài nào trong 5 năm, thì giờ đã nghỉ 3 tháng trong năm và còn dự định nghỉ hết cả mùa hè.
+
+Tất cả đều xảy ra trong khi lợi nhuận của họ **VẪN TIẾP TỤC BAY CAO!**.
+
+*(Rich tự giới thiệu về mô hình coaching của mình, nhấn mạnh sự cam kết và giới hạn số lượng)*
+
+
+
 
 
 
