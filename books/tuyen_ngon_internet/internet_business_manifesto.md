@@ -313,7 +313,7 @@ Lý do tôi kể chuyện này là vì những gì John mô tả về "ngày xư
 
 Tìm một thị trường ngách, dựng đại một trang web, chạy ít quảng cáo PPC (trả tiền theo click), nếu thấy ngon thì làm tiếp, không thì đổi ngách khác.
 
-**Nghe quen không?.**
+**Nghe quen không?**
 
 Nhưng hãy nghe kỹ đây: Ngày càng nhiều công ty offline thành công đang tràn lên mạng mỗi ngày. Văn phòng của tôi nhận được hàng tá cuộc gọi mỗi tuần từ các doanh nghiệp truyền thống muốn đưa mô hình của họ lên online.
 
@@ -324,6 +324,236 @@ Và chưa hết, chính những người tiêu dùng trong ngách của bạn c�
 À quên, đừng quên cả đám đông những nhà tiếp thị Internet khác cũng đang săn lùng các ngách ngon ăn giống bạn.
 
 Điều này có nghĩa là: **Đang có cả đống người ngoài kia lăm le cướp lấy "bữa trưa" của bạn!.**
+
+## NHỮNG HÒN ĐÁ TẢNG CHẮN NGANG ĐƯỜNG THÀNH CÔNG CỦA BẠN
+
+Bây giờ bạn đã hiểu Internet đang phát triển như thế nào, và bạn cũng biết mình cần phải xây dựng một doanh nghiệp thực sự. Vậy thì, hãy cùng nhìn vào những chướng ngại vật đang cản trở bạn làm điều đó.
+
+Bằng cách vạch trần và loại bỏ những vấn đề này, bạn sẽ có thể phát triển doanh nghiệp nhanh hơn (và dễ dàng hơn) bạn từng nghĩ. Đây chính là những khái niệm cốt lõi mà những người xây dựng doanh nghiệp siêu giàu đều thấu hiểu và vận hành theo.
+
+Tôi sẽ trình bày phần này giống như một bản chẩn đoán y khoa. Bạn sẽ thấy Tên bệnh, Triệu chứng, Nguyên nhân và Tổng quan về Giải pháp.
+
+Hãy cùng xem xét vấn đề căn bản nhất mà hầu hết dân kinh doanh Internet đều mắc phải.
+
+>- **CĂN BỆNH:** THIẾU CHIẾN LƯỢC (LACK OF STRATEGY)
+>- **Triệu chứng:** Mua bất cứ thứ gì có vẻ như sẽ kiếm ra tiền, nhưng rốt cuộc chẳng thu được kết quả gì.
+>- **Nguyên nhân:** Tư duy Thợ Săn (Opportunistic Thinking).
+
+Chướng ngại vật đầu tiên và lớn nhất mà chúng ta cần xem xét chính là BẠN và CÁCH TƯ DUY CỦA BẠN.
+
+Theo cách tôi nhìn nhận, có hai luồng tư duy đối lập nhau hoàn toàn khi nói đến việc xây dựng doanh nghiệp và kiếm tiền online. Đó là Tư duy Thợ Săn (Opportunistic) và Tư duy Chiến Lược (Strategic).
+
+Dưới đây là sự khác biệt sống còn giữa hai nhóm người này:
+
+### SO SÁNH: TƯ DUY THỢ SĂN vs. TƯ DUY CHIẾN LƯỢC
+
+| TƯ DUY THỢ SĂN (OPPORTUNISTIC) | TƯ DUY CHIẾN LƯỢC (STRATEGIC) |
+| :--- | :--- |
+| Một cơ hội xuất hiện và bạn chộp lấy nó ngay lập tức. | Bạn có một cái đích đến trong đầu, một tầm nhìn rõ ràng. |
+| Hầu hết những chủ doanh nghiệp đang chật vật đều quay cuồng với công việc hàng ngày và hành động dựa trên bất cứ thứ gì "có vẻ hấp dẫn" ngay trước mắt. | Những doanh nhân thành công biết rõ tầm nhìn của mình. Họ phát triển các phương án khác nhau để đạt được nó, và chỉ chọn cách tiếp cận khả thi nhất. |
+| Câu hỏi thường trực: *"Cái này có kiếm ra tiền không?"* | Câu hỏi thường trực: *"Đâu là cơ hội tốt nhất để giúp tôi đạt được tầm nhìn của mình?"* |
+
+Vấn đề cốt lõi nằm ở đây: Những kẻ săn tìm cơ hội tư duy theo kiểu chộp giật, còn doanh nhân tư duy theo chiến lược.
+
+Một **Thợ Săn (Opportunity Seeker)** luôn trong trạng thái săn tìm "cơ hội lớn" tiếp theo để kiếm tiền nhanh từ những trào lưu nóng hổi nhất. Tiêu chí duy nhất của họ là: *"Cái này có kiếm ra tiền không?"*.
+
+Vì thế, hôm nay họ làm Adsense, ngày mai họ nhảy sang cái khác, và hôm qua họ vừa làm một thứ gì đó mà nay đã bị lãng quên.
+
+Họ mua hàng tá sản phẩm, khóa học nhưng chỉ dùng được vài thứ (hoặc chẳng dùng gì cả), rồi lại vứt xó để chạy theo lời hứa về một cách kiếm tiền "dễ dàng" hơn vừa xuất hiện.
+
+Câu hỏi duy nhất luẩn quẩn trong đầu họ là: **"Cách nào DỄ NHẤT để kiếm tiền NGAY BÂY GIỜ?"**.
+
+Ngược lại, một **Doanh Nhân Thực Thụ (Strategic Entrepreneur)** là một loài sinh vật hoàn toàn khác.
+
+Họ có một tầm nhìn rõ ràng về việc doanh nghiệp của họ sẽ trở thành cái gì. Vì có tầm nhìn, họ phân tích được điểm mạnh của bản thân, của đối thủ, và nhu cầu thị trường để vạch ra các chiến lược khác nhau.
+
+Họ hiểu rằng cơ hội lớn nhất luôn nằm **BÊN TRONG** doanh nghiệp của họ, nằm ở việc tuân thủ chiến lược, chứ không phải nằm ở "sản phẩm hot" mà thiên hạ đang đổ xô đi làm.
+
+Và đây là một thông tin nội bộ mà bất kỳ tay lão luyện nào trong nghề Direct Marketing cũng sẽ xác nhận với bạn: **Bán hàng cho một Thợ Săn dễ hơn gấp 100 lần so với bán cho một Doanh Nhân.**
+
+Tại sao ư?
+
+Bởi vì Thợ Săn **KHÔNG CÓ TIÊU CHUẨN**. Nếu bạn thuyết phục được họ rằng "cái này ra tiền", bạn chốt đơn xong.
+
+Còn Doanh Nhân? Họ phải so sánh lời chào hàng của bạn với kế hoạch hiện tại của họ. *"Cái này có giúp tôi đạt được tầm nhìn nhanh hơn không? Nó có phù hợp với hệ thống của tôi không?"*.
+
+Và đây là bi kịch: Đại đa số những người làm Internet Marketing hiện nay chẳng khác gì những **"Thợ Săn Kỹ Thuật Số"**.
+
+Họ không có chiến lược. Họ nhảy từ cách này sang cách khác. Họ có thể có một mục tiêu thu nhập (ví dụ: 10.000 đô/tháng) nhưng họ hoàn toàn mù tịt về mô hình doanh nghiệp cần thiết để đạt được con số đó. Và vì không có tầm nhìn, họ không thể đi theo một kế hoạch cụ thể nào cả.
+
+## THIẾT KẾ DOANH NGHIỆP TỒI TỆ SẼ KHIẾN BẠN PHẢI LÀM TẤT CẢ MỌI VIỆC
+
+Bên dưới đây, bạn sẽ thấy tôi đã chia nhỏ một doanh nghiệp Internet truyền thống thành 12 khu vực trọng yếu.
+
+Tất cả chúng đều quan trọng, bạn có đồng ý không?
+
+<img width="635" height="444" alt="image" src="https://github.com/user-attachments/assets/f5cbc517-2b25-4b5d-abd5-54b2e5d89aeb" />
+
+
+*(Hình ảnh minh họa: Sơ đồ "Doanh Nghiệp Internet Của Bạn" với 12 ô chức năng bao quanh)*
+
+1. **Content** (Nội dung)
+2. **Systems** (Hệ thống)
+3. **Traffic** (Lưu lượng truy cập)
+4. **List** (Danh sách khách hàng)
+5. **Technical** (Kỹ thuật)
+6. **Finance** (Tài chính)
+7. **Legal + Compliance** (Pháp lý & Tuân thủ)
+8. **Client Relationships** (Quan hệ khách hàng)
+9. **Business Building** (Xây dựng doanh nghiệp)
+10. **Sales** (Bán hàng)
+11. **Market Analysis** (Phân tích thị trường)
+12. **Affiliate Marketing** (Tiếp thị liên kết)
+
+Nhưng chúng ta có thể đào sâu hơn nữa vào một doanh nghiệp Internet, phải không?
+
+Nó không đơn giản như vẻ bề ngoài.
+
+Chúng ta có thể chia nhỏ từng khu vực này thành những chức năng nhỏ hơn – những công việc thực tế cần phải hoàn thành.
+
+Hãy cùng xem xét từng hoạt động này bao gồm những gì...
+
+### 1. HOẠT ĐỘNG NỘI DUNG (CONTENT ACTIVITIES) BAO GỒM:
+
+<img width="646" height="448" alt="image" src="https://github.com/user-attachments/assets/417cf47c-a8ed-46bd-980a-ed0a8f972bdf" />
+
+- Bài viết (Articles)
+- Sản phẩm (Products)
+- Ebooks & Sách vật lý
+- Audio & Video
+- Phần mềm
+- Các trang nội dung cho SEO
+- Đồ họa
+- Báo cáo miễn phí & Khóa học qua Email (eCourses)
+- Bản tin điện tử (eZines)
+- Quà tặng kèm (Bonuses)
+- Bài đăng Blog & Podcast
+
+### 2. HOẠT ĐỘNG DANH SÁCH (LIST ACTIVITIES) BAO GỒM:
+
+<img width="709" height="500" alt="image" src="https://github.com/user-attachments/assets/220d6c02-faf9-4df1-9ab2-cb331fd7ac81" />
+
+* Các chiến thuật xây dựng danh sách (List building tactics)
+* Quản lý danh sách (List management)
+* Phân khúc khách hàng (Segmenting)
+* Khả năng gửi thư vào inbox (Deliverability)
+
+### 3. HOẠT ĐỘNG TÀI CHÍNH (FINANCE ACTIVITIES) BAO GỒM:
+
+<img width="658" height="467" alt="image" src="https://github.com/user-attachments/assets/d96d3da1-e883-461d-a460-28cf97ed9fdb" />
+
+* Xử lý cổng thanh toán (Merchant accounts)
+* Thanh toán cho Affiliates (Người tiếp thị liên kết)
+* Các khoản phải trả (Accounts payable)
+* Tìm nguồn cung ứng (Vendor sourcing)
+* Ngân sách (Budgets)
+* Thuế (Taxes)
+* Bảo hiểm (Insurance)
+* Trả lương (Payroll)
+* Các khoản phải thu (Accounts receivable)
+
+### 4. HOẠT ĐỘNG KỸ THUẬT (TECHNICAL ACTIVITIES) BAO GỒM:
+
+<img width="653" height="461" alt="image" src="https://github.com/user-attachments/assets/c1f84e33-1952-4f70-b8e8-a45d38a486a6" />
+
+* Phát triển phần mềm (Software development)
+* Bảo trì Website (Site maintenance)
+* Bảo trì máy tính (Computer maintenance)
+* Theo dõi và đo lường (Tracking)
+* Xử lý White listing (Chống spam email)
+* Bảo trì máy chủ (Server maintenance)
+
+*(Tiếp tục phân rã sơ đồ "Doanh Nghiệp Internet Của Bạn"...)*
+
+### 5. HOẠT ĐỘNG HỆ THỐNG (SYSTEMS ACTIVITIES) BAO GỒM:
+
+<img width="656" height="465" alt="image" src="https://github.com/user-attachments/assets/13afcff0-f0bc-4e8c-a5f9-b1834911fe5f" />
+
+* Các hệ thống nội bộ (Internal systems)
+* Hệ thống Automation, Ứng dụng AI
+* Hệ thống Sale Pipline
+* Hệ thống quản lý tài sản số
+* *(Lưu ý: Nếu bạn đang cố gắng tự xây dựng doanh nghiệp, đôi khi bạn sẽ muốn tạo ra phần mềm riêng để tự động hóa các tác vụ lặp đi lặp lại)*
+
+### 6. HOẠT ĐỘNG VIẾT LỜI CHÀO HÀNG (COPYWRITING ACTIVITIES) BAO GỒM:
+
+<img width="656" height="466" alt="image" src="https://github.com/user-attachments/assets/2c216059-f809-4cf9-850e-a1a5d51a851c" />
+
+* Thư bán hàng (Sales letters)
+* Trang đặt hàng (Order pages)
+* Nội dung (Content)
+* Tuyển dụng Affiliates (Affiliate recruitment)
+* Quảng cáo trả tiền theo click (Pay-per-click ads)
+* Quảng cáo hiển thị (Banner ads)
+* Email marketing
+* Các trang thu thập thông tin (Opt-ins/Name captures)
+* Thử nghiệm tối ưu (Testing)
+
+### 7. HOẠT ĐỘNG LƯU LƯỢNG TRUY CẬP (TRAFFIC ACTIVITIES) BAO GỒM:
+
+<img width="660" height="459" alt="image" src="https://github.com/user-attachments/assets/897c045d-2c50-413c-b918-c58213232d93" />
+
+* Tối ưu hóa công cụ tìm kiếm (SEO)
+* Mua liên kết (Link buying)
+* Xây dựng liên kết (Link building)
+* Tuyển dụng đối tác liên doanh (JV recruitment)
+* Các chương trình lan truyền (Viral programs)
+* Quảng cáo trả phí (PPC)
+* Viết Blog (Blogs)
+* Mua tên miền hết hạn hoặc đang hoạt động (Buying existing & expired domains)
+* Nguồn cấp tin (RSS feeds)
+* Quảng cáo Banner (Banner advertising)
+
+*(Tiếp tục phân rã sơ đồ "Doanh Nghiệp Internet Của Bạn"...)*
+
+### 8. HOẠT ĐỘNG QUAN HỆ KHÁCH HÀNG (CLIENT RELATIONSHIPS ACTIVITIES) BAO GỒM:
+
+<img width="660" height="465" alt="image" src="https://github.com/user-attachments/assets/63db8634-5f29-4f87-b02d-3507fcf5b1b3" />
+
+* Thu thập lời chứng thực (Getting testimonials)
+* Dịch vụ chăm sóc khách hàng (Customer service)
+* Các ưu đãi miễn phí (Free offers)
+* Xử lý hoàn trả (Return processing)
+* Đóng gói và Vận chuyển (Fulfillment)
+* Trải nghiệm khách hàng
+* Hỗ Trợ (Zalo/Chatbot)
+
+### 9. HOẠT ĐỘNG NGHIÊN CỨU & PHÁT TRIỂN BAO GỒM:
+
+<img width="658" height="466" alt="image" src="https://github.com/user-attachments/assets/baa8a8c6-3648-4dcf-99cc-5c4596de2ba8" />
+
+* Phân tích đối thủ cạnh tranh
+* Khảo sát (Surveys)
+* Nghiên cứu từ khóa (Keyword research)
+* Nghiên cứu thị trường ngách
+* Hành vi, insight
+* Mô hình kinh doanh
+* Sản phẩm mồi (tripwire)
+* Sản phẩm Chủ lực (Core Offer)
+* Sản phẩm Cuối phễu (Backend/High-ticket)
+
+### 10. HOẠT ĐỘNG XÂY DỰNG DOANH NGHIỆP (BUSINESS BUILDING ACTIVITIES) BAO GỒM:
+* Mua lại các trang web liên quan (Acquisition potentially of related Web sites)
+* Mua lại đối thủ cạnh tranh hoặc các trang web tương tự (Buying competitors or buying similar Web sites)
+* Mua các trang web cung cấp những thứ mà khách hàng sẽ mua trước hoặc sau khi họ mua sản phẩm của bạn (Buying sites offering what people would buy before or after they buy your product).
+* Nhượng quyền sản phẩm (Product licensing)
+
+*(Tiếp tục phân rã sơ đồ "Doanh Nghiệp Internet Của Bạn"...)*
+
+### 11. CÁC VẤN ĐỀ PHÁP LÝ & TUÂN THỦ (LEGAL AND COMPLIANCES) BAO GỒM:
+
+<img width="658" height="470" alt="image" src="https://github.com/user-attachments/assets/30f1a83b-6ac5-4a25-a236-5546fe322909" />
+
+* Quy định của FTC (Ủy ban Thương mại Liên bang)
+* Các vấn đề về SPAM
+* Điều khoản dịch vụ (Terms of service)
+* Giấy phép kinh doanh (Business licenses)
+* Hồ sơ thuế (IRS filings)
+
+### 12. HOẠT ĐỘNG TIẾP THỊ LIÊN KẾT (AFFILIATE MARKETING ACTIVITIES) BAO GỒM:
+* Quét và theo dõi các chương trình liên kết
+* Quyết định xem bạn nên tham gia chương trình liên kết nào để quảng bá sản phẩm của người khác (và xây dựng danh sách email của riêng bạn)
+* Xây dựng các trang web riêng biệt để quảng bá sản phẩm của người khác (nhằm xây dựng một danh sách email chất lượng hơn cho sản phẩm của chính bạn)
 
 
 
