@@ -722,6 +722,86 @@ Làm thế nào để bạn đạt được nó?
 
 Bạn buộc phải thực hiện một số thay đổi nếu muốn đi đến đích, và điều cốt lõi bạn cần làm là thay đổi số tiền bạn có thể tạo ra trên mỗi giờ làm việc.
 
+## SỰ KHÁC BIỆT GIỮA THỜI GIAN SINH LỜI VÀ THỜI GIAN LÃNG PHÍ
+
+Biểu đồ bên trái sẽ mang lại cho bạn sự rõ ràng về giá trị thời gian của mình hơn bao giờ hết.
+
+Ở dòng đầu tiên, hãy điền số tiền bạn đã tính ra ở slide trước (đó là bước hiện tại của bạn). Sau đó, điền số ngày bạn làm việc một tuần và số giờ bạn làm việc mỗi ngày.
+
+Vậy, thời gian sinh lời (Productive Time) thực sự là gì?
+
+<img width="303" height="232" alt="image" src="https://github.com/user-attachments/assets/b73b017e-01c3-4cf2-8a05-c138f86a5fec" />
+
+Trước khi tôi trả lời câu hỏi này, để tôi kể cho bạn nghe một mẹo nhỏ tôi học được từ một người bạn tốt.
+
+Một buổi chiều nọ, tôi trò chuyện với Alex Mandossian và tôi đã thốt lên rằng mình ấn tượng thế nào với hiệu suất làm việc của anh ấy, và thú thật là tôi ghen tị với điều đó.
+
+Và anh ấy nói: "Rich, điều cậu cần làm là ra ngoài kia, mua một cái đồng hồ hẹn giờ nhà bếp, vặn nó lên 60 phút và sau đó chỉ làm việc tập trung vào việc XÂY DỰNG LỢI NHUẬN trong đúng 60 phút đó – không làm gì khác.".
+
+Để tôi nói bạn nghe, ban đầu nó không hề dễ dàng chút nào – tôi thấy khát nước và muốn đi lấy nước, tôi có cảm giác thôi thúc phải lên mạng kiểm tra số liệu (stats), tôi mắc đi vệ sinh, và đủ thứ gián đoạn nhỏ nhặt khác xuất hiện.
+
+Nhưng cuối cùng, tôi đã có thể chạy hết tốc lực (full throttle) trong trọn vẹn một giờ đồng hồ chỉ cho các hoạt động xây dựng lợi nhuận. Và bạn tôi ơi, đó chính là ý nghĩa thực sự của thời gian sinh lời.
+
+Thời gian sinh lời là thời gian trực tiếp tạo ra thu nhập.
+
+Vậy, bao nhiêu phần trăm thời gian của bạn là sinh lời? Trước khi bạn trả lời, hãy cân nhắc điều này: Một nghiên cứu về các CEO trong danh sách Fortune 500 ước tính rằng họ chỉ có 28 phút sinh lời mỗi ngày. Một nghiên cứu khác ước tính con số này là 38 phút một ngày.
+
+Tôi biết, nghe thật điên rồ đúng không? Chỉ 28 hay 38 phút một ngày ư?
+
+Nhưng hãy nghĩ về những gì một CEO phải làm và thực tế họ có bao nhiêu thời gian để thực sự tập trung vào các hoạt động xây dựng lợi nhuận.
+
+Vì bạn không phải gánh vác trách nhiệm nặng nề như một CEO Fortune 500, bạn hoàn toàn có thể có nhiều thời gian sinh lời hơn thế.
+
+Nhưng thời gian sinh lời không tự nhiên xuất hiện như phép thuật, bạn phải **tập trung và kỷ luật**.
+
+Đây là một số ví dụ về thời gian không sinh lời: nói chuyện với bạn bè, lướt web vô định, kiểm tra và đọc email, trả lời điện thoại, thời gian học tập và nghiên cứu, kiểm tra số liệu thống kê website, sắp xếp bàn làm việc và dọn dẹp văn phòng.
+
+Đọc một cuốn Ebook, ngay cả khi nó tiết lộ những bí mật kiếm tiền quyền năng nhất từng được khám phá, cũng **KHÔNG PHẢI** là thời gian sinh lời.
+
+Nó chỉ trở thành thời gian sinh lời khi bạn thực sự bắt tay vào làm việc, hoặc bạn dùng đòn bẩy để người khác làm việc đó. Đây là một sự phân biệt cực kỳ quan trọng bởi vì có quá nhiều "kẻ săn tìm cơ hội" nhầm lẫn giữa **HỌC (learning)** và **KIẾM TIỀN (earning)**. Kiến thức mới sẽ chẳng có giá trị gì cho doanh nghiệp của bạn trừ khi nó được thực thi và hành động.
+
+Tất nhiên, tôi không nói rằng bạn không nên dành thời gian cho những hoạt động này. Bạn cần thời gian để học, và bạn cũng cần nói chuyện với bạn bè. Tôi chỉ đơn giản chỉ ra rằng đây không phải là cái mà chúng ta gọi là thời gian sinh lời. Những hoạt động này là bảo trì (maintenance).
+
+Đây là những việc bạn phải làm. Nhưng bạn không thể coi đó là thời gian sinh lời vì nó không xây dựng doanh nghiệp, nó không làm tăng thu nhập của bạn, nó chỉ đơn thuần là tồn tại ở đó. Bạn phải làm nó, đó là một phần của cuộc sống.
+
+<img width="305" height="231" alt="image" src="https://github.com/user-attachments/assets/efb94f73-651d-45a2-b7d3-ce9091517ba4" />
+
+**Thời gian sinh lời** là thời gian dành cho việc tạo ra sản phẩm, tiếp thị sản phẩm, cải tiến quy trình tiếp thị, quản lý các dự án kiếm tiền, thiết lập các thương vụ liên doanh (JV), và tạo ra khả năng mở rộng trong doanh nghiệp của bạn.
+
+Nhưng thậm chí còn có một thứ gì đó mang lại lợi nhuận và tính chiến lược cao hơn cả thời gian sinh lời, tôi gọi nó là **thời gian siêu sinh lời (super-productive time)**.
+
+Thời gian siêu sinh lời là khi bạn tạo ra một **HỆ THỐNG** xung quanh bất kỳ hoạt động kiếm tiền nào của mình.
+
+Ví dụ về thời gian siêu sinh lời sẽ là: tạo ra các hệ thống để tự động tạo ra sản phẩm và tạo ra các hệ thống để tự động tiếp thị sản phẩm.
+
+Khi tôi tập trung vào tiếp thị ngách (niche marketing), tôi đã phát triển một hệ thống phát triển và tiếp thị sản phẩm cho Ebooks. Mọi thứ từ nghiên cứu từ khóa đến mua lưu lượng truy cập trả phí (PPC) đều được thực hiện bởi người khác, và đây là điểm mấu chốt: **tôi không tham gia vào chút nào một khi tôi đã có hệ thống vận hành.**
+
+Nói cách khác, người nghiên cứu thực hiện việc nghiên cứu từ khóa, cô ấy sau đó chuyển nó cho quản trị web và người viết thuê (ghostwriter), quản trị web đăng ký tên miền và đưa trang lên với các từ khóa làm chỗ giữ chỗ, trong khi người viết thuê viết sách, thư bán hàng, trang thu thập thông tin, v.v...
+
+Các sản phẩm mới được phát triển mỗi tháng – bất kể chuyện gì xảy ra. Doanh nghiệp tiếp tục phát triển dù tôi có làm việc ngày nào trong tháng đó hay không – và đó là lý do tại sao thời gian bạn đầu tư vào việc tạo ra các hệ thống tạo thu nhập chính là **thời gian siêu sinh lời**.
+
+Được rồi, tôi nghĩ giải thích như vậy là quá đủ rồi, hãy quay lại với BẠN và số giờ sinh lời cũng như siêu sinh lời mà bạn có mỗi ngày.
+
+<img width="304" height="231" alt="image" src="https://github.com/user-attachments/assets/d0b47e1a-15dd-4f28-b51f-525c4496245a" />
+
+Bạn có được 1 giờ sinh lời mỗi ngày không? Hay 2 giờ? Ước tính thận trọng nhất của bạn vào lúc này là bao nhiêu?
+
+Trừ khi bạn đã thực sự tập trung vào việc tối đa hóa thời gian sinh lời trước đây, tôi không nghĩ rằng bạn có nhiều hơn 2 giờ sinh lời mỗi ngày. Hãy nhớ rằng, chúng ta đang chỉ nói về các hoạt động tạo ra thu nhập thôi nhé!
+
+Tôi đã hoàn thành toàn bộ slide tính toán để bạn có thể thấy quy trình này hoạt động như thế nào.
+
+Ở đây, chúng ta có mục tiêu cho bước tiếp theo là kiếm được 250.000 đô-la mỗi năm.
+
+Chúng ta làm việc 6 ngày một tuần và dành khoảng 10 tiếng mỗi ngày ở văn phòng hoặc ngồi trước máy tính. Chúng ta ước tính rằng mình có thể vắt kiệt ra được 2 giờ sinh lời mỗi ngày.
+
+Điều này để lại cho chúng ta 12 giờ mỗi tuần hoàn toàn tập trung vào việc xây dựng doanh thu. Nhân 12 giờ với 50 tuần làm việc, chúng ta có tổng cộng 600 giờ một năm để đạt được mục tiêu 250.000 đô-la.
+
+Điều này có nghĩa là chúng ta phải tạo ra trung bình 416,66 đô-la thu nhập ròng cho mỗi giờ sinh lời mà chúng ta có.
+
+Hoặc cụ thể hơn, bạn cần kiếm được 833,22 đô-la mỗi ngày, sáu ngày một tuần, trong suốt năm mươi tuần một năm.
+
+
+
 
 
 
