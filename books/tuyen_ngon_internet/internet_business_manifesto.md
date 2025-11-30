@@ -257,10 +257,73 @@ Bản Tuyên Ngôn này sẽ lột trần từng vấn đề một. Bạn sẽ t
 
 Nhưng trước hết, hãy cùng nhìn vào thực tế của Internet ngày nay và đặt nó vào bối cảnh của kinh doanh truyền thống....
 
+## ĐẶT INTERNET VÀO ĐÚNG BỐI CẢNH (ĐỂ KHÔNG BỊ NGHIỀN NÁT)
 
+Trước khi chúng ta lao vào các chiến lược tăng trưởng, chúng ta cần lùi lại một bước để đặt công việc kinh doanh trên Internet vào đúng bối cảnh của nó.
 
+Bạn cần hiểu nó khớp vào bức tranh lớn của thế giới kinh doanh như thế nào. Việc hiểu rõ mức độ trưởng thành hiện tại của thị trường trực tuyến là yếu tố sống còn đối với thành công dài hạn của bạn.
 
+Đầu tiên, Internet đang nóng trở lại. Các doanh nghiệp lớn đang ngày càng nghiêm túc hơn với sân chơi này.
 
+Tuần trước, tôi đã dành vài ngày làm việc tại văn phòng của **Agora Publishing** (gã khổng lồ thông tin trị giá 250 triệu đô) để lên kế hoạch cho một dự án mới. Khi bước vào văn phòng, tôi được mời dự thính một cuộc họp đang diễn ra.
+
+Trong phòng là 5 nhân sự hàng đầu của họ. Họ đang lên chiến lược tấn công thị trường trong 2 tuần tới ở một ngách cạnh tranh cao. Kế hoạch đơn giản nhưng đầy uy lực. Nó tận dụng triệt để sức mạnh nguồn lực của họ, và gần như chắc chắn sẽ xóa sổ vài tay chơi nhỏ lẻ đang thoi thóp trong ngách đó.
+
+Tôi thở phào nhẹ nhõm vì may quá, mình không kinh doanh trong cái ngách đó.
+
+Tất cả điều này nhắc tôi nhớ đến một slide thuyết trình mà tôi hay dùng:
+
+>
+> ### TẠI SAO BẠN CẦN XÂY DỰNG MỘT "DOANH NGHIỆP" INTERNET (CHỨ KHÔNG PHẢI MỘT NGHỀ TAY TRÁI)
+>
+> Internet vẫn còn chút hơi hướng của miền Tây hoang dã... nhưng giống như mọi ngành công nghiệp và kênh truyền thông khác, sớm hay muộn thì **Doanh Nghiệp Lớn (Big Business)** sẽ bóp nghẹt những kẻ **tự kinh doanh nhỏ lẻ (Self-employed)**.
+> Ví dụ:
+>* Ngành Infomercial (Quảng cáo truyền hình).
+>* Ngành Công nghiệp Ô tô (Hơn 250 công ty xe hơi những năm 1900, giờ chỉ còn vài ông lớn).
+>* Ngành truyền hình cáp.
+>* Ngành báo chí.
+
+Khi tôi chiếu slide này lên, tôi thường nói với mọi người: Nếu bạn chưa xây dựng một "Doanh nghiệp" thực thụ xung quanh những gì bạn đang làm, thì hãy bắt đầu ngay hôm nay. Ngay lập tức.
+
+Lý do là vì Doanh nghiệp lớn sẽ luôn "đánh đập" và cướp lấy phần cơm trưa của những tay mơ hoạt động độc lập.
+
+Nếu bạn đã từng chứng kiến sự ra đời và trưởng thành của bất kỳ ngành công nghiệp nào, bạn sẽ thấy kịch bản này lặp đi lặp lại.
+
+Chính tôi đã chứng kiến "hiệu ứng doanh nghiệp lớn" này. Khi tôi kinh doanh thời trang, cửa hàng của tôi nằm trên đường Broadway ở Manhattan. Lúc đầu, con phố đầy những cửa hàng nhỏ lẻ độc đáo. Bốn năm sau? Giá thuê nhà tăng vọt, các cửa hàng nhỏ bị đá văng ra đường, và các chuỗi siêu thị khổng lồ chiếm đóng toàn bộ.
+
+Khi tôi bước vào thị trường Thôi miên trị liệu, tôi đã xây dựng doanh nghiệp lớn nhất từng tồn tại và dễ dàng đá văng hàng trăm nhà thôi miên nhỏ lẻ khác ra khỏi cuộc chơi.
+
+Tại sao ư? Vì chúng tôi chi 3 triệu đô một năm cho quảng cáo, trong khi các đối thủ nhỏ bé của tôi chỉ dám chi vài ngàn lẻ. Một lần nữa chứng minh: **Doanh nghiệp lớn luôn thắng kẻ nhỏ bé.**
+
+## BÀI HỌC TỪ NHỮNG NGÀY HOANG DÃ CỦA INFOMERCIAL
+
+Người bạn tốt của tôi, huyền thoại Copywriter **John Carlton**, hay kể cho tôi nghe những câu chuyện về những ngày đầu ông ấy làm trong ngành quảng cáo truyền hình (Infomercial).
+
+Hồi đó, họ quay quảng cáo vào ban ngày (theo kiểu video du kích, rẻ tiền) và phát sóng vào ban đêm gần như miễn phí. Nếu bán được hàng, họ giữ lại và chạy tiếp. Nếu không bán được, ngày hôm sau họ quay cái mới.
+
+Nhưng ngày nay, nếu bạn muốn nhảy vào ngành Infomercial, bạn tốt nhất nên chuẩn bị sẵn 7 con số (hàng triệu đô) và sẵn sàng tâm lý mất trắng số tiền đó.
+
+Tại sao ư? Vì ngành công nghiệp đã trưởng thành.
+
+Những người tiên phong như **Guthy-Renker** (vốn xuất thân là một nhà sản xuất băng đĩa) đã trở thành một tập đoàn 750 triệu đô vì họ coi cơ hội Infomercial là một **Doanh nghiệp thực sự**, chứ không phải một trò chơi thử sai.
+
+## THỜI GIAN ĐANG CẠN DẦN... NHƯNG BẠN VẪN CÒN CƠ HỘI
+
+Lý do tôi kể chuyện này là vì những gì John mô tả về "ngày xưa" của Infomercial giống hệt tình trạng Internet Marketing hiện nay.
+
+Tìm một thị trường ngách, dựng đại một trang web, chạy ít quảng cáo PPC (trả tiền theo click), nếu thấy ngon thì làm tiếp, không thì đổi ngách khác.
+
+**Nghe quen không?.**
+
+Nhưng hãy nghe kỹ đây: Ngày càng nhiều công ty offline thành công đang tràn lên mạng mỗi ngày. Văn phòng của tôi nhận được hàng tá cuộc gọi mỗi tuần từ các doanh nghiệp truyền thống muốn đưa mô hình của họ lên online.
+
+Bạn cũng phải đối mặt với những công ty Direct Response sừng sỏ (như Agora) đã chuyển mình thành công.
+
+Và chưa hết, chính những người tiêu dùng trong ngách của bạn cũng đang nhăm nhe khởi nghiệp online vì đam mê.
+
+À quên, đừng quên cả đám đông những nhà tiếp thị Internet khác cũng đang săn lùng các ngách ngon ăn giống bạn.
+
+Điều này có nghĩa là: **Đang có cả đống người ngoài kia lăm le cướp lấy "bữa trưa" của bạn!.**
 
 
 
