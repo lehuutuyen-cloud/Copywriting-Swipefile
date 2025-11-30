@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-27 03:41:43",
-  "total_books": 7,
+  "last_updated": "2025-11-30 03:15:56",
+  "total_books": 8,
   "books": [
     {
       "id": "breakthrough_advertising",
@@ -260,6 +260,19 @@
         {
           "filename": "02_phu_luc_ky_thuat_copywriting.md",
           "path": "books/sop/02_phu_luc_ky_thuat_copywriting.md"
+        }
+      ]
+    },
+    {
+      "id": "tuyen_ngon_internet",
+      "info": {
+        "title": "Tuyen Ngon Internet",
+        "id": "tuyen_ngon_internet"
+      },
+      "chapters": [
+        {
+          "filename": "internet_business_manifesto.md",
+          "path": "books/tuyen_ngon_internet/internet_business_manifesto.md"
         }
       ]
     },
