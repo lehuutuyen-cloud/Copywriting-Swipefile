@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-30 03:50:46",
+  "last_updated": "2025-11-30 03:53:27",
   "total_books": 8,
   "books": [
     {
@@ -266,8 +266,19 @@
     {
       "id": "tuyen_ngon_internet",
       "info": {
-        "title": "Tuyen Ngon Internet",
-        "id": "tuyen_ngon_internet"
+        "id": "tuyen_ngon_internet",
+        "title": "Tuyên Ngôn Kinh Doanh Internet (The Internet Business Manifesto)",
+        "author": "Rich Schefren",
+        "year": 2006,
+        "tags": [
+          "business_strategy",
+          "mindset",
+          "internet_marketing",
+          "systemization",
+          "opportunity_seeker",
+          "strategic_entrepreneur"
+        ],
+        "description": "Tài liệu kinh điển giúp phân biệt giữa tư duy 'Thợ săn cơ hội' và 'Doanh nhân chiến lược', cung cấp lộ trình để thoát khỏi sự quá tải và xây dựng hệ thống kinh doanh Internet bền vững, tự động hóa."
       },
       "chapters": [
         {
