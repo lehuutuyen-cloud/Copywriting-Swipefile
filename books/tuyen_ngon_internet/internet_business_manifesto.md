@@ -1164,5 +1164,171 @@ Nếu bạn nhận được bất kỳ giá trị nào từ bản báo cáo này
 > 
 > Thậm chí tuyệt vời hơn thế, các kỹ thuật quản lý kinh doanh trực tuyến của anh đã đóng vai trò cực kỳ quan trọng đối với chúng tôi trong thời gian tăng trưởng nóng mà anh đã tạo ra. Anh thực sự đã trao cho chúng tôi những chiếc chìa khóa để phát triển một đế chế kinh doanh lâu dài."
 
-## 
+## CHÚC MỪNG BẠN! BẠN ĐÃ LÀM ĐƯỢC!
+
+Vậy là xong. Chúc mừng nhé. Bạn vừa thực hiện một bước tiến khổng lồ để phát triển công việc kinh doanh, gia tăng lợi nhuận và tìm lại sự tự do cho chính mình.
+
+Nhưng chúng ta vẫn chưa xong đâu. Bởi vì sớm thôi (trước khi kết thúc phần tóm tắt này), bạn sẽ có cơ hội để đưa tất cả những gì chúng ta vừa thảo luận đi xa hơn rất nhiều.
+
+Hãy nhớ rằng, tôi còn hai món quà tăng trưởng kinh doanh nữa dành cho bạn. Cả hai đều được thiết kế để chỉ cho bạn cách áp dụng những gì đã học ở đây vào thực tế để phát triển doanh nghiệp trong thời gian kỷ lục.
+
+## KHÁI NIỆM QUYỀN NĂNG NHẤT TRONG BẢN BÁO CÁO NÀY
+
+Rõ ràng là tôi không thể bao quát hết mọi thứ bạn cần biết về kinh doanh chỉ trong 31 trang giấy.
+
+Tuy nhiên, có một khái niệm phải trở nên hoàn toàn rõ ràng. Nó quan trọng đến mức bạn tuyệt đối không được phép quên.
+
+Bởi vì nếu bạn cho phép nó trở thành chiếc la bàn xây dựng doanh nghiệp của mình – giúp phân biệt giữa cái đúng và cái sai... Bạn sẽ tiến gần hơn đến giấc mơ kinh doanh của mình qua mỗi ngày trôi qua.
+
+Vậy khái niệm sống còn này là gì? Ý tưởng bao trùm mà tôi đã báo trước ngay từ đầu là gì?
+
+Nếu bạn không chắc... hãy thử đoán xem. Tốt hơn nữa, hãy nói nó TO LÊN! Nghiêm túc đấy, bạn càng nói nó, nghe nó, và để tâm trí bạn "ngấm" nó – tác động của nó càng lớn và sự tiến bộ của bạn càng nhanh.
+
+Trước khi đọc tiếp bất cứ điều gì, hãy cầm trang giấy này và đưa nó lên trước gương. Bởi vì đây chính là nó...
+
+(HÌNH ẢNH DÒNG CHỮ BỊ IN NGƯỢC)
+
+"Opportunity Seekers Fail... Strategic Entrepreneurs Succeed!" (Những Kẻ Săn Tìm Cơ Hội Thất Bại... Những Doanh Nhân Chiến Lược Thành Công!)
+
+Bạn có thể tự hỏi tại sao tôi lại đảo ngược dòng chữ này. Đơn giản thôi. Bởi vì nó quá mạnh mẽ đến mức tôi không muốn bạn lướt qua nó mà không bỏ ra một chút nỗ lực nhỏ để "hiểu" nó.
+
+Bạn thấy đấy, vô số nghiên cứu chỉ ra rằng bạn có khả năng ghi nhớ tốt hơn bất kỳ cụm từ nào mà bạn phải chủ động tương tác khi đọc.
+
+Vì vậy, đây là cách tôi đảm bảo rằng bạn sẽ dừng lại, lĩnh hội thông điệp sống còn này, và ghi nhớ nó chừng nào bạn còn là một doanh nhân.
+
+Được rồi, bây giờ khi khái niệm quan trọng đã được tiết lộ, hãy nói về lý do tại sao nó quan trọng hơn bao giờ hết vào ngày nay.
+
+Cụ thể hơn: Tại sao vi phạm khái niệm này ngày nay sẽ gây ra thất bại ngay lập tức, trong khi áp dụng nó hàng ngày sẽ mang lại cho bạn một lợi thế to lớn trong tương lai?
+
+## BẠN CÓ PHẢI LÀ NẠN NHÂN CỦA SỰ BÙNG NỔ CƠ HỘI?
+
+Nếu có một điều hiển nhiên về tiếp thị trực tuyến thì đó là: Đang có một sự bùng nổ ngày càng tăng của các chiến thuật tiếp thị có sẵn để phát triển doanh nghiệp của bạn. Đơn giản là có quá nhiều cơ hội trên mạng để bất kỳ một doanh nghiệp nào có thể tận dụng hết được.
+
+Vì vậy, đây là những gì sẽ xảy ra. Nó cực kỳ nguy hại nên bạn cần phải biết điều này. Quan trọng hơn, hãy luôn cảnh giác.
+
+Bởi vì nó nhanh chóng biến những người không đề phòng thành những kẻ săn tìm cơ hội (opportunity-seekers). Và tất cả kinh nghiệm kinh doanh offline cũng sẽ không bảo vệ được bạn khỏi cái bẫy này.
+
+Lý do là đây: Vì có quá nhiều lựa chọn tiếp thị, mỗi lựa chọn đều đi kèm với một lời hứa quyến rũ độc đáo riêng, nên hầu hết các doanh nhân không thể chọn ra một vài điều cốt yếu thực sự quan trọng đối với doanh nghiệp của họ.
+
+Thay vào đó, họ nhảy từ chiến thuật này sang chiến thuật khác, và dàn trải bản thân quá mỏng.
+
+Họ không bao giờ tận dụng triệt để thời gian, năng lượng hoặc công sức mà họ đã đầu tư. Làm việc vất vả hơn mức cần thiết. Tệ hơn nữa, không bao giờ đạt được kết quả như họ kỳ vọng.
+
+Nhưng có một con đường tốt hơn nhiều. Một con đường dẫn đến sự giàu có. Với ít nỗ lực hơn, ít rủi ro hơn và kết quả lớn hơn nhiều so với cách tiếp cận cơ hội chủ nghĩa.
+
+Và đó là đi theo cách tiếp cận chiến lược (strategic approach).
+
+Đó là lý do tại sao tôi đặt tên công ty mình là Strategic Profits (Lợi Nhuận Chiến Lược). Bởi vì sự tập trung hoàn toàn của tôi và công ty là cung cấp cho bạn một con đường đến lợi nhuận một cách chiến lược. Để bạn làm việc ít hơn, kiếm được nhiều hơn, và xây dựng doanh nghiệp trong mơ của mình.
+
+Bây giờ, việc chuyển đổi thành một doanh nhân chiến lược không phải là khoa học tên lửa. Nhưng có một vài "bãi mìn" ẩn giấu khiến một kẻ săn tìm cơ hội khó có thể tự mình làm được.
+
+Nó bắt đầu bằng việc này: Bạn phải gỡ bỏ và thay thế một niềm tin sai lầm duy nhất. Ngay lúc này, niềm tin đó đang nuôi dưỡng "con quỷ" săn tìm cơ hội bên trong bạn. Thông qua công việc của tôi, biến hàng chục ngàn người săn tìm cơ hội đang chật vật thành những doanh nhân chiến lược thành công, tôi phát hiện ra quy trình phải bắt đầu từ đây...
+
+## BẠN KHÔNG "MUA" CƠ HỘI – BẠN TẠO RA CHÚNG
+
+Để giữ mọi thứ đơn giản, chúng ta sẽ bắt đầu với hành vi, sau đó khoan sâu xuống cái niềm tin sai lầm đang thúc đẩy nó.
+
+Cách dễ nhất để phát hiện một Kẻ Săn Tìm Cơ Hội (Opportunity Seeker) là họ luôn trong trạng thái tìm kiếm một cơ hội "hot" tiếp theo. Và cái cơ hội mà họ tìm kiếm được quyết định hoàn toàn bởi giai đoạn phát triển hiện tại của doanh nghiệp họ.
+- Nếu họ mới bắt đầu – họ tìm kiếm cơ hội kinh doanh "hot". Bạn biết đấy, cái ngách hoàn hảo, mô hình "doanh nghiệp mì ăn liền" (business in a box), hoặc một phương pháp mới chưa được khai phá để kiếm hàng triệu đô.
+- Nếu họ đã có doanh nghiệp online – họ tìm kiếm cơ hội traffic "hot", chiến lược chuyển đổi sát thủ, hay bất cứ thứ gì hứa hẹn một lối tắt bí mật để loại bỏ những gì đang kìm hãm họ.
+
+Bạn đã bao giờ tự hỏi "Tại sao?" chưa?
+
+Cụ thể hơn: Tại sao những người thông minh lại tạm thời gác bỏ sự nghi ngờ của mình để chạy theo những lời hứa rõ ràng là "quá tốt để là sự thật"? Tại sao họ lãng phí thời gian hạn hẹp và đốt sạch số tiền mồ hôi nước mắt để theo đuổi một câu chuyện cổ tích không bao giờ có thật?
+
+Tôi đã tự hỏi. Và để tôi nói cho bạn biết tại sao. Đây là câu trả lời với sự đơn giản đến sững sờ...
+
+Họ nhận ra rằng những doanh nhân thành công thành công bởi vì họ biết một điều gì đó mà người khác không biết. Điều này đúng.
+
+Nhưng nơi mà những Kẻ săn tìm cơ hội gặp rắc rối chính là suy nghĩ tiếp theo của họ. Vì họ nhìn từ bên ngoài vào, họ nhận diện sai cái "điều" mà doanh nhân thành công biết.
+
+Kẻ săn tìm cơ hội nghĩ rằng doanh nhân thành công là do họ biết cách xuất hiện đúng thời điểm – chọn đúng việc để làm trước khi bất kỳ ai khác đánh hơi thấy cơ hội... Trước khi bất kỳ ai khác biết tin.
+
+Nói cách khác, điều mà những Kẻ săn tìm cơ hội tin về những doanh nhân thành công là: Họ là những "Kẻ cơ hội thành công" (successful opportunists).
+
+Rằng họ thành công vì họ có thể ngửi thấy mùi tiền trước người khác; bạn biết đấy... những thương vụ hời, những thứ mới nhất, tin nội bộ, lỗ hổng công cụ tìm kiếm, chiến lược đấu thầu ngầm, hay chiến lược mạng xã hội không bao giờ thất bại, v.v...
+
+## NHỮNG DOANH NHÂN HÀNG ĐẦU KHÔNG PHẢI LÀ NHỮNG KẺ CƠ HỘI THÀNH CÔNG
+
+Vậy là bạn đã thấy rồi đấy. Đó chính là niềm tin sai lầm: Rằng những doanh nhân thành công là những kẻ săn tìm cơ hội thành công.
+
+Chính cái suy nghĩ đơn giản này đã châm ngòi cho vòng xoáy đi xuống của những kết quả ngày càng teo tóp. Đó là cuộc vật lộn mà mọi kẻ săn tìm cơ hội cuối cùng đều phải đối mặt.
+
+Bởi vì nếu bạn tin rằng nguyên nhân của thành công trong kinh doanh là do "săn tìm cơ hội giỏi", thì bạn cũng buộc phải tin (một cách ẩn dụ) rằng có những cục vàng thành công đang ẩn giấu đâu đó ngoài kia, nằm dưới những tảng đá.
+
+Rằng tất cả những gì họ phải làm là biết lật tảng đá nào lên, và cục vàng sẽ thuộc về họ.
+
+Điều này dẫn đến niềm tin rằng thành công chính là biết lật đúng tảng đá!
+
+Rằng ngoài kia trong thế giới này có một "kèo chắc ăn" (sure thing) đang chờ được khám phá. Và một doanh nhân thành công là người có cái mũi thính để đánh hơi ra những kèo chắc ăn như vậy.
+
+Nói cách khác, kẻ săn tìm cơ hội nghĩ rằng... những "kèo chắc ăn" chính là chất liệu tạo nên thành công... tìm được một kèo thơm và thành công của bạn được đảm bảo.
+
+Và đó chính xác là những gì những kẻ săn tìm cơ hội làm. Họ lao đi trong cuộc truy đuổi nóng bỏng những "kèo chắc ăn".
+
+Họ nhầm lẫn giữa sự bận rộn (activity) với thành tựu (accomplishment).
+
+Kết cục là họ tích lũy được một khối lượng khổng lồ các chiến thuật vụn vặt thay vì xây dựng một doanh nghiệp. Và đó là lý do tại sao hầu như mọi độc giả của bản Tuyên ngôn này cho đến tận ngày nay đều có một phản ứng "lạnh sống lưng" (visceral reaction) với cái "Biểu đồ BẠN" (You Diagram) ở trang bìa và trang 14.
+
+## 3 TRỤ CỘT CHIẾN LƯỢC ĐỂ LÀM GIÀU... LÀM THẾ NÀO ĐỂ TRỞ THÀNH MỘT DOANH NHÂN CHIẾN LƯỢC THÀNH CÔNG
+
+Nếu bạn nhận ra dù chỉ một phần nhỏ của bản thân mình trong cái "Biểu đồ BẠN" (You Diagram) hỗn độn kia, thì đã đến lúc phải thay đổi chiến lược.
+
+Ở đâu đó trên hành trình, bạn đã đi chệch hướng. Đã đến lúc bạn phải từ bỏ giấc mơ hão huyền về việc trở thành một "kẻ săn tìm cơ hội thành công" – người có phép thuật biết chính xác phải lật tảng đá nào (hay trang web, guru, sản phẩm nào) để tìm thấy những "kèo chắc ăn".
+
+Nói cách khác, đã đến lúc làm cho thành công trở nên đơn giản hơn rất nhiều.
+
+Đã đến lúc gỡ bỏ bớt các chiến thuật khỏi cái "Biểu đồ BẠN" thay vì cứ tiếp tục nhồi nhét thêm vào... Đã đến lúc dành nhiều thời gian hơn để KIẾM TIỀN (earning) và ít thời gian hơn để HỌC (learning)... Đã đến lúc xây dựng một DOANH NGHIỆP thay vì đuổi theo các cơ hội, và... Đã đến lúc cuối cùng cũng đạt được kết quả tài chính và phong cách sống mà bạn từng mơ ước khi mới bắt đầu khởi nghiệp.
+
+Đã đến lúc bạn chuyển sang cách tiếp cận chiến lược.
+
+Bạn đã thực hiện bước đầu tiên bằng việc đọc bản Tuyên ngôn này. Và đó là một khởi đầu tuyệt vời. Bây giờ, hãy để tôi chỉ cho bạn cách áp dụng nó để đưa doanh nghiệp của bạn đi lên và phát triển.
+
+Hãy nhớ rằng, tôi đã nói tôi còn hai món quà nữa dành cho bạn.
+1. Món quà đầu tiên là một báo cáo ngắn khác, tiếp nối ngay tại nơi bản Tuyên ngôn này dừng lại.
+2. Món quà thứ hai sẽ là cuộc gặp mặt trực tiếp (online) giữa chúng ta. Đó là nơi tôi sẽ chỉ cho bạn các bước cụ thể bạn phải thực hiện để thành công rực rỡ trên mạng.
+
+Và tất cả đều **MIỄN PHÍ**!
+
+Bây giờ, bạn có thể tự hỏi tại sao tôi lại làm tất cả những điều này cho bạn miễn phí. Nếu vậy, hãy để tôi nói cho bạn biết...
+
+Trong mọi mối quan hệ kinh doanh, luôn phải có ai đó đi nước cờ đầu tiên. Thêm vào đó, ai đó phải thực hiện khoản đầu tư đầu tiên và do đó phải chịu rủi ro đầu tiên. Bạn đã đi nước cờ đầu tiên bằng cách đọc bản Tuyên ngôn này. Vì thế, tôi sẵn lòng đầu tư vào bạn và doanh nghiệp của bạn.
+
+Bạn thấy đấy, tôi đã học được một sự thật đơn giản từ kinh nghiệm: Bạn càng trở thành một doanh nhân giỏi hơn, bạn sẽ càng trở thành một khách hàng tốt hơn của tôi.
+
+Vì vậy, việc tôi chấp nhận rủi ro và đầu tư toàn lực vào bạn là hoàn toàn hợp lý. Nếu chúng ta phù hợp với nhau, tôi sẽ gặt hái phần thưởng sau này. Nếu không, bạn sẽ nhận được một nền giáo dục kinh doanh vô song hoàn toàn miễn phí.
+
+VỚI ĐIỀU ĐÓ ĐÃ ĐƯỢC NÓI RA -- ĐÂY LÀ NHỮNG GÌ BẠN CẦN LÀM NGAY BÂY GIỜ:
+
+Truy cập vào www.strategicprofits.com/event.
+
+Ở đó, bạn sẽ có thể đăng ký tham gia hội thảo trên web (web-seminar) của tôi: "Từ Bế Tắc Đến Tự Do: Ba Trụ Cột Chiến Lược Giải Mã Bí Ẩn Của Thành Công Trực Tuyến".
+
+Chúng tôi thường thu phí $197 cho chương trình này. Nhưng với bạn, nó miễn phí.
+
+Sau đó, vài phút sau, hãy kiểm tra hộp thư email của bạn. Đường link dẫn đến báo cáo tiếp theo... "Chương Còn Thiếu" (The Missing Chapter)... sẽ đang chờ bạn.
+
+Hãy đọc báo cáo đó càng sớm càng tốt. Nó tiếp nối chính xác nơi bản Tuyên ngôn này dừng lại. Nó sẽ chỉ cho bạn yếu tố quan trọng nhất trong thành công kinh doanh của bạn. Và việc bạn đọc nó trước khi thực hiện bất kỳ hành động nào khác hay đưa ra quyết định kinh doanh nào là điều bắt buộc. Bạn sẽ hiểu tại sao sau khi đọc nó.
+
+Với kiến thức từ hai bản báo cáo, bạn sẽ được trang bị tận răng và sẵn sàng để tôi chỉ cho bạn cách áp dụng mọi thứ. Và đó chính xác là những gì tôi sẽ tiết lộ trong buổi hội thảo web hai phần.
+
+TÓM LẠI - ĐÂY LÀ NHỮNG GÌ BẠN CẦN LÀM NGAY BÂY GIỜ:
+
+Ngay lập tức giữ chỗ cho buổi hội thảo web của tôi. Truy cập www.strategicprofits.com/event.
+
+Kiểm tra email và tải xuống báo cáo tiếp theo... "Chương Còn Thiếu". Hãy chắc chắn đọc nó NGAY LẬP TỨC (ASAP).
+
+Khóa lịch lại và đảm bảo không có gì cản trở bạn thẩm thấu 7 bước quan trọng mà bạn phải thực hiện để thành công với tất cả những gì tôi đã và sẽ chỉ cho bạn trong thời gian chúng ta bên nhau.
+
+Đừng trì hoãn - hãy làm việc này ngay bây giờ - truy cập... www.strategicprofits.com/event
+
+Hướng tới lợi nhuận cao hơn và xa hơn nữa,
+
+_**Rich Schefren**_
+
+## ĐỘC GIẢ NÓI GÌ VỀ RICH - VÀ TUYÊN NGÔN KINH DOANH INTERNET...
+
+_"Dù bạn là người mới làm Internet marketing hay đã ở trong ngành này một thời gian, bản báo cáo này thực sự sẽ mở mắt cho bạn. Nó đã mở mắt cho tôi! Đây chắc chắn là tài liệu phải đọc cho bất kỳ ai tham gia vào Internet Marketing."_ — Dan
+
+_"Rich Schefren đã lấy một số khái niệm mà anh ấy từng chia sẻ với các guru trực tuyến và đưa chúng vào một báo cáo đặc biệt gọi là Tuyên Ngôn Kinh Doanh Internet. Báo cáo này là VÀNG RÒNG. Nó không phải là thư bán hàng hay một bài viết tự tâng bốc bản thân. Nó sẽ gia tăng lợi nhuận ròng của bạn chỉ bằng việc đọc nó."_ — Armand Morin
 
