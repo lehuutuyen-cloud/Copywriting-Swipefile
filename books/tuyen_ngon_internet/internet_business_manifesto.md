@@ -800,6 +800,86 @@ Chúng ta làm việc 6 ngày một tuần và dành khoảng 10 tiếng mỗi n
 
 Hoặc cụ thể hơn, bạn cần kiếm được 833,22 đô-la mỗi ngày, sáu ngày một tuần, trong suốt năm mươi tuần một năm.
 
+## CÁCH DỄ NHẤT ĐỂ TĂNG GIÁ TRỊ GIỜ LÀM VIỆC CỦA BẠN
+
+Nếu bạn đang tự hỏi: _"Làm thế quái nào tôi có thể đạt được mức lương theo giờ khủng khiếp đó, mỗi ngày?"_
+
+Câu trả lời sẽ không nằm trong một cuốn Ebook hay một khóa học tự học nào cả.
+
+Câu trả lời là: Bạn cần xây dựng một **doanh nghiệp có khả năng mở rộng (Scalable Business)**, một doanh nghiệp cung cấp cho bạn – người chủ – **mức đòn bẩy (Leverage) tối đa nhất có thể**.
+
+Đó là lý do tại sao việc biết Giá trị Giờ làm việc của mình lại quan trọng đến vậy. Nó phơi bày cho bạn thấy, có lẽ là lần đầu tiên, lý do tại sao bạn không kiếm được số tiền mình luôn mơ ước.
+
+Và câu trả lời trần trụi là: **Doanh nghiệp hiện tại của bạn KHÔNG được thiết lập để giúp bạn đạt được (chứ đừng nói là vượt qua) mức lương đó!**
+
+Lý do tiếp theo khiến bạn cần biết con số này là: Nó phục vụ như một **thước đo** (barometer) để xác định **hoạt động nào bạn nên TỰ LÀM, và hoạt động nào bạn nên THUÊ NGOÀI (Outsourcing)**.
+
+Bí quyết ở đây là: **Hãy kiên định tập trung vào những hoạt động có khả năng TĂNG giá trị giờ làm việc của bạn**.
+
+Hãy bắt đầu **ủy quyền** (delegating) và **thuê ngoài** những công việc cần phải làm nhưng có chi phí thấp hơn mức lương theo giờ mà bạn cần tạo ra.
+
+Như vậy, chúng ta vừa làm nổi bật hai khái niệm sống còn để tăng thu nhập: **Khả năng mở rộng** (Scalability) và **Thuê ngoài hiệu quả** (Effectively Outsourcing).
+
+Hãy cùng xem xét Khả năng mở rộng trước.
+
+## SỬ DỤNG ĐÒN BẨY & KHẢ NĂNG MỞ RỘNG CÓ THỂ GIÚP BẠN GIÀU CÓ
+
+Trong chương trình huấn luyện của mình, tôi dành một lượng thời gian đáng kể để tập trung vào việc xây dựng **đòn bẩy** và **khả năng mở rộng** cho doanh nghiệp của bạn.
+
+<img width="304" height="227" alt="image" src="https://github.com/user-attachments/assets/8e6d387c-91eb-4fde-ae6b-8c28351d92c5" />
+
+> **TẠO RA QUY MÔ TRONG DOANH NGHIỆP CỦA BẠN**
+>- Nếu bạn không biết làm thế nào để tạo ra lợi nhuận vượt xa mức lương theo giờ của mình, thì thường là bạn đang gặp vấn đề về đòn bẩy (leverage problem), chứ không phải vấn đề về kiến thức (knowledge problem).
+>- Bạn gia tăng đòn bẩy bằng cách:
+>>1. Tách biệt (Isolating) các hoạt động tạo ra nhiều thu nhập hơn chi phí bỏ ra để hoàn thành nó.
+>>2. Gia tăng một hoặc nhiều biến số trong bất kỳ công thức sinh lời nào.
+>>3. Xây dựng và triển khai một kế hoạch kinh doanh tạo ra đòn bẩy thông qua sự tập trung cao độ và chiến lược đúng đắn.
+
+Thật không may, tôi không có đủ không gian hay thời gian để đi vào chi tiết quá sâu ở đây, nhưng tôi chắc chắn có thể giúp bạn bắt đầu.
+
+Hãy nhìn vào slide bên trái – điểm đầu tiên là hầu hết mọi người không bao giờ đạt được mức lương theo giờ mục tiêu của họ vì họ tin một cách sai lầm rằng điều ngăn cản họ kiếm được số tiền đó là do **thiếu kiến thức**.
+
+Và mặc dù lý thuyết "thiếu kiến thức" có thể có một phần sự thật, nó thực sự chỉ đúng nếu bạn là người hoàn toàn mới bước chân vào Internet và có kiến thức tiếp thị rất hạn chế. Nếu bạn không thuộc nhóm đó, thì **kiến thức không phải là vấn đề chính của bạn**.
+
+Để minh họa quan điểm của tôi về việc xây dựng đòn bẩy trong doanh nghiệp, đây là một câu chuyện mà chúng ta sẽ dùng làm nền tảng.
+
+Trong năm thứ ba đại học, hai trong số các lớp tôi học là Triết học và Văn học so sánh. Bây giờ, tôi không nhớ hết các chi tiết nhưng đối với cả hai lớp, phần lớn điểm số của chúng tôi dựa trên bài luận cuối kỳ.
+
+Và vì có một số điểm chồng chéo giữa hai khóa học, tôi đã tìm ra cách để **viết một bài luận cho cả hai lớp**.
+
+Sau đó, tôi có thể dành nhiều thời gian hơn cho bài luận duy nhất đó (nhưng vẫn ít hơn thời gian tôi sẽ phải dành cho hai bài) và kết quả là tôi đạt điểm 4.0 ở cả hai lớp với **ít công sức hơn** so với yêu cầu ban đầu.
+
+Bạn có đang theo kịp tôi không?
+
+Mục tiêu ở trường học là đạt điểm cao. Mục tiêu trong kinh doanh là tăng lợi nhuận. **Bất cứ điều gì làm cho các hoạt động kinh doanh hiện tại của bạn mang lại nhiều lợi nhuận hơn mà không cần làm thêm việc, đó chính là gia tăng ĐÒN BẨY**.
+
+## KHÁI NIỆM "LÀM ÍT HƠN MÀ HƯỞNG NHIỀU HƠN"
+
+Nếu bạn đã hiểu được điều này, bạn sẽ thấy rằng bạn muốn công việc mình làm trong doanh nghiệp phải phục vụ bạn theo nhiều cách nhất có thể.
+
+Bạn làm điều này bằng cách **bám chặt vào một thị trường ngách**, phát triển một **phễu sản phẩm toàn diện**, và thiết lập các hoạt động bán chéo (cross-sell), bán thêm (upsells), và bán phía sau (back-ends) cho khán giả của mình.
+
+Bằng cách liên tục khai thác cái ngách duy nhất đó – mỗi sản phẩm tiếp theo bạn tung ra sẽ ngày càng mang lại nhiều lợi nhuận hơn. Điều này có nghĩa là **đòn bẩy của bạn sẽ tiếp tục lớn hơn và lớn hơn nữa**.
+
+Hãy giả sử bạn có được 1.000 khách hàng và 100 đối tác (affiliates) từ sản phẩm đầu tiên. Khi bạn ra mắt sản phẩm thứ hai, bạn đã có sẵn một danh sách khách hàng để chào hàng và bạn có 100 đối tác ban đầu để làm bàn đạp tăng trưởng.
+
+Chưa hết, bất kỳ khách hàng mới nào bạn có được từ sản phẩm thứ hai cũng có thể ấn tượng đủ để muốn mua thêm những gì bạn có, vì vậy họ tìm kiếm và thấy sản phẩm đầu tiên của bạn, và họ mua nó luôn.
+
+Và cứ thế, cứ thế, và cứ thế...
+
+Nói tóm lại, đây chính là cách tạo ra **khả năng mở rộng (scalability)** và **đòn bẩy**. Rõ ràng là còn có nhiều phương pháp và chiến lược nâng cao hơn, nhưng nếu bạn không **tập trung cao độ**, thì tất cả những thứ cao siêu đó sẽ chẳng giúp ích gì cho bạn.
+
+Điểm mấu chốt là: Nếu bạn không thể kiếm được mức lương theo giờ mục tiêu của mình ngay bây giờ – bạn bắt buộc phải tập trung để bắt đầu đạt được ngày càng nhiều đòn bẩy hơn. **Không có gì quan trọng hơn thế. Chấm hết**.
+
+
+
+
+
+
+
+
+
+
 
 
 
