@@ -871,12 +871,226 @@ Nói tóm lại, đây chính là cách tạo ra **khả năng mở rộng (scal
 
 Điểm mấu chốt là: Nếu bạn không thể kiếm được mức lương theo giờ mục tiêu của mình ngay bây giờ – bạn bắt buộc phải tập trung để bắt đầu đạt được ngày càng nhiều đòn bẩy hơn. **Không có gì quan trọng hơn thế. Chấm hết**.
 
+## SỰ KHÁC BIỆT THỰC SỰ GIỮA "THUÊ NGOÀI" (OUTSOURCING) VÀ "GIAO VIỆC VẶT" (OUT-TASKING)
 
+Để thành công trên mạng, đơn giản là bạn **phải** học cách thuê ngoài một cách hiệu quả.
 
+Thật không may, hầu hết mọi người đang tiếp cận việc thuê ngoài hoàn toàn sai lầm. Tư duy sai lệch của họ bắt đầu ngay từ câu hỏi đầu tiên mà họ tự hỏi mình khi cân nhắc việc thuê người.
 
+Hầu hết những doanh nhân Internet đang chật vật đều tự hỏi: **"Mình có thể thuê ai làm việc này với giá RẺ NHẤT ở đâu hoặc bằng cách nào?".**
 
+Câu trả lời cho câu hỏi trên dẫn đến vô số thất vọng, bực bội, bỏ lỡ cơ hội và đau khổ. Lý do là vì nó thể hiện một mức độ thiếu hiểu biết sâu sắc về những gì tạo nên thành công của một doanh nghiệp. Thẳng thắn mà nói, câu hỏi đó gần như là ngớ ngẩn...
 
+Trước hết, đó là một câu hỏi sai vì giải pháp thuê ngoài rẻ nhất hầu như **không bao giờ** là đáng tin cậy nhất, nhanh nhất, am hiểu nhất, hay là lựa chọn tốt nhất.
 
+Sau tất cả, câu nói cổ "tiền nào của nấy" thực sự rất đúng. Và vì chúng ta đã xác lập rằng thời gian của bạn có giá trị – khi bạn lãng phí nó vào việc phải liên tục tốn thời gian cho một hoạt động ngay cả khi bạn đã thuê người làm nó, thì cái giá bạn phải trả đắt hơn rất nhiều so với bạn nghĩ.
+
+Trong một cuộc phỏng vấn với Armand Morin năm ngoái, tôi đã nói về sự khác biệt giữa **giao việc vặt** (out-tasking) và **thuê ngoài** (outsourcing). Tôi đã rất ngạc nhiên về số lượng người đã liên hệ lại với tôi chỉ để cảm ơn tôi vì sự phân biệt duy nhất này.
+
+## BẠN ĐANG TỰ HỎI MÌNH CÂU HỎI NÀO KHI CÂN NHẮC THUÊ NGOÀI?
+
+Khi bạn tự hỏi: *"Làm thế nào để mình thuê người làm việc này với giá rẻ nhất?"*, bạn đang thực hiện cách tiếp cận **Giao việc vặt** (Out-tasking).
+
+Sự tập trung của bạn chỉ đơn thuần là làm cho xong việc. Khi đi theo hướng này, bạn buộc phải liên tục trải qua quy trình tuyển chọn mỗi khi cần hoàn thành một công việc.
+
+Tôi gọi đây là **"vòng xoáy thay người"** (outsourcing turnover). Khi bạn tính tổng thời gian bạn phải bỏ ra để tìm kiếm và tuyển chọn một người mới mỗi lần, cái giá phải trả là cực kỳ đắt đỏ.
+
+Điều tồi tệ hơn nữa là rủi ro khi làm việc với người mới luôn cao hơn nhiều so với một đối tác đã có lịch sử làm việc uy tín và giao hàng đúng hẹn.
+
+**Thuê ngoài thực sự** (Outsourcing) là về việc phát triển mối quan hệ dài hạn với những người có chuyên môn nằm ngoài khả năng của bạn.
+
+Câu hỏi tốt hơn, khôn ngoan hơn là:
+
+**"Làm thế nào tôi có thể DUY TRÌ QUYỀN TRUY CẬP đến một nhân tài có thể làm [việc X] trong dài hạn, để chúng ta có thể chớp lấy cơ hội ngay khi nó xuất hiện và luôn được đảm bảo về chất lượng công việc?"**
+
+Khi bạn tiếp cận theo cách này, bạn sẽ xây dựng được một **biệt đội các chuyên gia độc lập** luôn sẵn sàng cho cuộc chinh phạt kinh doanh tiếp theo của bạn. Theo thời gian, bạn và đội ngũ của mình sẽ làm việc ăn ý hơn, và chính công ty của bạn là người hưởng lợi nhiều nhất.
+
+Một số khách hàng của tôi thậm chí đã bắt đầu đề nghị mức **thưởng 25%** trong các bài đăng tuyển dụng cho các dự án thuê ngoài – nếu công việc được hoàn thành đúng hạn, đúng yêu cầu và không cần sự can thiệp quá nhiều từ họ.
+
+Và từng người trong số họ đều nói với tôi rằng: **Đó là số tiền đáng giá nhất họ từng chi**.
+
+Bây giờ, chúng ta sẽ xem xét một cách để làm cho doanh nghiệp và các mối quan hệ thuê ngoài của bạn sinh lời gấp 10 lần. Nhưng trước hết, tôi có một vài tin xấu...
+
+## CÁCH LÀM CHO DOANH NGHIỆP VÀ CÁC MỐI QUAN HỆ THUÊ NGOÀI SINH LỜI GẤP 10 LẦN
+
+Tin xấu là: Ngay cả khi bạn chủ động thiết kế các mối quan hệ thuê ngoài một cách bài bản, mọi thứ vẫn có thể đi chệch hướng.
+
+Hãy chú ý thật kỹ đến những vấn đề được liệt kê bên trái (trong slide). Kinh nghiệm của tôi cho thấy ba nguyên nhân này không chỉ gây ra những thách thức trong việc thuê ngoài mà còn nhiều vấn đề khác nữa. Thực tế, nếu bạn yếu kém ở bất kỳ kỹ năng nào trong ba nhóm này, sự tăng trưởng của doanh nghiệp bạn chắc chắn sẽ bị kìm hãm.
+
+Vì mỗi kỹ năng này đều mang tính sống còn đối với thành công của bạn, hãy cùng mổ xẻ từng vấn đề thuê ngoài một cách riêng biệt.
+
+<img width="309" height="230" alt="image" src="https://github.com/user-attachments/assets/66b69152-d298-43b1-b745-d7a3dee403dc" />
+
+> **NGHIÊN CỨU VỀ THUÊ NGOÀI CỦA FORRESTER**
+> 
+> Như được tiết lộ trong một cuộc khảo sát với các công ty và tổ chức đang mua dịch vụ thuê ngoài:
+> - 53% báo cáo rằng họ gặp thách thức trong việc thuê ngoài vì công ty của họ thiếu kỹ năng quản lý dự án (lack project management skills).
+> - 58% báo cáo rằng họ thiếu một quy trình tốt để chỉ định công việc (lack a good process for specifying the work).
+> - 48% nói rằng họ không có các thước đo phù hợp để đánh giá hiệu suất (did not have the right metrics for measuring performance). 
+
+Có hai cách mà công việc nên được thực hiện bên trong doanh nghiệp của bạn: **HỆ THỐNG** (Systems) và **DỰ ÁN** (Projects).
+1. Nếu đó là một hoạt động diễn ra liên tục, hoặc một việc được làm nhiều hơn một lần, bạn nên phát triển một **cách thức được hệ thống hóa** (systemized way) để thực hiện nó bên trong doanh nghiệp.
+2. Nếu nó là tạm thời, hướng đến mục tiêu cụ thể, có điểm bắt đầu và kết thúc, và là duy nhất, nó nên được quản lý như một **dự án**.
+
+<img width="316" height="247" alt="image" src="https://github.com/user-attachments/assets/8155d7ea-dda9-49dc-9d14-9b94f834b2f3" />
+
+> **2 CÁCH CÔNG VIỆC NÊN ĐƯỢC THỰC HIỆN TRONG DOANH NGHIỆP CỦA BẠN**
+> 
+> HỆ THỐNG & DỰ ÁN (Systems & Projects)
+
+Tôi khá ngạc nhiên khi chưa từng nghe ai khác nói về sự phân biệt này (giữa hệ thống và dự án) bởi vì đó thực sự là bản chất của tinh thần doanh nhân.
+
+**Làm doanh nhân là công việc phát triển, cài đặt và liên tục cải tiến các HỆ THỐNG bên trong doanh nghiệp của bạn, đồng thời tham gia vào một số lượng hạn chế các DỰ ÁN.**
+
+## BẠN LÀ MỘT QUẢN LÝ DỰ ÁN KHÔNG ĐƯỢC ĐÀO TẠO NHƯNG LẠI ĐANG CỐ QUẢN LÝ CÁC DỰ ÁN!
+
+Quản lý dự án là một kỹ năng cực kỳ quan trọng đối với doanh nhân.
+
+Tuy nhiên, hầu hết (nếu không muốn nói là tất cả) những doanh nhân tôi gặp đều là những người quản lý dự án "tay ngang", chưa qua đào tạo, nhưng lại đang phải gồng mình quản lý hàng tá dự án.
+
+Hãy thử nghĩ xem điều đó **nực cười** đến mức nào.
+
+Lời khuyên của tôi dành cho bạn là: Nếu bạn đang phải quản lý các dự án, thì việc phát triển kỹ năng quản lý dự án của mình là một ý tưởng cực kỳ sáng suốt.
+
+Đó là lý do tại sao tôi dạy quản lý dự án cho **mọi** khách hàng của mình, bởi vì nó thực sự quan trọng đến thế.
+
+## CÁCH CÔNG VIỆC NÊN ĐƯỢC THỰC HIỆN BÊN TRONG & BÊN NGOÀI DOANH NGHIỆP CỦA BẠN
+
+Nguyên nhân tiếp theo mà Forrester Research chỉ ra cho những thách thức khi thuê ngoài là: **"Thiếu một quy trình tốt để cụ thể hóa công việc".**
+
+<img width="307" height="237" alt="image" src="https://github.com/user-attachments/assets/99a82566-5a5d-4f7e-8d5e-3fa4e907ca4d" />
+
+> **CÁC THÀNH PHẦN CỦA SƠ ĐỒ QUY TRÌNH** (Process Map Elements)
+>
+> Cách bạn diễn đạt những gì đang diễn ra trong công ty của mình (How you represent what is going on in your company)
+>>- **Làn Bơi / Phân Luồng (Swim Lanes)**: Các đường kẻ dọc phân chia trách nhiệm (ai làm việc gì).
+>>- **Hình Bầu Dục (Oval)** = Bắt đầu và Kết thúc (Start and Stop): Điểm khởi đầu và điểm kết thúc của quy trình.
+>>- **Hình Chữ Nhật/Vuông (Squares)** = Các Hoạt động (Activities): Các công việc cụ thể cần thực hiện (Ví dụ: Viết email, Gửi hàng).
+>>- **Hình Thoi (Diamonds)** = Các Quyết định (Decisions): Nơi quy trình rẽ nhánh dựa trên câu hỏi Có/Không (Ví dụ: Khách có mua không? Nếu có -> Làm A, Nếu không -> Làm B).
+>>- **Mũi tên = Hướng Dòng Chảy (Flow Direction)**: Trình tự thực hiện.
+
+Đây cũng chính là trở ngại ngăn cản bạn có được nhiều đòn bẩy hơn trong doanh nghiệp, và là lý do tại sao các doanh nhân luôn chật vật với việc hệ thống hóa công việc kinh doanh của mình.
+
+Một trong những cách tốt nhất để tài liệu hóa cách công việc nên được thực hiện, cũng như cách nó tương tác với các hoạt động khác bên trong doanh nghiệp, là thông qua **Lập Sơ đồ Quy trình** (Process Mapping).
+
+Edward Deming, cha đẻ của phong trào quản lý chất lượng và là người chịu trách nhiệm cho sự trỗi dậy thần kỳ của Nhật Bản sau Thế chiến II, đã từng nói:
+
+**"Nếu bạn không thể mô tả những gì bạn đang làm như một quy trình, thì bạn không biết mình đang làm cái quái gì đâu."**
+
+Tôi không thể đồng ý hơn với điều này.
+
+Tin tốt là việc lập sơ đồ quy trình thực sự rất đơn giản. Chỉ có **4 yếu tố** khác nhau trong một sơ đồ quy trình – Chỉ thế thôi!
+
+- Hình bầu dục đại diện cho **Bắt đầu** và **Kết thúc** (nên bạn thực sự chỉ dùng nó hai lần).
+- Các mũi tên chỉ cho bạn thấy **hướng đi**.
+- Vậy là bạn chỉ còn lại đúng hai biểu tượng để sử dụng: biểu tượng **Hành động** hoặc biểu tượng **Quyết định**.
+
+Vẻ đẹp của phương pháp này nằm ở chỗ: **Bất cứ việc gì bạn làm đều có thể được tối giản hóa về cốt lõi của nó bằng phương pháp này**.
+
+Một lý do khiến sơ đồ quy trình là công cụ quan trọng bậc nhất là nó giúp việc tối ưu hóa cách bạn làm việc trở nên cực kỳ dễ dàng. Lần đầu tiên bạn làm bất cứ hoạt động nào trong doanh nghiệp, thường thì đó chưa phải là cách tốt nhất có thể.
+
+Khi bạn bắt đầu vẽ ra bản đồ quy trình, bạn sẽ rất dễ dàng nhận thấy tại sao cách làm hiện tại của mình lại kém hiệu quả; quan trọng hơn, bạn sẽ thấy ngay những điểm có thể cải thiện dễ dàng.
+
+Việc nhìn nhận một quy trình dưới dạng hình ảnh trực quan giúp bạn dễ dàng thấu hiểu dòng chảy (flow), các tương tác, cũng như các quy trình con và hoạt động con đang kìm hãm hiệu suất của bạn.
+
+Nghe này, bạn không thể nào đạt được hiệu suất tối ưu trong doanh nghiệp với những quy trình bị lỗi.
+
+Các chuyên gia quản lý chất lượng cho chúng ta biết rằng **94%** các sự cố hay thất bại trong doanh nghiệp là do **quy trình bị lỗi**, không phải do vấn đề con người, cũng không phải do bất cứ thứ gì khác – đó là sự gãy đổ trong quy trình.
+
+Đó là lý do tại sao việc sở hữu một công cụ mạnh mẽ như Sơ đồ Quy trình là yếu tố sống còn để tinh gọn bộ máy vận hành hiện tại của bạn.
+
+Tại công ty của tôi, chúng tôi lập sơ đồ quy trình cho **mọi thứ** chúng tôi làm. Điều này cho phép chúng tôi dễ dàng đào tạo nhân sự mới, dễ dàng thuê ngoài các chức năng, và liên tục cải tiến hiệu suất tổng thể.
+
+Dưới đây là một ví dụ về sơ đồ quy trình từ công ty của tôi. Nó hơi cũ rồi (nghĩa là chúng tôi không còn dùng quy trình này nữa), nhưng các nguyên lý nền tảng vẫn ở đó để bạn học hỏi.
+
+<img width="397" height="305" alt="image" src="https://github.com/user-attachments/assets/96fa9e50-dfa2-4faf-95b6-877979801a73" />
+
+_(Tham chiếu đến hình ảnh sơ đồ "Niche Product Roll-Out Sheet" mà chúng ta sẽ xem ở phần tiếp theo)_
+
+> ### MỘT SƠ ĐỒ QUY TRÌNH - BẢNG TUNG SẢN PHẨM NGÁCH
+>
+> *(A Process Map - Niche Product Roll-Out Sheet)*
+>
+> Sơ đồ này được chia thành **4 Làn bơi (Swim Lanes)** tương ứng với 4 nhân sự: **RICH**, **SHEILA**, **GHOSTWRITER** (Người viết thuê), và **ALEX**.
+>
+> #### 1. LÀN CỦA RICH (Người khởi xướng)
+> 
+>> * **[BẮT ĐẦU]**: Chọn một Ngách (*Pick a Niche*) -> Chuyển sang **Sheila**.
+>> * *(Sau khi Sheila nghiên cứu)*:
+>>    * Nếu Sheila nói **"NO"** (Ngách không tốt) -> Rich phải **chọn lại ngách khác**.
+>>    * Nếu Sheila nói **"YES"**: Rich nhận lại kết quả và thực hiện hành động:
+>>        * **Mua Tên Miền + Chọn Top 5 Từ Khóa** (*Domain Procured + Top 5 Keywords Selected*).
+>>        * -> Gửi thông tin **"Domain Setup Sheet"** cho **Alex**.
+>>        * -> Gửi thông tin **"Product Creation Sheet"** cho **Ghostwriter**.
+>
+> #### 2. LÀN CỦA SHEILA (Người nghiên cứu)
+>
+> * **Hành động**: Nghiên cứu Từ khóa Hoàn tất (*Keyword Research Done*).
+> * **Quyết định (Hình thoi)**: Ngách có Tốt không? (*Good Niche?*).
+>>    * **NO** (Không): Quay lại **Rich** để chọn ngách mới.
+>>    * **YES** (Có): Thực hiện hành động tiếp theo.
+>
+> * **Hành động**: Yêu cầu Tên miền + Top 25 Từ khóa kèm số liệu (*Domain Request + Top 25 Keywords w/ numbers*) -> Chuyển lại cho **Rich**.
+>
+> #### 3. LÀN CỦA GHOSTWRITER (Người thực thi nội dung)
+>
+> * *(Nhận yêu cầu từ Rich)*: **Hành động**: Sản phẩm được Tạo ra (*Product Created*).
+> * *(Chuyển sang Sheila để duyệt)*:
+> * **Quyết định**: Sản phẩm đã Duyệt chưa? (*Product Reviewed*).
+>>    * -> Nếu cần sửa: **Sửa đổi Sản phẩm** (*Product Revisions*).
+>>    * -> Nếu ổn: **Đặt hàng Đồ họa** (*Graphics Ordered*).
+>
+> #### 4. LÀN CỦA ALEX (Người kỹ thuật)
+>
+> * *(Nhận yêu cầu từ Rich)*:
+>>    * **Hành động**: Cài đặt Tên miền lên Server (*Domain set on server*).
+>>    * **Hành động**: Tải lên các Trang giữ chỗ (*Place Holder Pages Uploaded*).
+>>    * **Hành động**: Cài đặt Phần mềm Theo dõi (*Tracking Software Installed*).
+
+Bạn có thấy việc hiểu chuyện gì đang diễn ra trở nên dễ dàng thế nào không?
+
+Và nếu bạn là bất kỳ ai trong số 4 người chịu trách nhiệm cho các hoạt động trên bản đồ này, bạn có thấy dễ hiểu việc mình làm liên quan thế nào đến toàn bộ quy trình không?
+
+Cuối cùng, bạn có thấy dễ dàng để hiểu **ai nhận cái gì từ ai** không?
+
+Nếu bạn trả lời CÓ cho các câu hỏi trên, bạn nên bắt đầu lập sơ đồ quy trình ngay lập tức.
+
+Hãy cùng đi tiếp nào...
+
+## SỐ LIỆU: NGÔN NGỮ CỦA KINH DOANH (VÀ LỢI NHUẬN)
+
+Forrester Research liệt kê nguyên nhân cuối cùng gây ra những thách thức trong việc thuê ngoài là: **Không có các thước đo (metrics) phù hợp để đánh giá hiệu suất**.
+
+Hầu hết dân marketing online đều hiểu về các chỉ số website (như lượt truy cập, tỉ lệ thoát...), nhưng họ không thực sự đánh giá hết được tầm quan trọng của việc dùng số liệu để chấm điểm hiệu suất hiện tại, phát hiện cơ hội, và quản lý doanh nghiệp (cũng như quản lý các mối quan hệ thuê ngoài) một cách hiệu quả và dễ dàng đến thế nào.
+
+Hãy xem xét việc sử dụng số liệu trong thuê ngoài. Khi phát triển một mối quan hệ thuê ngoài, việc sử dụng **Thỏa thuận Mức độ Dịch vụ** (SLA - Service Level Agreement) là một ý tưởng cực kỳ hay.
+
+Về cơ bản, đây là một thỏa thuận giữa doanh nghiệp của bạn và bên thuê ngoài về cách thức đo lường hiệu suất (các con số) và đâu là **mức độ phục vụ tối thiểu** có thể chấp nhận được.
+
+Hầu hết các doanh nhân online không làm điều này, và do đó họ không bao giờ cho bên thuê ngoài biết công việc của họ sẽ được chấm điểm như thế nào. Kết quả là họ nhận về những sản phẩm dưới chuẩn.
+
+Các chỉ số sẽ thay đổi tùy thuộc vào quy trình được thuê ngoài, nhưng đây là một vài nguyên tắc bạn cần tuân thủ khi lựa chọn chỉ số:
+- **Phải đồng nhất** với mục tiêu của quy trình.
+- **Thúc đẩy** những hành vi 'đúng đắn'.
+- **Có thể hành động được** (Actionable) và **Khách quan**.
+- **Không quá khó** để xác định/đo lường.
+
+Rõ ràng là còn rất nhiều điều để nói về các con số, nhưng nếu bạn chỉ cần bắt đầu tư duy về việc dùng số liệu nào để đánh giá hiệu suất của chính mình và các đối tác thuê ngoài, bạn đã đi trước hàng chục năm ánh sáng so với hầu hết các nhà tiếp thị online hiện nay.
+
+## TÓM TẮT NHANH CÁC NGUYÊN TẮC XÂY DỰNG DOANH NGHIỆP ONLINE
+
+Những gì tôi đã nỗ lực làm trong bản tuyên ngôn này là giúp bạn tư duy về công việc kinh doanh của mình theo một cách hoàn toàn khác so với trước đây. Dưới đây là bản tóm tắt nhanh:
+1. **Vẫn còn thời gian** để bạn chiếm lĩnh thị trường ngách trực tuyến của mình, xây dựng một doanh nghiệp quanh nó và trở nên rất giàu có, nhưng cánh cửa cơ hội này **sẽ không mở mãi đâu**.
+2. Để có một doanh nghiệp thực sự, bạn phải có một **Tầm nhìn** và tạo ra một **Chiến lược** để đạt được tầm nhìn đó. Nếu làm được điều này, bạn sẽ rời bỏ thế giới của những "Kẻ săn tìm cơ hội" và bước vào thế giới của những **Doanh nhân**.
+3. **Hãy ngừng việc chạy đi gom nhặt các chiến thuật vụn vặt**. Chỉ mua các sản phẩm và dịch vụ nào thực sự hỗ trợ cho Chiến lược của bạn trong việc đạt được Tầm nhìn.
+4. Hãy nhận ra rằng **thời gian là tất cả những gì bạn có**, vì vậy bạn cần biết giá trị hiện tại của nó và có một kế hoạch cụ thể để gia tăng giá trị đó.
+5. Luôn nhớ rằng bạn cần xây dựng một doanh nghiệp xoay quanh **Khả năng mở rộng** (Scalability) và **Đòn bẩy** (Leverage).
+6. Phải biết sự khác biệt giữa **Giao việc vặt** (Out-tasking) và **Thuê ngoài** (Outsourcing), và xây dựng một mạng lưới các mối quan hệ để bạn có quyền truy cập đến những freelancer tài năng bất cứ khi nào bạn cần.
+7. Nghiên cứu và sử dụng các phương pháp **Quản lý Dự án** để phát triển doanh nghiệp.
+8. **Lập Sơ đồ Quy trình** (Process Map) cho cách làm việc của bạn và luôn tìm cách cải tiến liên tục các quy trình đó.
+9. Cố gắng tối giản mọi hoạt động và mối quan hệ xuống thành một **Chỉ số cốt lõi** (Core Metric) giúp bạn dễ dàng đo lường hiệu suất.
+
+Nếu bạn tuân theo những gợi ý này, bạn sẽ đi đúng hướng trên con đường gia tăng thu nhập trong khi giảm thiểu căng thẳng và giờ làm việc.
 
 
 
