@@ -664,7 +664,27 @@ Tất cả đều xảy ra trong khi lợi nhuận của họ **VẪN TIẾP T�
 
 *(Rich tự giới thiệu về mô hình coaching của mình, nhấn mạnh sự cam kết và giới hạn số lượng)*
 
+## BẠN CÓ BIẾT GIÁ TRỊ MỘT GIỜ LÀM VIỆC CỦA MÌNH LÀ BAO NHIÊU KHÔNG?
 
+Tôi không có ý muốn triết lý hóa mọi thứ, nhưng bạn đã bao giờ thực sự nghĩ về thời gian của mình chưa? **Nó chính là cuộc đời bạn.**
+
+Nếu thực sự suy ngẫm, thời gian là tất cả những gì bạn có. Hơn nữa, không có thứ gọi là "thời gian rảnh miễn phí" (*free time*).
+
+Bạn không thể tiết kiệm thời gian rảnh để dùng sau. Bạn có thể có thời gian giải trí (*leisure time*), nhưng đó không phải là thời gian miễn phí.
+
+Khi bạn lãng phí thời gian trước máy tính, lướt web vô định, và tự biện minh rằng đó là "thời gian rảnh" – thực chất, bạn đang lãng phí một phần cuộc đời mình.
+
+Tất cả thời gian đều có giá trị. Và cách bạn nghĩ về thời gian sẽ ảnh hưởng đến mọi thứ xảy ra trong kinh doanh và cuộc sống của bạn.
+
+**Nói tóm lại: Bạn phải tự định giá thời gian của mình trước khi bất kỳ ai khác làm điều đó.**
+
+Tôi luôn sốc khi thấy có quá nhiều người không hề biết giá trị thời gian của mình là bao nhiêu, và làm thế nào để tăng giá trị đó.
+
+Vậy nên, câu hỏi là: *"Thời gian của bạn đáng giá bao nhiêu?"*
+
+Và quan trọng hơn: *"Thời gian của bạn cần phải đáng giá bao nhiêu để đạt được mục tiêu thu nhập?"*
+
+Nếu bạn không biết giá trị thời gian hiện tại và giá trị cần có, bạn không thể đưa ra quyết định hiệu quả về việc nên dành thời gian cho hoạt động nào, và nên để người khác làm những hoạt động nào.
 
 
 
