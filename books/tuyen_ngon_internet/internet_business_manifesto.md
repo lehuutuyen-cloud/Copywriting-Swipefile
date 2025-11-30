@@ -686,8 +686,41 @@ Và quan trọng hơn: *"Thời gian của bạn cần phải đáng giá bao nh
 
 Nếu bạn không biết giá trị thời gian hiện tại và giá trị cần có, bạn không thể đưa ra quyết định hiệu quả về việc nên dành thời gian cho hoạt động nào, và nên để người khác làm những hoạt động nào.
 
+Trong ô đầu tiên ở bên trái, bạn nhập số tiền mà bạn luôn mơ ước sẽ kiếm được khi sở hữu doanh nghiệp của riêng mình.
 
+Ở ô ngay bên dưới ô đó, hãy nhập số tiền bạn thực tế đã kiếm được trong 3 tháng vừa qua.
 
+Và ô dưới cùng chính là thu nhập của 3 tháng qua nhân với 4. Con số này cho biết bạn đang trên đà kiếm được bao nhiêu trong một năm với tốc độ hiện tại.
+
+<img width="305" height="235" alt="image" src="https://github.com/user-attachments/assets/22df26fc-084d-4426-a90a-a7de2865093e" />
+
+Bây giờ, bạn chỉ cần đơn giản lấy số tiền bạn muốn kiếm được (Mục tiêu), trừ đi số tiền bạn đang trên đà kiếm được (Thực tế hiện tại).
+
+Kết quả còn lại chính là Con số Kỳ diệu (Magic Number) của bạn. Đây là khoản tiền chênh lệch mà bạn cần phải kiếm thêm để đạt được giấc mơ của mình.
+
+Tiếp theo, bạn nhân Con số Kỳ diệu này với 0.1 (tức là 10%), rồi cộng ngược nó vào thu nhập hiện tại của bạn.
+
+Kết quả cuối cùng chính là Mục tiêu Thu nhập (Income Target) mới của bạn – con số mà chúng ta sẽ sử dụng ở bước tiếp theo.
+
+<img width="303" height="235" alt="image" src="https://github.com/user-attachments/assets/c3455cf8-6dcb-4ce2-adcc-924793ce7bfb" />
+
+Phòng khi bạn vẫn còn bối rối, đây là một ví dụ cụ thể.
+
+Nếu bạn nhìn theo biểu đồ, bạn có thể thấy mục tiêu thu nhập là 1 triệu đô-la một năm. Người này đã kiếm được 40.000 đô trong 3 tháng vừa qua, nghĩa là anh ta đang trên đà kiếm được 160.000 đô mỗi năm.
+
+Chúng ta lấy 1 triệu đô (mục tiêu) trừ đi 160.000 đô (thực tế), và bạn sẽ thấy anh ta còn thiếu 840.000 đô.
+
+Vì vậy, chúng ta lấy 10% của 840.000 đô, tức là được 84.000 đô.
+
+Chúng ta cộng 84.000 đô này vào 160.000 đô (số tiền anh ta đang kiếm được), và mục tiêu ngắn hạn mới của chúng ta là 244.000 đô-la.
+
+<img width="302" height="229" alt="image" src="https://github.com/user-attachments/assets/8c23d71c-ef7e-4d98-ad0d-e2222fe9ab6f" />
+
+Được rồi, vậy là giờ bạn đã có một mục tiêu tài chính mới để hướng tới.
+
+Làm thế nào để bạn đạt được nó?
+
+Bạn buộc phải thực hiện một số thay đổi nếu muốn đi đến đích, và điều cốt lõi bạn cần làm là thay đổi số tiền bạn có thể tạo ra trên mỗi giờ làm việc.
 
 
 
