@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-30 04:59:48",
+  "last_updated": "2025-12-14 02:06:12",
   "total_books": 8,
   "books": [
     {
@@ -99,6 +99,10 @@
         {
           "filename": "Convert_2.0_full.md",
           "path": "books/chuyen_doi_2_0_frank_kern/Convert_2.0_full.md"
+        },
+        {
+          "filename": "campaign_16_frank_kern_book_funnel.md",
+          "path": "books/chuyen_doi_2_0_frank_kern/campaign_16_frank_kern_book_funnel.md"
         },
         {
           "filename": "chapter_00_loi_mo_dau.md",
