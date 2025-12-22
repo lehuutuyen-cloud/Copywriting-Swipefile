@@ -1,7 +1,20 @@
 {
-  "last_updated": "2025-12-14 02:06:12",
-  "total_books": 8,
+  "last_updated": "2025-12-22 16:20:19",
+  "total_books": 9,
   "books": [
+    {
+      "id": "Open-loop",
+      "info": {
+        "title": "Open-Loop",
+        "id": "Open-loop"
+      },
+      "chapters": [
+        {
+          "filename": "Hieu-ung-Zeigarnik.md",
+          "path": "books/Open-loop/Hieu-ung-Zeigarnik.md"
+        }
+      ]
+    },
     {
       "id": "breakthrough_advertising",
       "info": {
