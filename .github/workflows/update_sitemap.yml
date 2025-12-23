@@ -1,13 +1,13 @@
-name: Update Sitemap Index
+name: Update Sitemap & Index
 
-# Kích hoạt khi có code được push vào nhánh main và có thay đổi trong thư mục books/
 on:
   push:
-    branches:
-      - main
+    branches: [ main, master ]
     paths:
-      - 'books/**'
+      - 'books/**'   # Chỉ chạy khi có thay đổi trong thư mục books
+  workflow_dispatch: # Cho phép bấm chạy thủ công
 
+# CẤP QUYỀN GHI (QUAN TRỌNG)
 permissions:
   contents: write
 
@@ -16,21 +16,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
+    # 1. Nâng cấp checkout lên v4 (Mới nhất)
+    - name: Checkout repo
+      uses: actions/checkout@v4
       with:
-        python-version: '3.x'
+        fetch-depth: 0 # Lấy toàn bộ lịch sử để check ngày tháng chuẩn hơn
 
-    - name: Run generation script
-      run: python scripts/generate_index.py
+    # 2. Nâng cấp Python setup lên v5
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
 
-    - name: Commit and Push changes
+    # 3. Chạy script tạo index (Cỗ máy phân loại)
+    - name: Run Index Generator
       run: |
-        git config --global user.name "GitHub Action Bot"
-        git config --global user.email "actions@github.com"
-        git add index.json
-        # Chỉ commit nếu có sự thay đổi
-        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update index.json sitemap" && git push)
+        python scripts/generate_index.py
+
+    # 4. Cam kết thay đổi (Commit changes)
+    - name: Commit and Push changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "🤖 AUTO: Update Library Index & Sitemap"
+        file_pattern: 'index.json README.md books/**/metadata.json'
