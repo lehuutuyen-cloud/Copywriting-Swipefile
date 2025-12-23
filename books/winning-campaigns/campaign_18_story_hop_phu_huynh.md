@@ -178,7 +178,7 @@ Ai làm ba mẹ luôn muốn con ngoan, nhưng ngoan không phải là im lặng
 Lần trước tôi mua qua link này, được miễn phí vận chuyển và tặng kèm quà cho trẻ. Không biết giờ còn ưu đãi không, nhưng bạn có thể thử truy cập xem sao: [LINK]
 
 ---
-
+![IMG_0714](https://github.com/user-attachments/assets/275e136f-84a4-49f9-a7e6-8651d8910fc2)
 
 ---
 
