@@ -1,10 +1,10 @@
 # CAMPAIGN ANALYSIS: STORY HỌP PHỤ HUYNH & BỘ SÁCH GIEO MẦM
 
-**Niche:** Giáo dục / Nuôi dạy con (Parenting)
-**Format:** Facebook Ad (Long-form Storytelling)
-**Status:** Winning Campaign (2k Likes, 250+ Shares)
-**Core Strategy:** Trojan Horse (Con ngựa gỗ thành Troy) - Bán hàng qua câu chuyện.
-
+- **Niche:** Giáo dục / Nuôi dạy con (Parenting)
+- **Format:** Facebook Ad (Long-form Storytelling)
+- **Status:** Winning Campaign (2k Likes, 250+ Shares)
+- **Core Strategy:** Trojan Horse (Con ngựa gỗ thành Troy) - Bán hàng qua câu chuyện.
+- **Nguồn:** [Bài Post Facebook](https://www.facebook.com/share/1DZiKfVzEA/?mibextid=wwXIfr)
 ---
 
 ## 1. GIẢI PHẪU TƯ DUY & CHIẾN LƯỢC (DECONSTRUCTION)
