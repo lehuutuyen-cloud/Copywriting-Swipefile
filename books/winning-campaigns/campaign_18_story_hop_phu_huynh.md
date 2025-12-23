@@ -57,7 +57,24 @@ Bài viết này là một bậc thầy về việc gieo và gặt các vòng l�
 
 ---
 
-## 3. NGUYÊN VĂN BÀI VIẾT (SWIPE FILE)
+## 3. Cấu trúc Nested Loops được áp dụng:
+* **⭕ Loop A (Macro Loop - Vòng lặp bao trùm):** Buổi họp phụ huynh định mệnh thay đổi cuộc đời.
+    * *Mở:* "Tôi chưa từng nghĩ một buổi họp lại thay đổi cả cuộc đời..."
+    * *Tác dụng:* Neo giữ sự chú ý từ đầu đến cuối (Big Hook).
+    * **⭕ Loop B (Drama Loop - Vòng lặp kịch tính):** Kế hoạch tán tỉnh cô giáo của đứa cháu.
+        * *Mở:* Cháu gái đưa ra kế hoạch 5 bước. (Liệu có thành công không?)
+        * *Tác dụng:* "Greased Slide" (Cầu trượt dầu) - Giữ người đọc trượt qua phần thân bài bằng yếu tố giải trí.
+        * **⭕ Loop C (Mystery Loop - Vòng lặp bí ẩn):** Tại sao đứa trẻ lại thông minh đến thế?
+            * *Mở:* Chú thắc mắc "Ai dạy cháu vậy?"
+            * *Giải đáp (The Reveal):* **SẢN PHẨM XUẤT HIỆN**. (Bộ sách là câu trả lời).
+    * **🔒 Đóng Loop B:** Ông chú tán được cô giáo. (Chứng minh hiệu quả thực tế của sản phẩm/lời khuyên).
+* **🔒 Đóng Loop A:** Bài học cuộc đời được rút ra -> Dẫn về Offer.
+
+**💡 Key Takeaway:** Tác giả không giới thiệu sản phẩm ngay. Tác giả mở Loop C (Bí ẩn về trí thông minh), và dùng sản phẩm để **ĐÓNG** Loop đó. Theo hiệu ứng Zeigarnik, não bộ khao khát tìm mảnh ghép còn thiếu, và sản phẩm chính là mảnh ghép đó.
+
+---
+
+## 4. NGUYÊN VĂN BÀI VIẾT (SWIPE FILE)
 
 *(Lưu ý: Đây là tư liệu tham khảo. Không sao chép y nguyên cho sản phẩm khác mà hãy mô hình hóa cấu trúc).*
 
