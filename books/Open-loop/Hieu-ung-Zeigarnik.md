@@ -107,6 +107,18 @@ Mở nhiều vòng lặp chồng lên nhau. Bạn mở A, chưa đóng A đã m�
 * **(Đóng B):** "Người đàn ông đó chính là triệu phú ẩn danh, và công thức đó đã cứu công ty tôi."
 * **(Đóng A):** "Hôm nay, tôi sẽ dạy lại công thức 'Mua tiền' đó trong chương trình này."
 
+**Mô hình Nested Loops (Của Chaperon - Gây nghiện):**
+* Mở A (Vấn đề lớn: Làm sao bán hàng giá cao?).
+  * Mở B (Câu chuyện: Tôi từng thất bại thảm hại...).
+    * Mở C (Chi tiết nhỏ: Lúc đó tôi gặp một người thầy...).
+    * Đóng C (Người thầy dạy tôi một chiêu).
+  * Đóng B (Nhờ chiêu đó tôi thoát nợ).
+* *...Vẫn chưa Đóng A!* (Khách hàng vẫn chưa biết chiêu đó cụ thể áp dụng vào giá cao thế nào).
+* Mở D (Vấn đề mới nảy sinh...).
+* Đóng A (Cuối cùng mới giải quyết vấn đề giá cao).
+
+→ **Tác dụng:** Khách hàng bị "nhốt" trong ma trận nội dung. Họ không thể thoát ra vì luôn có một câu hỏi chưa được giải đáp.
+
 ---
 
 ## 🛡️ QUY TẮC VÀNG: "ĐỪNG LÀM DỤNG"
