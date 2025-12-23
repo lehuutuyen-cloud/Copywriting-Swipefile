@@ -1,7 +1,7 @@
 # 📘 GIÁO TRÌNH: NGHỆ THUẬT ĐIỀU KHIỂN TÂM TRÍ (MASTERING OPEN LOOPS)
-**Chuyên đề:** Ứng dụng Hiệu ứng Zeigarnik trong Copywriting & Email Marketing
-**Biên soạn:** [Tên Của Bạn] & Phiên bản AI: GEM-Copywriter
-**Phiên bản:** 1.0 (The Machine Integration)
+- **Chuyên đề:** Ứng dụng Hiệu ứng Zeigarnik trong Copywriting & Email Marketing
+- **Biên soạn:** Lê Hữu Tuyến
+- **Phiên bản:** 1.0 (The Machine Integration)
 
 ---
 
