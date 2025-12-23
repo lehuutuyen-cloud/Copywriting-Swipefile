@@ -175,7 +175,7 @@ Ai làm ba mẹ luôn muốn con ngoan, nhưng ngoan không phải là im lặng
 
 Điều trẻ cần nhất…là trí tuệ cảm xúc và khả năng tự bảo vệ mình.
 
-Lần trước tôi mua qua link này, được miễn phí vận chuyển và tặng kèm quà cho trẻ. Không biết giờ còn ưu đãi không, nhưng bạn có thể thử truy cập xem sao: [LINK]
+Lần trước tôi mua qua link này, được miễn phí vận chuyển và tặng kèm quà cho trẻ. Không biết giờ còn ưu đãi không, nhưng bạn có thể thử truy cập xem sao: [LINK](https://www.hanhphuc360.com.vn/bo.sach.uom.mam.nhan.cach/?utm_source=hoanganh11.3.bid.72K.35.50&fbclid=IwdGRleAO3DZ1leHRuA2FlbQEwAGFkaWQBqyun2RrgqXNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR6rbzmVZtGUk5flLWE1Lo4lT67_aLX0TI5vr_XrGoeDJvOM0yqpRRWze6bmtA_aem_bioUzBJ2JzAGzwhlwKotuQ&utm_medium=paid&utm_id=120237814781530233&utm_content=120237814781550233&utm_term=120237814781560233&utm_campaign=120237814781530233)
 
 ---
 ![IMG_0714](https://github.com/user-attachments/assets/275e136f-84a4-49f9-a7e6-8651d8910fc2)
