@@ -24,6 +24,7 @@ Sau khi hoàn thành giáo trình này, học viên sẽ:
 ### 2. Triết lý của các Bậc thầy
 * **Joe Sugarman:** "Mục đích duy nhất của câu thứ nhất là khiến họ đọc câu thứ hai."
 * **André Chaperon:** "Đừng bao giờ kể hết câu chuyện trong một email. Hãy luôn để lại một mảnh ghép thiếu."
+   * *Tác giả:* Của khóa học nổi tiếng AutoResponder Madness. Ông là người tiên phong đưa kỹ thuật "Soap Opera Sequences" (Chuỗi email phim dài tập) vào email marketing. Ông định nghĩa Open Loop là việc tạo ra một "khoảng trống thông tin" (information gap) khiến não bộ người đọc không thể yên lòng cho đến khi nó được đóng lại.
 * **Tư duy The Machine:** Chúng ta không bán sản phẩm ngay lập tức. Chúng ta bán **Lần Click tiếp theo** hoặc **Lần Mở Email tiếp theo**.
 
 ---
