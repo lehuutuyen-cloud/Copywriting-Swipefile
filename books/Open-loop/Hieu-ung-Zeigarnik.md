@@ -22,11 +22,14 @@ Sau khi hoàn thành giáo trình này, học viên sẽ:
 * **Open Loop trong Marketing:** Là nghệ thuật tạo ra một **Khoảng trống thông tin (Information Gap)**. Đó là khoảng cách giữa "Điều họ đã biết" và "Điều họ khao khát muốn biết".
 
 ### 2. Triết lý của các Bậc thầy
-* **Triết lý:** *Sự căng thẳng -> tạo ra sự Chú Ý -> Tạo ra thẩm quyền*
 * **Joe Sugarman:** "Mục đích duy nhất của câu thứ nhất là khiến họ đọc câu thứ hai."
 * **André Chaperon:** "Đừng bao giờ kể hết câu chuyện trong một email. Hãy luôn để lại một mảnh ghép thiếu."
    * *Tác giả:* Của khóa học nổi tiếng AutoResponder Madness. Ông định nghĩa Open Loop là việc tạo ra một "khoảng trống thông tin" (information gap) khiến não bộ người đọc không thể yên lòng cho đến khi nó được đóng lại.
 * **Tư duy The Machine:** Chúng ta không bán sản phẩm ngay lập tức. Chúng ta bán **Lần Click tiếp theo** hoặc **Lần Mở Email tiếp theo**.
+
+### 3. Nguyên tắc
+* **Quy tắc chung:** Không bao giờ được đóng vòng lặp -> mà không mở ra vòng lặp mới. *Mở một vòng lặp -> đóng vòng lặp -> lại mở vòng lặp mới -> lại đóng vòng lặp mới... cứ thế cho tới khi kết bài*
+* **Triết lý:** *Sự căng thẳng -> tạo ra sự Chú Ý -> Tạo ra thẩm quyền*
 
 ---
 
